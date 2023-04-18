@@ -21,6 +21,14 @@
 - [Parameter-Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
 
 ## Personalization Methods
+**Identity Encoder for Personalized Diffusion.**<br>
+*Yu-Chuan Su, Kelvin C. K. Chan, Yandong Li, Yang Zhao, Han Zhang, Boqing Gong, Huisheng Wang, Xuhui Jia.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.07429v1)]
+
+**DiffFit: Unlocking Transferability of Large Diffusion Models Via Simple Parameter-Efficient Fine-Tuning.**<br>
+*Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06648v1)]
+
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA.**<br>
 *James Seale Smith, Yen-Chang Hsu, Lingyu Zhang, Ting Hua, Zsolt Kira, Yilin Shen, Hongxia Jin.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06027v1)][[Link](https://jamessealesmith.github.io/continual-diffusion/)]

@@ -119,9 +119,17 @@ The NLP PEFT methods which have been proposed to diffusion models are marked by 
 *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Link](https://github.com/Xiang-cd/unet-finetune)]
 
+**📌 DyLoRA: Parameter Efficient Tuning of Pre-trained Models Using Dynamic Search-Free Low-Rank Adaptation.**<br>
+*Mojtaba Valipour, Mehdi Rezagholizadeh, Ivan Kobyzev, Ali Ghodsi.*<br>
+arXiv 2022. [[PDF](http://arxiv.org/abs/2210.07558v2)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
+
 **📌 FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated Learning.**<br>
 *Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh.*<br>
-ICLR 2022. [[PDF](http://arxiv.org/abs/2108.06098v3)]
+ICLR 2022. [[PDF](http://arxiv.org/abs/2108.06098v3)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
+
+**📌 Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning**<br>
+*Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin A. Raffel*<br>
+NIPS 2022. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/0cde695b83bd186c1fd456302888454c-Paper-Conference.pdf)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
 
 **📌 LoRA: Low-Rank Adaptation of Large Language Models.**<br>
 *Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen.*<br>

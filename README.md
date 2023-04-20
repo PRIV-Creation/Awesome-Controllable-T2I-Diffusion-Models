@@ -9,18 +9,15 @@
 </p>
 <br />
 
-### Feature
+We are focusing on how to efficiently learn a `concept`/`object`/`style` based on large diffusion models. 
+
+## 🎉 Feature
 - [x] **Personalization**: Learning a ```concept``` from few data and generate images containing it.
 - [ ] **Inversion**: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
 - [ ] **Editing**: Editing the latent representation to manipulate the generated images.
-- [ ] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-- [Personalization Methods](#personalization-methods)
-- [Inversion](#inversion)
-- [Parameter-Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
+- [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
-## Personalization Methods
+## ⭐ Personalization Methods
 **Identity Encoder for Personalized Diffusion.**<br>
 *Yu-Chuan Su, Kelvin C. K. Chan, Yandong Li, Yang Zhao, Han Zhang, Boqing Gong, Huisheng Wang, Xuhui Jia.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2304.07429v1)]
@@ -97,7 +94,7 @@ arXiv 2022. [[PDF](http://arxiv.org/abs/2208.01618v1)][[Link](https://textual-in
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman.*<br>
 CVPR 2023. [[PDF](http://arxiv.org/abs/2208.12242v2)][[Link](https://dreambooth.github.io/)]
 
-## Inversion
+## 🏹 Inversion
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br> 
 CVPR 2023. [PDF] [Project] [Github]
@@ -113,14 +110,31 @@ ICLR 2023 (Oral). [PDF] [Project] [Github]
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br> 
 ICLR 2023. [PDF] [Project] [Github]
+:high_speed_train:
 
+## 🚄 Parameter-Efficient Fine-Tuning
+The NLP PEFT methods which have been proposed to diffusion models are marked by 📌, and the methods designed for diffusion are marked by 💎.
 
-## Parameter-Efficient Fine-Tuning
-**FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated Learning.**<br>
-*Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh.*<br> 
+**💎 A Closer Look at Parameter-Efficient Tuning in Diffusion Models.**<br>
+*Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Link](https://github.com/Xiang-cd/unet-finetune)]
+
+**📌 FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated Learning.**<br>
+*Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh.*<br>
 ICLR 2022. [[PDF](http://arxiv.org/abs/2108.06098v3)]
 
-**LoRA: Low-Rank Adaptation of Large Language Models.**<br>
+**📌 LoRA: Low-Rank Adaptation of Large Language Models.**<br>
 *Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen.*<br>
 arXiv 2021. [[PDF](http://arxiv.org/abs/2106.09685v2)]
 
+**The Power of Scale for Parameter-Efficient Prompt Tuning.**<br>
+*Brian Lester, Rami Al-Rfou, Noah Constant.*<br>
+EMNLP 2021. [[PDF](http://arxiv.org/abs/2104.08691v2)]
+
+**Prefix-Tuning: Optimizing Continuous Prompts for Generation.**<br>
+*Xiang Lisa Li, Percy Liang.*<br>
+ACL 2021. [[PDF](http://arxiv.org/abs/2101.00190v1)]
+
+**Parameter-Efficient Transfer Learning for NLP.**<br>
+*Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly.*<br>
+PMLR 2019. [[PDF](http://arxiv.org/abs/1902.00751v2)]

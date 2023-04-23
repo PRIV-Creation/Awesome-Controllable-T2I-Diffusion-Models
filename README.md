@@ -13,8 +13,8 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 
 ## 🎉 Feature
 - [x] **Personalization**: Learning a ```concept``` from few data and generate images containing it.
-- [ ] **Inversion**: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
-- [ ] **Editing**: Editing the latent representation to manipulate the generated images.
+- [ ] **Inversion** [Doing]: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
+- [ ] **Editing** [TODO]: Editing the latent representation to manipulate the generated images.
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## ⭐ Personalization Methods
@@ -111,6 +111,9 @@ ICLR 2023 (Oral). [PDF] [Project] [Github]
 Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br> 
 ICLR 2023. [PDF] [Project] [Github]
 :high_speed_train:
+
+## 🎨 Editing
+TODO
 
 ## 🚄 Parameter-Efficient Fine-Tuning
 The NLP PEFT methods which have been proposed to diffusion models are marked by 📌, and the methods designed for diffusion are marked by 💎.

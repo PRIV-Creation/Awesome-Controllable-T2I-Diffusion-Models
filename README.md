@@ -18,13 +18,21 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## ⭐ Personalization Methods
+**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation.**<br>
+*Hong Chen, Yipeng Zhang, Xin Wang, Xuguang Duan, Yuwei Zhou, Wenwu Zhu.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03374v1)]
+
+**Key-Locked Rank One Editing for Text-to-Image Personalization.**<br>
+*Yoad Tewel, Rinon Gal, Gal Chechik, Yuval Atzmon.*<br>
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.01644v1)][[Link](https://research.nvidia.com/labs/par/Perfusion/)]
+
 **Identity Encoder for Personalized Diffusion.**<br>
 *Yu-Chuan Su, Kelvin C. K. Chan, Yandong Li, Yang Zhao, Han Zhang, Boqing Gong, Huisheng Wang, Xuhui Jia.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2304.07429v1)]
 
 **DiffFit: Unlocking Transferability of Large Diffusion Models Via Simple Parameter-Efficient Fine-Tuning.**<br>
 *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06648v1)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06648v5)]
 
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA.**<br>
 *James Seale Smith, Yen-Chang Hsu, Lingyu Zhang, Ting Hua, Zsolt Kira, Yilin Shen, Hongxia Jin.*<br>

@@ -94,6 +94,10 @@ arXiv 2022. [[PDF](http://arxiv.org/abs/2212.04489v1)][[Link](https://zhang-zx.g
 *Nupur Kumari, Bingliang Zhang, Richard Zhang, Eli Shechtman, Jun-Yan Zhu.*<br>
 arXiv 2022. [[PDF](http://arxiv.org/abs/2212.04488v1)][[Link](https://www.cs.cmu.edu/~custom-diffusion)]
 
+**DreamArtist: Towards Controllable One-Shot Text-to-Image Generation Via Positive-Negative Prompt-Tuning.**<br>
+*Ziyi Dong, Pengxu Wei, Liang Lin.*<br>
+arXiv 2022. [[PDF](http://arxiv.org/abs/2211.11337v3)]
+
 **An Image Is Worth One Word: Personalizing Text-to-Image Generation Using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
 arXiv 2022. [[PDF](http://arxiv.org/abs/2208.01618v1)][[Link](https://textual-inversion.github.io)]

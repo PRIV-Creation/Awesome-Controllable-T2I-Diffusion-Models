@@ -18,6 +18,10 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## ⭐ Personalization Methods
+**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention.**<br>
+*Guangxuan Xiao, Tianwei Yin, William T. Freeman, Frédo Durand, Song Han.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.10431v1)]
+
 **DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation.**<br>
 *Hong Chen, Yipeng Zhang, Xin Wang, Xuguang Duan, Yuwei Zhou, Wenwu Zhu.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03374v1)]

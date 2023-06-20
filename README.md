@@ -18,6 +18,34 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## ⭐ Personalization Methods
+**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
+*Yifei Zeng, Yuanxun Lu, Xinya Ji, Yao Yao, Hao Zhu, Xun Cao.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.09864v1)][[Link](https://zeng-yifei.github.io/avatarbooth_page/)]
+
+**Controlling Text-to-Image Diffusion by Orthogonal Finetuning.**<br>
+*Zeju Qiu, Weiyang Liu, Haiwen Feng, Yuxuan Xue, Yao Feng, Zhen Liu, Dan Zhang, Adrian Weller, Bernhard Schölkopf.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.07280v1)][[Link](https://oft.wyliu.com/))]
+
+**Face0: Instantaneously Conditioning A Text-to-Image Model on A Face.**<br>
+*Dani Valevski, Danny Wasserman, Yossi Matias, Yaniv Leviathan.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.06638v1)]
+
+**Cones 2: Customizable Image Synthesis with Multiple Subjects.**<br>
+*Zhiheng Liu, Yifei Zhang, Yujun Shen, Kecheng Zheng, Kai Zhu, Ruili Feng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19327v1)]
+
+**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models.**<br>
+*Yuchao Gu, Xintao Wang, Jay Zhangjie Wu, Yujun Shi, Yunpeng Chen, Zihan Fan, Wuyou Xiao, Rui Zhao, Shuning Chang, Weijia Wu, Yixiao Ge, Ying Shan, Mike Zheng Shou.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.18292v1)]
+
+**Photoswap: Personalized Subject Swapping in Images.**<br>
+*Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.18286v1)]
+
+**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing.**<br>
+*Dongxu Li, Junnan Li, Steven C. H. Hoi.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14720v1)]
+
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention.**<br>
 *Guangxuan Xiao, Tianwei Yin, William T. Freeman, Frédo Durand, Song Han.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.10431v1)]
@@ -133,6 +161,18 @@ TODO
 
 ## 🚄 Parameter-Efficient Fine-Tuning
 The NLP PEFT methods which have been proposed to diffusion models are marked by 📌, and the methods designed for diffusion are marked by 💎.
+
+**Parameter-efficient Is Not Sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions.**<br>
+*Dongshuo Yin, Xueting Han, Bin Li, Hao Feng, Jing Bai.*<br>
+NeurIPS2023. [[PDF](http://arxiv.org/abs/2306.09729v1)]
+
+**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning.**<br>
+*Arnav Chavan, Zhuang Liu, Deepak Gupta, Eric Xing, Zhiqiang Shen.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.07967v1)]
+
+**Visual Tuning.**<br>
+*Bruce X. B. Yu, Jianlong Chang, Haixin Wang, Lingbo Liu, Shijie Wang, Zhiyu Wang, Junfan Lin, Lingxi Xie, Haojie Li, Zhouchen Lin, Qi Tian, Chang Wen Chen.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.06061v1)]
 
 **💎 A Closer Look at Parameter-Efficient Tuning in Diffusion Models.**<br>
 *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*<br>

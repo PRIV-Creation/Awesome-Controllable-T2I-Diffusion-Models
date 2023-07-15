@@ -18,6 +18,14 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## ⭐ Personalization Methods
+**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models.**<br>
+*Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, Yael Pritch, Neal Wadhwa, Michael Rubinstein, Kfir Aberman.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2307.06949v1)][[Link](https://hyperdreambooth.github.io)]
+
+**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models.**<br>
+*Moab Arar, Rinon Gal, Yuval Atzmon, Gal Chechik, Daniel Cohen-Or, Ariel Shamir, Amit H. Bermano.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2307.06925v1)][[Link](https://datencoder.github.io)]
+
 **AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
 *Yifei Zeng, Yuanxun Lu, Xinya Ji, Yao Yao, Hao Zhu, Xun Cao.*<br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2306.09864v1)][[Link](https://zeng-yifei.github.io/avatarbooth_page/)]

@@ -11,6 +11,9 @@
 
 We are focusing on how to efficiently learn a `concept`/`object`/`style` based on large diffusion models. 
 
+## 🌈 UniDiffusion
+We are building a Diffusion Training repository [UniDiffusion](https://github.com/PRIV-Creation/UniDiffusion). UniDiffusion is aimed at researchers and users who wish to deeply customize the training of stable diffusion. We hope that this code repository can provide excellent support for future research and application extensions.
+
 ## 🎉 Feature
 - [x] **Personalization**: Learning a ```concept``` from few data and generate images containing it.
 - [ ] **Inversion** [Doing]: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
@@ -20,47 +23,47 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 ## ⭐ Personalization Methods
 **HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models.**<br>
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, Yael Pritch, Neal Wadhwa, Michael Rubinstein, Kfir Aberman.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2307.06949v1)][[Link](https://hyperdreambooth.github.io)]
+arXiv 2023.07. [[PDF](http://arxiv.org/abs/2307.06949v1)][[Github](https://hyperdreambooth.github.io)]
 
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models.**<br>
 *Moab Arar, Rinon Gal, Yuval Atzmon, Gal Chechik, Daniel Cohen-Or, Ariel Shamir, Amit H. Bermano.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2307.06925v1)][[Link](https://datencoder.github.io)]
+arXiv 2023.07. [[PDF](http://arxiv.org/abs/2307.06925v1)][[Github](https://datencoder.github.io)]
 
 **AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
 *Yifei Zeng, Yuanxun Lu, Xinya Ji, Yao Yao, Hao Zhu, Xun Cao.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2306.09864v1)][[Link](https://zeng-yifei.github.io/avatarbooth_page/)]
+arXiv 2023.06. [[PDF](http://arxiv.org/abs/2306.09864v1)][[Github](https://zeng-yifei.github.io/avatarbooth_page/)]
 
 **Controlling Text-to-Image Diffusion by Orthogonal Finetuning.**<br>
 *Zeju Qiu, Weiyang Liu, Haiwen Feng, Yuxuan Xue, Yao Feng, Zhen Liu, Dan Zhang, Adrian Weller, Bernhard Schölkopf.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2306.07280v1)][[Link](https://oft.wyliu.com/))]
+arXiv 2023.06. [[PDF](http://arxiv.org/abs/2306.07280v1)][[Link](https://oft.wyliu.com/))]
 
 **Face0: Instantaneously Conditioning A Text-to-Image Model on A Face.**<br>
 *Dani Valevski, Danny Wasserman, Yossi Matias, Yaniv Leviathan.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2306.06638v1)]
+arXiv 2023.06. [[PDF](http://arxiv.org/abs/2306.06638v1)]
 
 **Cones 2: Customizable Image Synthesis with Multiple Subjects.**<br>
 *Zhiheng Liu, Yifei Zhang, Yujun Shen, Kecheng Zheng, Kai Zhu, Ruili Feng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19327v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.19327v1)]
 
 **Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models.**<br>
 *Yuchao Gu, Xintao Wang, Jay Zhangjie Wu, Yujun Shi, Yunpeng Chen, Zihan Fan, Wuyou Xiao, Rui Zhao, Shuning Chang, Weijia Wu, Yixiao Ge, Ying Shan, Mike Zheng Shou.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.18292v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.18292v1)]
 
 **Photoswap: Personalized Subject Swapping in Images.**<br>
 *Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.18286v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.18286v1)]
 
 **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing.**<br>
 *Dongxu Li, Junnan Li, Steven C. H. Hoi.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14720v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.14720v2)]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention.**<br>
 *Guangxuan Xiao, Tianwei Yin, William T. Freeman, Frédo Durand, Song Han.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.10431v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.10431v2)]
 
-**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation.**<br>
+**DisenBooth: Identity-Preserving Disentangled Tuning for Subject-Driven Text-to-Image Generation.**<br>
 *Hong Chen, Yipeng Zhang, Xin Wang, Xuguang Duan, Yuwei Zhou, Wenwu Zhu.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03374v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.03374v2)]
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization.**<br>
 *Yoad Tewel, Rinon Gal, Gal Chechik, Yuval Atzmon.*<br>
@@ -68,83 +71,83 @@ SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.01644v1)][[Link](https://researc
 
 **Identity Encoder for Personalized Diffusion.**<br>
 *Yu-Chuan Su, Kelvin C. K. Chan, Yandong Li, Yang Zhao, Han Zhang, Boqing Gong, Huisheng Wang, Xuhui Jia.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.07429v1)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.07429v1)]
 
 **DiffFit: Unlocking Transferability of Large Diffusion Models Via Simple Parameter-Efficient Fine-Tuning.**<br>
 *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06648v5)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.06648v5)]
 
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA.**<br>
 *James Seale Smith, Yen-Chang Hsu, Lingyu Zhang, Ting Hua, Zsolt Kira, Yilin Shen, Hongxia Jin.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06027v1)][[Link](https://jamessealesmith.github.io/continual-diffusion/)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.06027v1)][[Github](https://jamessealesmith.github.io/continual-diffusion/)]
 
 **Gradient-Free Textual Inversion.**<br>
 *Zhengcong Fei, Mingyuan Fan, Junshi Huang.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.05818v1)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.05818v1)]
 
 **Controllable Textual Inversion for Personalized Text-to-Image Generation.**<br>
 *Jianan Yang, Haobo Wang, Ruixuan Xiao, Sai Wu, Gang Chen, Junbo Zhao.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.05265v2)][[Link](https://github.com/jnzju/COTI)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.05265v2)][[Github](https://github.com/jnzju/COTI)]
 
 **InstantBooth: Personalized Text-to-Image Generation Without Test-Time Finetuning.**<br>
 *Jing Shi, Wei Xiong, Zhe Lin, Hyun Joon Jung.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.03411v1)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.03411v1)]
 
 **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models.**<br>
 *Xuhui Jia, Yang Zhao, Kelvin C. K. Chan, Yandong Li, Han Zhang, Boqing Gong, Tingbo Hou, Huisheng Wang, Yu-Chuan Su.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.02642v1)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.02642v1)]
 
 **Subject-driven Text-to-Image Generation Via Apprenticeship Learning.**<br>
 *Wenhu Chen, Hexiang Hu, Yandong Li, Nataniel Ruiz, Xuhui Jia, Ming-Wei Chang, William W. Cohen.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.00186v2)]
+arXiv 2023.04. [[PDF](http://arxiv.org/abs/2304.00186v4)]
 
 **A Closer Look at Parameter-Efficient Tuning in Diffusion Models.**<br>
 *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Link](https://github.com/Xiang-cd/unet-finetune)]
+arXiv 2023.03. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Github](https://github.com/Xiang-cd/unet-finetune)]
 
 **SVDiff: Compact Parameter Space for Diffusion Fine-Tuning.**<br>
 *Ligong Han, Yinxiao Li, Han Zhang, Peyman Milanfar, Dimitris Metaxas, Feng Yang.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2303.11305v3)]
+arXiv 2023.03. [[PDF](http://arxiv.org/abs/2303.11305v4)]
 
-**$P+$: Extended Textual Conditioning in Text-to-Image Generation.**<br>
+**P+: Extended Textual Conditioning in Text-to-Image Generation.**<br>
 *Andrey Voynov, Qinghao Chu, Daniel Cohen-Or, Kfir Aberman.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2303.09522v2)]
+arXiv 2023.03. [[PDF](http://arxiv.org/abs/2303.09522v3)]
 
 **Cones: Concept Neurons in Diffusion Models for Customized Generation.**<br>
 *Zhiheng Liu, Ruili Feng, Kai Zhu, Yifei Zhang, Kecheng Zheng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2303.05125v1)]
+arXiv 2023.03. [[PDF](http://arxiv.org/abs/2303.05125v1)]
 
 **ELITE: Encoding Visual Concepts Into Textual Embeddings for Customized Text-to-Image Generation.**<br>
 *Yuxiang Wei, Yabo Zhang, Zhilong Ji, Jinfeng Bai, Lei Zhang, Wangmeng Zuo.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2302.13848v1)]
+arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.13848v1)]
 
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models.**<br>
 *Rinon Gal, Moab Arar, Yuval Atzmon, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2302.12228v3)][[Link](https://tuning-encoder.github.io/)]
+arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.12228v3)][[Github](https://tuning-encoder.github.io/)]
 
-**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation.**<br>
+**Is This Loss Informative? Faster Text-to-Image Customization by Tracking Objective Dynamics.**<br>
 *Anton Voronov, Mikhail Khoroshikh, Artem Babenko, Max Ryabinin.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2302.04841v1)][[Link](https://github.com/yandex-research/DVAR.)]
+arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.04841v2)][[Github](https://github.com/yandex-research/DVAR.)]
 
 **SINE: SINgle Image Editing with Text-to-Image Diffusion Models.**<br>
 *Zhixing Zhang, Ligong Han, Arnab Ghosh, Dimitris Metaxas, Jian Ren.*<br>
-arXiv 2022. [[PDF](http://arxiv.org/abs/2212.04489v1)][[Link](https://zhang-zx.github.io/SINE/)]
+arXiv 2022.12. [[PDF](http://arxiv.org/abs/2212.04489v1)][[Github](https://zhang-zx.github.io/SINE/)]
 
 **Multi-Concept Customization of Text-to-Image Diffusion.**<br>
 *Nupur Kumari, Bingliang Zhang, Richard Zhang, Eli Shechtman, Jun-Yan Zhu.*<br>
-arXiv 2022. [[PDF](http://arxiv.org/abs/2212.04488v1)][[Link](https://www.cs.cmu.edu/~custom-diffusion)]
+arXiv 2022.12. [[PDF](http://arxiv.org/abs/2212.04488v2)][[Link](https://www.cs.cmu.edu/~custom-diffusion/dataset.html)][[Link](https://www.cs.cmu.edu/~custom-diffusion)]
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation Via Positive-Negative Prompt-Tuning.**<br>
 *Ziyi Dong, Pengxu Wei, Liang Lin.*<br>
-arXiv 2022. [[PDF](http://arxiv.org/abs/2211.11337v3)]
+arXiv 2022.11. [[PDF](http://arxiv.org/abs/2211.11337v3)]
 
 **An Image Is Worth One Word: Personalizing Text-to-Image Generation Using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-arXiv 2022. [[PDF](http://arxiv.org/abs/2208.01618v1)][[Link](https://textual-inversion.github.io)]
+arXiv 2022.08. [[PDF](http://arxiv.org/abs/2208.01618v1)][[Github](https://textual-inversion.github.io)]
 
 **DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation.**<br>
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman.*<br>
-CVPR 2023. [[PDF](http://arxiv.org/abs/2208.12242v2)][[Link](https://dreambooth.github.io/)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2208.12242v2)][[Github](https://dreambooth.github.io/)]
 
 ## 🏹 Inversion
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
@@ -176,39 +179,47 @@ NeurIPS2023. [[PDF](http://arxiv.org/abs/2306.09729v1)]
 
 **One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning.**<br>
 *Arnav Chavan, Zhuang Liu, Deepak Gupta, Eric Xing, Zhiqiang Shen.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2306.07967v1)]
+arXiv 2023.06. [[PDF](http://arxiv.org/abs/2306.07967v1)]
 
 **Visual Tuning.**<br>
 *Bruce X. B. Yu, Jianlong Chang, Haixin Wang, Lingbo Liu, Shijie Wang, Zhiyu Wang, Junfan Lin, Lingxi Xie, Haojie Li, Zhouchen Lin, Qi Tian, Chang Wen Chen.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.06061v1)]
+arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.06061v1)]
 
 **💎 A Closer Look at Parameter-Efficient Tuning in Diffusion Models.**<br>
 *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Link](https://github.com/Xiang-cd/unet-finetune)]
+arXiv 2023.03. [[PDF](http://arxiv.org/abs/2303.18181v2)][[Github](https://github.com/Xiang-cd/unet-finetune)]
+
+**Towards Efficient Visual Adaption Via Structural Re-parameterization.**<br>
+*Gen Luo, Minglang Huang, Yiyi Zhou, Xiaoshuai Sun, Guannan Jiang, Zhiyu Wang, Rongrong Ji.*<br>
+arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.08106v2)]
 
 **📌 DyLoRA: Parameter Efficient Tuning of Pre-trained Models Using Dynamic Search-Free Low-Rank Adaptation.**<br>
 *Mojtaba Valipour, Mehdi Rezagholizadeh, Ivan Kobyzev, Ali Ghodsi.*<br>
-arXiv 2022. [[PDF](http://arxiv.org/abs/2210.07558v2)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
+arXiv 2022.10. [[PDF](http://arxiv.org/abs/2210.07558v2)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
+
+**📌 Few-Shot Parameter-Efficient Fine-Tuning Is Better and Cheaper Than In-Context Learning.**<br>
+*Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel.*<br>
+arXiv 2022.05. [[PDF](http://arxiv.org/abs/2205.05638v2)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
 
 **📌 FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated Learning.**<br>
 *Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh.*<br>
 ICLR 2022. [[PDF](http://arxiv.org/abs/2108.06098v3)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
 
-**📌 Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning**<br>
-*Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin A. Raffel*<br>
-NIPS 2022. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/0cde695b83bd186c1fd456302888454c-Paper-Conference.pdf)] [[Diffusion Impl.:KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/tree/main)]
-
 **📌 LoRA: Low-Rank Adaptation of Large Language Models.**<br>
 *Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen.*<br>
-arXiv 2021. [[PDF](http://arxiv.org/abs/2106.09685v2)]
+arXiv 2021.06. [[PDF](http://arxiv.org/abs/2106.09685v2)]
 
 **The Power of Scale for Parameter-Efficient Prompt Tuning.**<br>
 *Brian Lester, Rami Al-Rfou, Noah Constant.*<br>
-EMNLP 2021. [[PDF](http://arxiv.org/abs/2104.08691v2)]
+arXiv 2021.04. [[PDF](http://arxiv.org/abs/2104.08691v2)]
 
 **Prefix-Tuning: Optimizing Continuous Prompts for Generation.**<br>
 *Xiang Lisa Li, Percy Liang.*<br>
-ACL 2021. [[PDF](http://arxiv.org/abs/2101.00190v1)]
+arXiv 2021.01. [[PDF](http://arxiv.org/abs/2101.00190v1)]
+
+**Parameter-Efficient Transfer Learning for NLP.**<br>
+*Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly.*<br>
+arXiv 2019.02. [[PDF](http://arxiv.org/abs/1902.00751v2)]
 
 **Parameter-Efficient Transfer Learning for NLP.**<br>
 *Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly.*<br>

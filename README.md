@@ -25,6 +25,10 @@ We are building a Diffusion Training repository [UniDiffusion](https://github.co
 Doing
 
 ## ⭐ Personalization Methods
+**FaceChain: A Playground for Identity-Preserving Portrait Generation.**<br>
+*Yang Liu, Cheng Yu, Lei Shang , Ziheng Wu, Xingjun Wang, Yuze Zhao, Lin Zhu, Chen Cheng, Weitao Che, Chao Xu, Haoyu Xie, Yuan Yao, Wenmeng Zhou, Yingda Chen, Xuansong Xie, Baigui Sun*<br>
+arXiv 2023.08. [[PDF](https://arxiv.org/abs/2308.14256)][[Github](https://github.com/modelscope/facechain)]
+
 **HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models.**<br>
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, Yael Pritch, Neal Wadhwa, Michael Rubinstein, Kfir Aberman.*<br>
 arXiv 2023.07. [[PDF](http://arxiv.org/abs/2307.06949v1)][[Github](https://hyperdreambooth.github.io)]

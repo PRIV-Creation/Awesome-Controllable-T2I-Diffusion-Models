@@ -191,6 +191,14 @@ arXiv 2022.11. [[PDF](http://arxiv.org/abs/2211.09794v1)]
 arXiv 2022.11. [[PDF](http://arxiv.org/abs/2211.07825v1)]
 
 ## 🎨 Editing
+**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models.**<br>
+*Hyeonho Jeong, Jong Chul Ye.*<br>
+arXiv 2023.10. [[PDF](https://arxiv.org/abs/2310.01107)]
+
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models.**<br>
+*Geon Yeong Park, Jeongsol Kim, Beomsu Kim, Sang Wan Lee, Jong Chul Ye.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.09869)]
+
 **Adaptive Nonlinear Latent Transformation for Conditional Face Editing.**<br>
 *Zhizhong Huang, Siteng Ma, Junping Zhang, Hongming Shan.*<br>
 ICCV 2023. [[PDF](http://arxiv.org/abs/2307.07790v1)]

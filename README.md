@@ -14,8 +14,8 @@ We are focusing on how to efficiently learn a `concept`/`object`/`style` based o
 ## 🎉 Feature
 - [x] **Unidiffusion**: Codebase for diffusion model personalization.
 - [x] **Personalization**: Learning a ```concept``` from few data and generate images containing it.
-- [x] **Inversion** [Doing]: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
-- [x] **Editing** [TODO]: Editing the latent representation to manipulate the generated images.
+- [x] **Inversion**: Inverting images into `latent representation` (e.g., text_embedding, latent_code, etc.) which can reconstruct the input image. Then editing methods can be applied to it to manipulate given images.
+- [x] **Editing**: Editing the latent representation to manipulate the generated images.
 - [x] **Parameter-Efficient Fine-Tuning**: Inspired by LLM, we can speed up optimization process by various mechanisms.
 
 ## 🌈 UniDiffusion

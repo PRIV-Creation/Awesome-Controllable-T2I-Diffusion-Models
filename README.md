@@ -23,6 +23,50 @@ We are building a Diffusion Training repository [UniDiffusion](https://github.co
 
 
 ## ⭐ Personalization Methods
+**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models.**<br>
+*Saman Motamed, Danda Pani Paudel, Luc Van Gool.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.13833v1)]
+
+**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization.**<br>
+*Ruoyu Zhao, Mingrui Zhu, Shiyin Dong, Nannan Wang, Xinbo Gao.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.14631v1)]
+
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs.**<br>
+*Viraj Shah, Nataniel Ruiz, Forrester Cole, Erika Lu, Svetlana Lazebnik, Yuanzhen Li, Varun Jampani.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.13600v1)][[Github](https://ziplora.github.io)]
+
+**An Image Is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis.**<br>
+*Aishwarya Agarwal, Srikrishna Karanam, Tripti Shukla, Balaji Vasan Srinivasan.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.11919v1)]
+
+**High-fidelity Person-centric Subject-to-Image Synthesis.**<br>
+*Yibin Wang, Weizhong Zhang, Jianwei Zheng, Cheng Jin.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.10329v1)]
+
+**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics.**<br>
+*Aniket Roy, Maiterya Suin, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellappa.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.09753v1)]
+
+**A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization.**<br>
+*Xingzhe He, Zhiwen Cao, Nicholas Kolkin, Lantao Yu, Helge Rhodin, Ratheesh Kalarot.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.04315v1)]
+
+**VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning.**<br>
+*Hong Chen, Xin Wang, Guanning Zeng, Yipeng Zhang, Yuwei Zhou, Feilin Han, Wenwu Zhu.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.00990v1)]
+
+**Customizing 360-Degree Panoramas Through Text-to-Image Diffusion Models.**<br>
+*Hai Wang, Xiaoyu Xiang, Yuchen Fan, Jing-Hao Xue.*<br>
+arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.18840v2)][[Github](https://littlewhitesea.github.io/stitchdiffusion.github.io/)]
+
+**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models.**<br>
+*Ziyang Yuan, Mingdeng Cao, Xintao Wang, Zhongang Qi, Chun Yuan, Ying Shan.*<br>
+arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.19784v1)][[Github](https://jiangyzy.github.io/CustomNet/)]
+
+**An Image Is Worth Multiple Words: Learning Object Level Concepts Using Multi-Concept Prompt Learning.**<br>
+*Chen Jin, Ryutaro Tanno, Amrutha Saseendran, Tom Diethe, Philip Teare.*<br>
+arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.12274v1)][[Github](https://github.com/lxasqjc/MCPL)]
+
 **SingleInsert: Inserting New Concepts from A Single Image Into Text-to-Image Models for Flexible Editing.**<br>
 *Zijie Wu, Chaohui Yu, Zhen Zhu, Fan Wang, Xiang Bai.*<br>
 arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.08094v1)][[Github](https://jarrentwu1031.github.io/SingleInsert-web/)]
@@ -169,7 +213,7 @@ arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.12228v3)][[Github](https://tunin
 
 **Is This Loss Informative? Faster Text-to-Image Customization by Tracking Objective Dynamics.**<br>
 *Anton Voronov, Mikhail Khoroshikh, Artem Babenko, Max Ryabinin.*<br>
-arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.04841v2)][[Github](https://github.com/yandex-research/DVAR.)]
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2302.04841v2)][[Github](https://github.com/yandex-research/DVAR.)]
 
 **SINE: SINgle Image Editing with Text-to-Image Diffusion Models.**<br>
 *Zhixing Zhang, Ligong Han, Arnab Ghosh, Dimitris Metaxas, Jian Ren.*<br>
@@ -193,6 +237,10 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2208.12242v2)][[Github](https://dreamboot
 
 
 ## 🏹 Inversion
+**IterInv: Iterative Inversion for Pixel-Level T2I Models.**<br>
+*Chuanming Tang, Kai Wang, Joost van de Weijer.*<br>
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2310.19540v1)]
+
 **Object-aware Inversion and Reassembly for Image Editing.**<br>
 *Zhen Yang, Dinggang Gui, Wen Wang, Hao Chen, Bohan Zhuang, Chunhua Shen.*<br>
 arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.12149v1)][[Github](https://aim-uofa.github.io/OIR-Diffusion/)]
@@ -254,6 +302,22 @@ arXiv 2022.11. [[PDF](http://arxiv.org/abs/2211.09794v1)]
 arXiv 2022.11. [[PDF](http://arxiv.org/abs/2211.07825v1)]
 
 ## 🎨 Editing
+**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models.**<br>
+*Rohit Gandikota, Joanna Materzynska, Tingrui Zhou, Antonio Torralba, David Bau.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.12092v1)]
+
+**Emu Edit: Precise Image Editing Via Recognition and Generation Tasks.**<br>
+*Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.10089v1)]
+
+**On Manipulating Scene Text in The Wild with Diffusion Models.**<br>
+*Joshua Santoso, Christian Simon, Williem Pao.*<br>
+arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.00734v2)]
+
+**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models.**<br>
+*Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Zuxuan Wu.*<br>
+arXiv 2023.10. [[PDF](http://arxiv.org/abs/2310.16400v1)]
+
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation.**<br>
 *Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.*<br>
 NeurIPS 2023. [[PDF](http://arxiv.org/abs/2310.13165v1)]
@@ -380,7 +444,7 @@ arXiv 2023.06. [[PDF](http://arxiv.org/abs/2306.07596v1)]
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation.**<br>
 *Hyunsoo Lee, Minsoo Kang, Bohyung Han.*<br>
-arXiv 2023.05. [[PDF](http://arxiv.org/abs/2305.18007v1)]
+NeurIPS2023. [[PDF](http://arxiv.org/abs/2305.18007v1)]
 
 **InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions.**<br>
 *Qian Wang, Biao Zhang, Michael Birsak, Peter Wonka.*<br>
@@ -458,7 +522,7 @@ arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.09778v2)][[Github](https://damo-
 *Hareesh Ravi, Sachin Kelkar, Midhun Harikumar, Ajinkya Kale.*<br>
 arXiv 2023.02. [[PDF](http://arxiv.org/abs/2302.07979v2)]
 
-**SEGA: Instructing Diffusion Using Semantic Dimensions.**<br>
+**SEGA: Instructing Text-to-Image Models Using Semantic Guidance.**<br>
 *Manuel Brack, Felix Friedrich, Dominik Hintersdorf, Lukas Struppek, Patrick Schramowski, Kristian Kersting.*<br>
 arXiv 2023.01. [[PDF](http://arxiv.org/abs/2301.12247v1)]
 

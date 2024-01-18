@@ -23,6 +23,10 @@ We are building a Diffusion Training repository [UniDiffusion](https://github.co
 
 
 ## ⭐ Personalization Methods
+**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models.**<br>
+*Hyeonho Jeong, Geon Yeong Park, Jong Chul Ye.*<br>
+arXiv 2023.12. [[PDF](http://arxiv.org/abs/2312.00845)]
+
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models.**<br>
 *Saman Motamed, Danda Pani Paudel, Luc Van Gool.*<br>
 arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.13833v1)]
@@ -404,7 +408,7 @@ arXiv 2023.07. [[PDF](http://arxiv.org/abs/2307.10373v2)]
 
 **Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models.**<br>
 *Hyeonho Jeong, Jong Chul Ye.*<br>
-arXiv 2023.10. [[PDF](https://arxiv.org/abs/2310.01107)]
+ICLR 2024. [[PDF](https://arxiv.org/abs/2310.01107)]
 
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models.**<br>
 *Geon Yeong Park, Jeongsol Kim, Beomsu Kim, Sang Wan Lee, Jong Chul Ye.*<br>

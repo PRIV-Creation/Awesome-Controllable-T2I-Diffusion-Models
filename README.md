@@ -5,11 +5,11 @@
 
 <br />
 <p align="center">
-  <h1 align="center">Awesome Diffusion Personalization</h1>
+  <h1 align="center">Awesome Controllable T2I Diffusion Models</h1>
 </p>
 <br />
 
-We are focusing on how to efficiently learn a `concept`/`object`/`style` based on large diffusion models. 
+We are focusing on how to **Control** text-to-image diffusion models with **Novel Conditions**. 
 
 ## 🎉 Feature
 - [x] **Unidiffusion**: Codebase for diffusion model personalization.

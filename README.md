@@ -716,10 +716,12 @@ CVPRW 2023. [[PDF](https://arxiv.org/abs/2302.07121)]
 *Jiwen Yu, Yinhuai Wang, Chen Zhao, Bernard Ghanem, Jian Zhang.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
 
+**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method.**<br>
+*Jiachun Pan, Hanshu Yan, Jun Hao Liew, Jiashi Feng, Vincent Y. F. Tan.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models&type=Date)](https://star-history.com/#PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models&Date)
 
-**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method.**<br>
-*Jiachun Pan, Hanshu Yan, Jun Hao Liew, Jiashi Feng, Vincent Y. F. Tan.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]

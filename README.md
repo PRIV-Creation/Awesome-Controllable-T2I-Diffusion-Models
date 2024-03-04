@@ -540,7 +540,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17086)]
 *Zhendong Wang, Yifan Jiang, Yadong Lu, Yelong Shen, Pengcheng He, Weizhu Chen, Zhangyang Wang, Mingyuan Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.01115)]
 
-**I.**<br>
+**Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts.**<br>
 *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01408)]
 

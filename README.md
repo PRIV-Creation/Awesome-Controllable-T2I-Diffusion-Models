@@ -28,29 +28,28 @@ The survey paper is coming soon (March).
 ## 🌈 Contents
 
 - [Generation with Specific Condition](#Generation-with-Specific-Condition)
-  - [Personalization](#-Personalization)
-    - [Subject-Driven Generation](#-Subject-Driven-Generation)
-    - [Person-Driven Generation](#-Person-Driven-Generation)
-    - [Style-Driven Generation](#-Style-Driven-Generation)
-    - [Interaction-Driven Generation](#-Interaction-Driven-Generation)
-    - [Image-Driven Generation](#-Image-Driven-Generation)
-    - [Distribution-Driven Generation](#-Distribution-Driven-Generation)
-  - [Spatial Control](#-Spatial-Control)
-  - [Advanced Text-Conditioned Generation](#-Advanced-Text-Conditioned-Generation)
-  - [In-Context Generation](#-In-Context-Generation)
-  - [Brain-Guided Generation](#-Brain-Guided-Generation)
-  - [Sound-Guided Generation](#-Sound-Guided-Generation)
-  - [Text Rendering](#-Text-Rendering)
+  - [Personalization](#Personalization)
+    - [Subject-Driven Generation](#Subject-Driven-Generation)
+    - [Person-Driven Generation](#Person-Driven-Generation)
+    - [Style-Driven Generation](#Style-Driven-Generation)
+    - [Interaction-Driven Generation](#Interaction-Driven-Generation)
+    - [Image-Driven Generation](#Image-Driven-Generation)
+    - [Distribution-Driven Generation](#Distribution-Driven-Generation)
+  - [Spatial Control](#Spatial-Control)
+  - [Advanced Text-Conditioned Generation](#Advanced-Text-Conditioned-Generation)
+  - [In-Context Generation](#In-Context-Generation)
+  - [Brain-Guided Generation](#Brain-Guided-Generation)
+  - [Sound-Guided Generation](#Sound-Guided-Generation)
+  - [Text Rendering](#Text-Rendering)
 - [Generation with Multiple Conditions](#Generation-with-Multiple-Conditions)
-  - [Joint Training](#-Joint-Training)
-  - [Continual Learning](#-Continual-Learning)
-  - [Weight Fusion](#-Weight-Fusion)
-  - [Attention-based Integration](#-Attention-based-Integration)
-  - [Guidance Composition](#-Guidance-Composition)
+  - [Joint Training](#Joint-Training)
+  - [Continual Learning](#Continual-Learning)
+  - [Weight Fusion](#Weight-Fusion)
+  - [Attention-based Integration](#Attention-based-Integration)
+  - [Guidance Composition](#Guidance-Composition)
 - [Universal Controllable Generation](#Universal-Controllable-Generation)
-  - [Universal Conditional Score Prediction](#-Universal-Conditional-Score-Prediction)
-  - [Universal Condition-Guided Score Estimation](#-Universal-Condition-Guided-Score-Estimation)
-
+  - [Universal Conditional Score Prediction](#Universal-Conditional-Score-Prediction)
+  - [Universal Condition-Guided Score Estimation](#Universal-Condition-Guided-Score-Estimation)
 
 
 ## 🚀Generation with Specific Condition
@@ -316,7 +315,43 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]
 
 
 #### Interaction-Driven Generation 
-&INTERACTION-DRIVEN&
+**ReVersion- Diffusion-Based Relation Inversion from Images .**<br>
+*Ziqi Huang, Tianxing Wu, Yuming Jiang, Kelvin C. K. Chan, Ziwei Liu.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.13495)]
+
+**AnimateDiff- Animate Your Personalized Text-to-Image Diffusion Models  without Specific Tuning.**<br>
+*Yuwei Guo, Ceyuan Yang, Anyi Rao, Zhengyang Liang, Yaohui Wang, Yu Qiao, Maneesh Agrawala, Dahua Lin, Bo Dai.*<br>
+ICLR2024 (6688). [[PDF](https://arxiv.org/abs/2307.04725)]
+
+**MotionDirector- Motion Customization of Text-to-Video Diffusion Models.**<br>
+*Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.08465)]
+
+**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation.**<br>
+*Ruiqi Wu, Liangyu Chen, Tong Yang, Chunle Guo, Chongyi Li, Xiangyu Zhang.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.10769)]
+
+**SAVE: Protagonist Diversification with Structure Agnostic Video Editing.**<br>
+*Yeji Song, Wonsik Shin, Junsoo Lee, Jeesoo Kim, Nojun Kwak.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.02503)]
+
+**Customizing Motion in Text-to-Video Diffusion Models.**<br>
+*Joanna Materzynska, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.04966)]
+
+**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models.**<br>
+*Mengyang Feng, Jinlin Liu, Kai Yu, Yuan Yao, Zheng Hui, Xiefan Guo, Xianhui Lin, Haolan Xue, Chen Shi, Xiaowen Li, Aojie Li, Xiaoyang Kang, Biwen Lei, Miaomiao Cui, Peiran Ren, Xuansong Xie.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.05107)]
+
+**MotionCrafter: One-Shot Motion Customization of Diffusion Models.**<br>
+*Yuxin Zhang, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.05288)]
+
+**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models.**<br>
+*Jiun Tian Hoe, Xudong Jiang, Chee Seng Chan, Yap-Peng Tan, Weipeng Hu.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.05849)]
+
+
 #### Image-Driven Generation
 **Hierarchical Text-Conditional Image Generation with CLIP Latents.**<br>
 *Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen.*<br>

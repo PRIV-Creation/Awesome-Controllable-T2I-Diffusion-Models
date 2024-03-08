@@ -2,6 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![Survey Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=flat)]([http://makeapullrequest.com](https://arxiv.org/abs/2403.04279)) 
 
 <br />
 <p align="center">
@@ -11,16 +12,16 @@
 
 We are focusing on how to **Control** text-to-image diffusion models with **Novel Conditions**. 
 
-The survey paper is coming soon (March).
+For more detailed information, please refer to our survey paper: [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)
 
 <img src="assets/controllable_generation.png" alt="img" style="zoom: 33%;" />
 
 ## Citation
 ```text
-@article{cao2023controllable,
+@article{cao2024controllable,
   title={Controllable Generation with Text-to-Image Diffusion Models: A Survey},
-  author={xx},
-  journal={xx},
+  author={Pu Cao and Feng Zhou and Qing Song and Lu Yang},
+  journal={arXiv preprint arXiv:2403.04279},
   year={2024}
 }
 ```

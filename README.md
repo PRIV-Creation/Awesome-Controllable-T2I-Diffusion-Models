@@ -475,6 +475,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10156)]
 *Yunji Kim, Jiyoung Lee, Jin-Hwa Kim, Jung-Woo Ha, Jun-Yan Zhu.*<br>
 ICCV 2023. [[PDF](https://arxiv.org/abs/2308.12964)]
 
+**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive.**<br>
+*Yumeng Li, Margret Keuper, Dan Zhang, Anna Khoreva.*<br>
+ICLR 2024. [[PDF](https://arxiv.org/abs/2401.08815)]
+
 **JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling.**<br>
 *Jingyang Zhang, Shiwei Li, Yuanxun Lu, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan, Yao Yao.*<br>
 ICLR 2024. [[PDF](https://arxiv.org/abs/2310.06347)]
@@ -545,6 +549,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.05032)]
 **Attend-and-Excite- Attention-Based Semantic Guidance for Text-to-Image  Diffusion Models.**<br>
 *Hila Chefer, Yuval Alaluf, Yael Vinker, Lior Wolf, Daniel Cohen-Or.*<br>
 TOG 2023. [[PDF](https://arxiv.org/abs/2301.13826)]
+
+**Divide & Bind Your Attention for Improved Generative Semantic Nursing.**<br>
+*Yumeng Li, Margret Keuper, Dan Zhang, Anna Khoreva.*<br>
+BMVC 2023. [[PDF](https://arxiv.org/abs/2307.10864)]
 
 **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation.**<br>
 *Can Qin, Ning Yu, Chen Xing, Shu Zhang, Zeyuan Chen, Stefano Ermon, Yun Fu, Caiming Xiong, Ran Xu.*<br>

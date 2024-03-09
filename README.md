@@ -467,6 +467,10 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2306.13754)]
 *Yutong He, Ruslan Salakhutdinov, J. Zico Kolter.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14636)]
 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion.**<br>
+*Jinheng Xie, Yuexiang Li, Yawen Huang, Haozhe Liu, Wentian Zhang, Yefeng Zheng, Mike Zheng Shou.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2307.10816)]
+
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation.**<br>
 *Chengyou Jia, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Mengmeng Wang, Jingdong Wang.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10156)]

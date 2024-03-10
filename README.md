@@ -16,7 +16,7 @@ For more detailed information, please refer to our survey paper: [Controllable G
 
 <img src="assets/controllable_generation.png" alt="img" style="zoom: 33%;" />
 
-## Citation
+## 💖 Citation
 ```text
 @article{cao2024controllable,
   title={Controllable Generation with Text-to-Image Diffusion Models: A Survey},
@@ -25,6 +25,13 @@ For more detailed information, please refer to our survey paper: [Controllable G
   year={2024}
 }
 ```
+
+## 🎁 How to contribute to this repository?
+Since the following content is generated based on our database, please provide the following information in the **issue** to help us fill in the database to add new papers (please do not submit a PR directly).
+1. Paper title
+2. arXiv ID (if any)
+3. Publication status (if any)
+
 
 ## 🌈 Contents
 

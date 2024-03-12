@@ -61,9 +61,22 @@ Since the following content is generated based on our database, please provide t
 
 
 
+
 ## 🚀Generation with Specific Condition
 ### Personalization
 #### Subject-Driven Generation
+**FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation.**<br>
+*Pengchong Qiao, Lei Shang, Chang Liu, Baigui Sun, Xiangyang Ji, Jie Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.06775)]
+
+**RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization.**<br>
+*Mengqi Huang, Zhendong Mao, Mingcong Liu, Qian He, Yongdong Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.00483)]
+
+**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models.**<br>
+*Shyam Marjit, Harshit Singh, Nityanand Mathur, Sayak Paul, Chia-Mu Yu, Pin-Yu Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.17412)]
+
 **Direct Consistency Optimization for Compositional Text-to-Image Personalization.**<br>
 *Kyungmin Lee, Sangkyung Kwak, Kihyuk Sohn, Jinwoo Shin.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.12004)]
@@ -72,13 +85,17 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.12004)]
 *Yan Hong, Jianfu Zhang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11849)]
 
+**Visual Concept-driven Image Generation with Text-to-Image Diffusion Model.**<br>
+*Tanzila Rahman, Shweta Mahajan, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Leonid Sigal.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11487)]
+
 **Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation.**<br>
 *Junjie Shentu, Matthew Watson, Noura Al Moubayed.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.09966)]
 
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization.**<br>
 *Jisu Nam, Heesu Kim, DongJae Lee, Siyoon Jin, Seungryong Kim, Seunggyu Chang.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2402.09812)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2402.09812)]
 
 **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation.**<br>
 *Yang Li, Songlin Yang, Wei Wang, Jing Dong.*<br>
@@ -102,7 +119,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.06105)]
 
 **Cross Initialization for Personalized Text-to-Image Generation.**<br>
 *Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li, Xudong Mao.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.15905)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.15905)]
 
 **DreamTuner: Single Image is Enough for Subject-Driven Generation.**<br>
 *Miao Hua, Jiawei Liu, Fei Ding, Wei Liu, Jie Wu, Qian He.*<br>
@@ -114,7 +131,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.11826)]
 
 **Customization Assistant for Text-to-image Generation.**<br>
 *Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Tong Sun.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03045)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.03045)]
 
 **VideoBooth: Diffusion-based Video Generation with Image Prompts.**<br>
 *Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu.*<br>
@@ -130,7 +147,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17338)]
 
 **CLiC: Concept Learning in Context.**<br>
 *Mehdi Safaee, Aryan Mikaeili, Or Patashnik, Daniel Cohen-Or, Ali Mahdavi-Amiri.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17083)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2311.17083)]
 
 **CatVersion- Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization.**<br>
 *Ruoyu Zhao, Mingrui Zhu, Shiyin Dong, Nannan Wang, Xinbo Gao.*<br>
@@ -215,7 +232,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.05265)]
 
 **InstantBooth- Personalized Text-to-Image Generation without Test-Time  Finetuning.**<br>
 *Jing Shi, Wei Xiong, Zhe Lin, Hyun Joon Jung.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2304.03411)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2304.03411)]
 
 **Taming Encoder for Zero Fine-tuning Image Customization  with Text-to-Image Diffusion Models.**<br>
 *Xuhui Jia, Yang Zhao, Kelvin C. K. Chan, Yandong Li, Han Zhang, Boqing Gong, Tingbo Hou, Huisheng Wang, Yu-Chuan Su.*<br>
@@ -276,6 +293,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
 #### Person-Driven Generation
+**Face2Diffusion for Fast and Editable Face Personalization.**<br>
+*Kaede Shiohara, Toshihiko Yamasaki.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2403.05094)]
+
 **CapHuman: Capture Your Moments in Parallel Universes.**<br>
 *Chao Liang, Fan Ma, Linchao Zhu, Yingying Deng, Yi Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.00627)]
@@ -294,7 +315,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.01207)]
 
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization.**<br>
 *Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, Jiangning Zhang, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.06354)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.06354)]
 
 **Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods.**<br>
 *Panos Achlioptas, Alexandros Benetatos, Iordanis Fostiropoulos, Dimitris Skourtis.*<br>
@@ -338,7 +359,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05793)]
 
 **HyperDreamBooth- HyperNetworks for Fast  Personalization of Text-to-Image Models .**<br>
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, Yael Pritch, Neal Wadhwa, Michael Rubinstein, Kfir Aberman.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2307.06949)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2307.06949)]
 
 **DreamIdentity- Improved Editability for Efficient  Face-identity Preserved Image Generation .**<br>
 *Zhuowei Chen, Shancheng Fang, Wei Liu, Qian He, Mengqi Huang, Yongdong Zhang, Zhendong Mao.*<br>
@@ -358,13 +379,17 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### Style-Driven Generation
+**Visual Style Prompting with Swapping Self-Attention.**<br>
+*Jaeseok Jeong, Junho Kim, Yunjey Choi, Gayoung Lee, Youngjung Uh.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.12974)]
+
 **Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method.**<br>
 *Jiachun Pan, Hanshu Yan, Jun Hao Liew, Jiashi Feng, Vincent Y. F. Tan.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]
 
 **Style Aligned Image Generation via Shared Attention.**<br>
 *Amir Hertz, Andrey Voynov, Shlomi Fruchter, Daniel Cohen-Or.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.02133)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.02133)]
 
 **ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation.**<br>
 *Dar-Yen Chen, Hamish Tennent, Ching-Wen Hsu.*<br>
@@ -462,6 +487,26 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### Spatial Control
+**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging.**<br>
+*Takahiro Shirakawa, Seiichi Uchida.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.03485)]
+
+**PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis.**<br>
+*Zhengyao Lv, Yuxiang Wei, Wangmeng Zuo, Kwan-Yee K. Wong.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.01852)]
+
+**Box It to Bind It: Unified Layout Control and Attribute Binding in T2I Diffusion Models.**<br>
+*Ashkan Taghipour, Morteza Ghahremani, Mohammed Bennamoun, Aref Miri Rekavandi, Hamid Laga, Farid Boussaid.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.17910)]
+
+**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing.**<br>
+*Chufeng Xiao, Hongbo Fu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.17624)]
+
+**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control.**<br>
+*Denis Lukovnikov, Asja Fischer.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.13404)]
+
 **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis.**<br>
 *Dewei Zhou, You Li, Fan Ma, Xiaoting Zhang, Yi Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.05408)]
@@ -624,7 +669,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.14284)]
 
 **Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting.**<br>
 *Zijie Chen, Lichao Zhang, Fangsheng Weng, Lili Pan, Zhenzhong Lan.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.08129)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2310.08129)]
 
 **Linguistic Binding in Diffusion Models-  Enhancing Attribute Correspondence  through Attention Map Alignment.**<br>
 *Royi Rassin, Eran Hirsch, Daniel Glickman, Shauli Ravfogel, Yoav Goldberg, Gal Chechik.*<br>
@@ -699,6 +744,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.10056)]
 
 
 ### Text Rendering
+**Typographic Text Generation with Off-the-Shelf Diffusion Model.**<br>
+*KhayTze Peong, Seiichi Uchida, Daichi Haraguchi.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.14314)]
+
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model.**<br>
 *Lingjun Zhang, Xinyuan Chen, Yaohui Wang, Yue Lu, Yu Qiao.*<br>
 AAAI 2024. [[PDF](https://arxiv.org/abs/2312.12232)]

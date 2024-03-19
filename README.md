@@ -60,12 +60,13 @@ Since the following content is generated based on our database, please provide t
   - [Universal Conditional Score Prediction](#Universal-Conditional-Score-Prediction)
   - [Universal Condition-Guided Score Estimation](#Universal-Condition-Guided-Score-Estimation)
 
-
-
-
 ## 🚀Generation with Specific Condition
 ### Personalization
 #### Subject-Driven Generation
+**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation.**<br>
+*Likun Li, Haoqi Zeng, Changpeng Yang, Haozhe Jia, Di Xu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.07500)]
+
 **FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation.**<br>
 *Pengchong Qiao, Lei Shang, Chang Liu, Baigui Sun, Xiangyang Ji, Jie Chen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.06775)]
@@ -488,6 +489,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### Spatial Control
+**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models.**<br>
+*Subhadeep Koley, Ayan Kumar Bhunia, Deeptanshu Sekhri, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.07234)]
+
 **NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging.**<br>
 *Takahiro Shirakawa, Seiichi Uchida.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.03485)]

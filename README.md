@@ -60,6 +60,8 @@ Since the following content is generated based on our database, please provide t
   - [Universal Conditional Score Prediction](#Universal-Conditional-Score-Prediction)
   - [Universal Condition-Guided Score Estimation](#Universal-Condition-Guided-Score-Estimation)
 
+
+
 ## 🚀Generation with Specific Condition
 ### Personalization
 #### Subject-Driven Generation
@@ -130,6 +132,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.13691)]
 **Decoupled Textual Embeddings for Customized Image Generation.**<br>
 *Yufei Cai, Yuxiang Wei, Zhilong Ji, Jinfeng Bai, Hu Han, Wangmeng Zuo.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.11826)]
+
+**Compositional Inversion for Stable Diffusion Models.**<br>
+*Xulu Zhang, Xiao-Yong Wei, Jinlin Wu, Tianyi Zhang, Zhaoxiang Zhang, Zhen Lei, Qing Li.*<br>
+AAAI 2024. [[PDF](https://arxiv.org/abs/2312.08048v3)]
 
 **Customization Assistant for Text-to-image Generation.**<br>
 *Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Tong Sun.*<br>

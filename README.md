@@ -387,6 +387,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### Style-Driven Generation
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations.**<br>
+*Tianhao Qi, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2403.06951)]
+
 **Visual Style Prompting with Swapping Self-Attention.**<br>
 *Jaeseok Jeong, Junho Kim, Yunjey Choi, Gayoung Lee, Youngjung Uh.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.12974)]
@@ -495,6 +499,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### Spatial Control
+**One-Step Image Translation with Text-to-Image Models.**<br>
+*Gaurav Parmar, Taesung Park, Srinivasa Narasimhan, Jun-Yan Zhu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12036)]
+
 **It's All About Your Sketch: Democratising Sketch Control in Diffusion Models.**<br>
 *Subhadeep Koley, Ayan Kumar Bhunia, Deeptanshu Sekhri, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.07234)]

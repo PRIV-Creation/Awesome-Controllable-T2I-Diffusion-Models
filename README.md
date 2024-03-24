@@ -68,9 +68,26 @@ Since the following content is generated based on our database, please provide t
 
 
 <!-- start -->
+
 ## 🚀Generation with Specific Condition
 ### Personalization
 #### Subject-Driven Generation
+**Tuning-Free Image Customization with Image and Text Guidance.**<br>
+*Pengzhi Li, Qiang Nie, Ying Chen, Xi Jiang, Kai Wu, Yuhuan Lin, Yong Liu, Jinlong Peng, Chengjie Wang, Feng Zheng.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12658)]
+
+**Fast Personalized Text-to-Image Syntheses With Attention Injection.**<br>
+*Yuxuan Zhang, Yiren Song, Jinpeng Yu, Han Pan, Zhongliang Jing.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.11284)]
+
+**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models.**<br>
+*Zhe Kong, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.10983)]
+
+**StableGarment: Garment-Centric Generation via Stable Diffusion.**<br>
+*Rui Wang, Hailong Guo, Jiaming Liu, Huaxia Li, Haibo Zhao, Xu Tang, Yao Hu, Hao Tang, Peipei Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.10783)]
+
 **Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation.**<br>
 *Likun Li, Haoqi Zeng, Changpeng Yang, Haozhe Jia, Di Xu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.07500)]
@@ -307,6 +324,14 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
 #### Person-Driven Generation
+**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models.**<br>
+*Siying Cui, Jia Guo, Xiang An, Jiankang Deng, Yongle Zhao, Xinyu Wei, Ziyong Feng.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13535)]
+
+**Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm.**<br>
+*Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.11781)]
+
 **Face2Diffusion for Fast and Editable Face Personalization.**<br>
 *Kaede Shiohara, Toshihiko Yamasaki.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2403.05094)]
@@ -505,6 +530,18 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### Spatial Control
+**ReGround: Improving Textual and Spatial Grounding at No Cost.**<br>
+*Yuseung Lee, Minhyuk Sung.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13589)]
+
+**DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception.**<br>
+*Yibo Wang, Ruiyuan Gao, Kai Chen, Kaiqiang Zhou, Yingjie Cai, Lanqing Hong, Zhenguo Li, Lihui Jiang, Dit-Yan Yeung, Qiang Xu, Kai Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13304)]
+
+**Consistency Models Improve Diffusion Inverse Solvers.**<br>
+*Tongda Xu, Ziran Zhu, Dailan He, Yuanyuan Wang, Ming Sun, Ning Li, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12063)]
+
 **One-Step Image Translation with Text-to-Image Models.**<br>
 *Gaurav Parmar, Taesung Park, Srinivasa Narasimhan, Jun-Yan Zhu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12036)]
@@ -842,6 +879,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.06027)]
 
 
 ### Weight Fusion
+**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models.**<br>
+*Yang Yang, Wen Wang, Liang Peng, Chaotian Song, Yao Chen, Hengjia Li, Xiaolong Yang, Qinglin Lu, Deng Cai, Boxi Wu, Wei Liu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.11627)]
+
 **Orthogonal Adaptation for Modular Customization of Diffusion Models.**<br>
 *Ryan Po, Guandao Yang, Kfir Aberman, Gordon Wetzstein.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.02432)]
@@ -922,6 +963,9 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
 **Universal Guidance for Diffusion Models.**<br>
 *Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Soumyadip Sengupta, Micah Goldblum, Jonas Geiping, Tom Goldstein.*<br>
 CVPRW 2023. [[PDF](https://arxiv.org/abs/2302.07121)]
+
+
+
 <!-- end -->
 
 ## Star History

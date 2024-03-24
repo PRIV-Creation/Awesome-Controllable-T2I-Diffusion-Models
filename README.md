@@ -70,8 +70,8 @@ Since the following content is generated based on our database, please provide t
 <!-- start -->
 
 ## 🚀Generation with Specific Condition
-### Personalization
-#### Subject-Driven Generation
+### 🍇Personalization
+#### 🍉Subject-Driven Generation
 **Tuning-Free Image Customization with Image and Text Guidance.**<br>
 *Pengzhi Li, Qiang Nie, Ying Chen, Xi Jiang, Kai Wu, Yuhuan Lin, Yong Liu, Jinlong Peng, Chengjie Wang, Feng Zheng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12658)]
@@ -323,7 +323,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2208.12242)]
 ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
-#### Person-Driven Generation
+#### 🍊Person-Driven Generation
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models.**<br>
 *Siying Cui, Jia Guo, Xiang An, Jiankang Deng, Yongle Zhao, Xinyu Wei, Ziyong Feng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13535)]
@@ -417,7 +417,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.00914)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
-#### Style-Driven Generation
+#### 🍋Style-Driven Generation
 **DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations.**<br>
 *Tianhao Qi, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2403.06951)]
@@ -447,7 +447,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00330)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.00983)]
 
 
-#### Interaction-Driven Generation 
+#### 🍍Interaction-Driven Generation 
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models.**<br>
 *Jiun Tian Hoe, Xudong Jiang, Chee Seng Chan, Yap-Peng Tan, Weipeng Hu.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.05849)]
@@ -485,7 +485,7 @@ ICLR2024 (6688). [[PDF](https://arxiv.org/abs/2307.04725)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.13495)]
 
 
-#### Image-Driven Generation
+#### 🍎Image-Driven Generation
 **FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition.**<br>
 *Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.07536)]
@@ -519,7 +519,7 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2211.08332)]
 arXiv 2022. [[PDF](https://arxiv.org/abs/2204.06125)]
 
 
-#### Distribution-Driven Generation
+#### 🍐Distribution-Driven Generation
 **DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models.**<br>
 *Brian Nlong Zhao, Yuhang Xiao, Jiashu Xu, Xinyang Jiang, Yifan Yang, Dongsheng Li, Laurent Itti, Vibhav Vineet, Yunhao Ge.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.14216)]
@@ -529,7 +529,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.14216)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
-### Spatial Control
+### 🍔Spatial Control
 **ReGround: Improving Textual and Spatial Grounding at No Cost.**<br>
 *Yuseung Lee, Minhyuk Sung.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13589)]
@@ -721,7 +721,7 @@ SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2211.13752)]
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
-### Advanced Text-Conditioned Generation
+### 🍿Advanced Text-Conditioned Generation
 **PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation  in non-English Text-to-Image Generation.**<br>
 *Jian Ma, Chen Chen, Qingsong Xie, Haonan Lu.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17086)]
@@ -755,7 +755,7 @@ TOG 2023. [[PDF](https://arxiv.org/abs/2301.13826)]
 arXiv 2022. [[PDF](https://arxiv.org/abs/2212.05032)]
 
 
-### In-Context Generation
+### 🧁In-Context Generation
 **I.**<br>
 *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01408)]
@@ -765,7 +765,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01408)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.01115)]
 
 
-### Brain-Guided Generation
+### 🍹Brain-Guided Generation
 **BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction.**<br>
 *Honghao Fu, Zhiqi Shen, Jing Jih Chin, Hao Wang.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.14871)]
@@ -795,7 +795,7 @@ CVPR 2023.
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.06956)]
 
 
-### Sound-Guided Generation
+### 🍭Sound-Guided Generation
 **Align, Adapt and Inject: Sound-guided
 Unified Image Generation.**<br>
 *Yue Yang, Kaipeng Zhang, Yuying Ge, Wenqi Shao, Zeyue Xue, Yu Qiao, Ping Luo.*<br>
@@ -806,7 +806,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.11504)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.10056)]
 
 
-### Text Rendering
+### 🧉Text Rendering
 **Typographic Text Generation with Off-the-Shelf Diffusion Model.**<br>
 *KhayTze Peong, Seiichi Uchida, Daichi Haraguchi.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.14314)]
@@ -844,8 +844,8 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.17870)]
 ACL 2022. [[PDF](https://arxiv.org/abs/2212.10562)]
 
 
-## ⭐Generation with Multiple Conditions
-### Joint Training
+## 🌕Generation with Multiple Conditions
+### 🌒Joint Training
 **Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation.**<br>
 *Minghui Hu, Jianbin Zheng, Daqing Liu, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham.*<br>
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.00964)]
@@ -863,7 +863,7 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2303.11305)]
 ICML 2023. [[PDF](https://arxiv.org/abs/2302.09778)]
 
 
-### Continual Learning
+### 🌓Continual Learning
 **Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters.**<br>
 *James Seale Smith, Yen-Chang Hsu, Zsolt Kira, Yilin Shen, Hongxia Jin.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.18763)]
@@ -878,7 +878,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.06027)]
 
 
-### Weight Fusion
+### 🌔Weight Fusion
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models.**<br>
 *Yang Yang, Wen Wang, Liang Peng, Chaotian Song, Yao Chen, Hengjia Li, Xiaolong Yang, Qinglin Lu, Deng Cai, Boxi Wu, Wei Liu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.11627)]
@@ -904,7 +904,7 @@ ICML 2023. [[PDF](https://arxiv.org/abs/2303.05125)]
 CVPR 2023. [[PDF](https://arxiv.org/abs/2212.04488)]
 
 
-### Attention-based Integration
+### 🌖Attention-based Integration
 **Cones 2- Customizable Image Synthesis  with Multiple Subjects .**<br>
 *Zhiheng Liu, Yifei Zhang, Yujun Shen, Kecheng Zheng, Kai Zhu, Ruili Feng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19327)]
@@ -914,7 +914,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19327)]
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.18292)]
 
 
-### Guidance Composition
+### 🌗Guidance Composition
 **Concept-centric Personalization with Large-scale Diffusion Priors.**<br>
 *Pu Cao, Lu Yang, Feng Zhou, Tianrui Huang, Qing Song.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
@@ -929,7 +929,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14408)]
 
 
 ## 🔥Universal Controllable Generation
-### Universal Conditional Score Prediction
+### 🌤Universal Conditional Score Prediction
 **Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation.**<br>
 *Yuanhuiyi Lyu, Xu Zheng, Lin Wang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.17664)]
@@ -951,7 +951,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.13286)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.15194)]
 
 
-### Universal Condition-Guided Score Estimation
+### 🌧Universal Condition-Guided Score Estimation
 **Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method.**<br>
 *Jiachun Pan, Hanshu Yan, Jun Hao Liew, Jiashi Feng, Vincent Y. F. Tan.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]

@@ -14,7 +14,13 @@ We are focusing on how to **Control** text-to-image diffusion models with **Nove
 
 For more detailed information, please refer to our survey paper: [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279)
 
-<img src="assets/controllable_generation.png" alt="img" style="zoom: 33%;" />
+<p align="center">
+  <img src="assets/count.png" alt="img" width="49%" />
+  <img src="assets/controllable_generation.png" alt="img" width="49%" />
+</p>
+
+
+
 
 ## 💖 Citation
 ```text

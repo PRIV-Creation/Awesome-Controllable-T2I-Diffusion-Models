@@ -72,6 +72,22 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**Selectively Informative Description can Reduce Undesired Embedding Entanglements in Text-to-Image Personalization.**<br>
+*Jimyeong Kim, Jungwon Park, Wonjong Rhee.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.15330)]
+
+**MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration.**<br>
+*Zhichao Wei, Qingkun Su, Long Qin, Weizhi Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.15059)]
+
+**Generative Active Learning for Image Synthesis Personalization.**<br>
+*Xulu Zhang, Wengyu Zhang, Xiao-Yong Wei, Jinlin Wu, Zhaoxiang Zhang, Zhen Lei, Qing Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14987)]
+
+**Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization.**<br>
+*Yeji Song, Jimyeong Kim, Wonhark Park, Wonsik Shin, Wonjong Rhee, Nojun Kwak.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14155)]
+
 **Tuning-Free Image Customization with Image and Text Guidance.**<br>
 *Pengzhi Li, Qiang Nie, Ying Chen, Xi Jiang, Kai Wu, Yuhuan Lin, Yong Liu, Jinlong Peng, Chengjie Wang, Feng Zheng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12658)]
@@ -324,6 +340,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
 #### 🍊Person-Driven Generation
+**FlashFace: Human Image Personalization with High-fidelity Identity Preservation.**<br>
+*Shilong Zhang, Lianghua Huang, Xi Chen, Yifei Zhang, Zhi-Fan Wu, Yutong Feng, Wei Wang, Yujun Shen, Yu Liu, Ping Luo.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.17008)]
+
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models.**<br>
 *Siying Cui, Jia Guo, Xiang An, Jiankang Deng, Yongle Zhao, Xinyu Wei, Ziyong Feng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13535)]
@@ -418,6 +438,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**Implicit Style-Content Separation using B-LoRA.**<br>
+*Yarden Frenkel, Yael Vinker, Ariel Shamir, Daniel Cohen-Or.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14572)]
+
 **DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations.**<br>
 *Tianhao Qi, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2403.06951)]
@@ -530,6 +554,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation.**<br>
+*Omer Dahary, Or Patashnik, Kfir Aberman, Daniel Cohen-Or.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16990)]
+
 **ReGround: Improving Textual and Spatial Grounding at No Cost.**<br>
 *Yuseung Lee, Minhyuk Sung.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.13589)]
@@ -690,7 +718,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2303.14412)]
 
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model.**<br>
 *Jiwen Yu, Yinhuai Wang, Chen Zhao, Bernard Ghanem, Jian Zhang.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis.**<br>
 *Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz.*<br>
@@ -915,6 +943,10 @@ NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.18292)]
 
 
 ### 🌗Guidance Composition
+**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance.**<br>
+*Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16954)]
+
 **Concept-centric Personalization with Large-scale Diffusion Priors.**<br>
 *Pu Cao, Lu Yang, Feng Zhou, Tianrui Huang, Qing Song.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
@@ -958,7 +990,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.12030)]
 
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model.**<br>
 *Jiwen Yu, Yinhuai Wang, Chen Zhao, Bernard Ghanem, Jian Zhang.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.09833)]
 
 **Universal Guidance for Diffusion Models.**<br>
 *Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Soumyadip Sengupta, Micah Goldblum, Jonas Geiping, Tom Goldstein.*<br>

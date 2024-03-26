@@ -784,7 +784,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.05032)]
 
 
 ### 🧁In-Context Generation
-**I.**<br>
+**Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts.**<br>
 *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01408)]
 
@@ -810,7 +810,7 @@ ACM MM 2023.
 *Yizhuo Lu, Changde Du, Dianpeng Wang, Huiguang He.*<br>
 ACM MM 2023. [[PDF](https://arxiv.org/abs/2303.14139)]
 
-**Natural.**<br>
+**Natural scene reconstruction from fMRI signals using generative latent diffusion.**<br>
 *Furkan Ozcelik, Rufin VanRullen.*<br>
 Scientific Reports 2023. [[PDF](https://arxiv.org/abs/2303.05334)]
 

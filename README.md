@@ -72,6 +72,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**Attention Calibration for Disentangled Text-to-Image Personalization.**<br>
+*Yanbing Zhang, Mengping Yang, Qin Zhou, Zhe Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18551)]
+
 **Selectively Informative Description can Reduce Undesired Embedding Entanglements in Text-to-Image Personalization.**<br>
 *Jimyeong Kim, Jungwon Park, Wonjong Rhee.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.15330)]
@@ -554,9 +558,21 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models.**<br>
+*Ilias Mitsouras, Eleftherios Tsonis, Paraskevi Tzouveli, Athanasios Voulodimos.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18425)]
+
+**ECNet: Effective Controllable Text-to-Image Diffusion Models.**<br>
+*Sicheng Li, Keqiang Sun, Zhixin Lai, Xiaoshi Wu, Feng Qiu, Haoran Xie, Kazunori Miyata, Hongsheng Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18417)]
+
 **Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation.**<br>
 *Omer Dahary, Or Patashnik, Kfir Aberman, Daniel Cohen-Or.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16990)]
+
+**Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance.**<br>
+*Jia-Wei Liao, Winston Wang, Tzu-Sian Wang, Li-Xuan Peng, Cheng-Fu Chou, Jun-Cheng Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.15878)]
 
 **ReGround: Improving Textual and Spatial Grounding at No Cost.**<br>
 *Yuseung Lee, Minhyuk Sung.*<br>
@@ -750,6 +766,50 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**VersaT2I: Improving Text-to-Image Models with Versatile Reward.**<br>
+*Jianshu Guo, Wenhao Chai, Jie Deng, Hsiang-Wei Huang, Tian Ye, Yichen Xu, Jiawei Zhang, Jenq-Neng Hwang, Gaoang Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18493)]
+
+**Improving Text-to-Image Consistency via Automatic Prompt Optimization.**<br>
+*Oscar Mañas, Pietro Astolfi, Melissa Hall, Candace Ross, Jack Urbanek, Adina Williams, Aishwarya Agrawal, Adriana Romero-Soriano, Michal Drozdzal.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.17804)]
+
+**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance.**<br>
+*Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16954)]
+
+**Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering.**<br>
+*Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.09622)]
+
+**DivCon: Divide and Conquer for Progressive Text-to-Image Generation.**<br>
+*Yuhao Jia, Wenhan Tan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.06400)]
+
+**Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models.**<br>
+*Yang Zhang, Teoh Tze Tzun, Lim Wei Hern, Tiviatis Sim, Kenji Kawaguchi.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.06381)]
+
+**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment.**<br>
+*Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.05135)]
+
+**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion.**<br>
+*Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.12741)]
+
+**Learning Continuous 3D Words for Text-to-Image Generation.**<br>
+*Ta-Ying Cheng, Matheus Gadelha, Thibault Groueix, Matthew Fisher, Radomir Mech, Andrew Markham, Niki Trigoni.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.08654)]
+
+**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering.**<br>
+*Chang Yu, Junran Peng, Xiangyu Zhu, Zhaoxiang Zhang, Qi Tian, Zhen Lei.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.06345)]
+
+**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models.**<br>
+*Jingyuan Yang, Jiawei Feng, Hui Huang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.04608)]
+
 **PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation  in non-English Text-to-Image Generation.**<br>
 *Jian Ma, Chen Chen, Qingsong Xie, Haonan Lu.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17086)]
@@ -761,6 +821,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.14284)]
 **Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting.**<br>
 *Zijie Chen, Lichao Zhang, Fangsheng Weng, Lili Pan, Zhenzhong Lan.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2310.08129)]
+
+**Divide & Bind Your Attention for Improved Generative Semantic Nursing.**<br>
+*Yumeng Li, Margret Keuper, Dan Zhang, Anna Khoreva.*<br>
+BMVC 2023. [[PDF](https://arxiv.org/abs/2307.10864)]
 
 **Linguistic Binding in Diffusion Models-  Enhancing Attribute Correspondence  through Attention Map Alignment.**<br>
 *Royi Rassin, Eran Hirsch, Daniel Glickman, Shauli Ravfogel, Yoav Goldberg, Gal Chechik.*<br>
@@ -835,6 +899,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.10056)]
 
 
 ### 🧉Text Rendering
+**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation.**<br>
+*Sanyam Lakhanpal, Shivang Chopra, Vinija Jain, Aman Chadha, Man Luo.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16422)]
+
 **Typographic Text Generation with Off-the-Shelf Diffusion Model.**<br>
 *KhayTze Peong, Seiichi Uchida, Daichi Haraguchi.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.14314)]

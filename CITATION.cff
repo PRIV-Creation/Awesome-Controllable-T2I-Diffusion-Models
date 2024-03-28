@@ -1,7 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this research, please cite it as below."
-title: "Controllable Generation with Text-to-Image Diffusion Models: A Survey"
-doi: "arXiv:2403.04279"
+message: "If you find our paper and and collection useful, please cite it as below."
 authors:
   - family-names: "Cao"
     given-names: "Pu"
@@ -11,6 +9,21 @@ authors:
     given-names: "Qing"
   - family-names: "Yang"
     given-names: "Lu"
-year: 2024
-journal: "arXiv preprint arXiv:2403.04279"
-type: article
+title: "Controllable Generation with Text-to-Image Diffusion Models: A Survey"
+version: "arXiv:2403.04279"
+date-released: 2024-03-24
+url: "https://arxiv.org/abs/2403.04279"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cao"
+      given-names: "Pu"
+    - family-names: "Zhou"
+      given-names: "Feng"
+    - family-names: "Song"
+      given-names: "Qing"
+    - family-names: "Yang"
+      given-names: "Lu"
+  title: "Controllable Generation with Text-to-Image Diffusion Models: A Survey"
+  journal: "arXiv preprint arXiv:2403.04279"
+  year: 2024

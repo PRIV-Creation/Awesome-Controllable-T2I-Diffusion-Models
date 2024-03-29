@@ -23,6 +23,8 @@ For more detailed information, please refer to our survey paper: [Controllable G
 
 
 ## 💖 Citation
+**If you find our survey paper or this curated collection beneficial, please consider citing our paper.**
+
 ```text
 @article{cao2024controllable,
   title={Controllable Generation with Text-to-Image Diffusion Models: A Survey},

@@ -23,7 +23,7 @@ For more detailed information, please refer to our survey paper: [Controllable G
 
 
 ## 💖 Citation
-**If you find our survey paper or this curated collection beneficial, please consider citing our paper.**
+**If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**
 
 ```text
 @article{cao2024controllable,

@@ -72,6 +72,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation.**<br>
+*Yutong He, Alexander Robey, Naoki Murata, Yiding Jiang, Joshua Williams, George J. Pappas, Hamed Hassani, Yuki Mitsufuji, Ruslan Salakhutdinov, J. Zico Kolter.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19103)]
+
 **Attention Calibration for Disentangled Text-to-Image Personalization.**<br>
 *Yanbing Zhang, Mengping Yang, Qin Zhou, Zhe Wang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18551)]
@@ -810,6 +814,10 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.06345)]
 *Jingyuan Yang, Jiawei Feng, Hui Huang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.04608)]
 
+**TokenCompose: Grounding Diffusion with Token-level Supervision.**<br>
+*Zirui Wang, Zhizhou Sha, Zheng Ding, Yilin Wang, Zhuowen Tu.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.03626)]
+
 **PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation  in non-English Text-to-Image Generation.**<br>
 *Jian Ma, Chen Chen, Qingsong Xie, Haonan Lu.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.17086)]
@@ -975,6 +983,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.06027)]
 
 
 ### 🌔Weight Fusion
+**Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization.**<br>
+*Yu Xu, Fan Tang, Juan Cao, Yuxin Zhang, Oliver Deussen, Weiming Dong, Jintao Li, Tong-Yee Lee.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19456)]
+
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models.**<br>
 *Yang Yang, Wen Wang, Liang Peng, Chaotian Song, Yao Chen, Hengjia Li, Xiaolong Yang, Qinglin Lu, Deng Cai, Boxi Wu, Wei Liu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.11627)]

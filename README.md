@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation.**<br>
+*You Wu, Kean Liu, Xiaoyue Mi, Fan Tang, Juan Cao, Jintao Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.20231)]
+
 **Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation.**<br>
 *Yutong He, Alexander Robey, Naoki Murata, Yiding Jiang, Joshua Williams, George J. Pappas, Hamed Hassani, Yuki Mitsufuji, Ruslan Salakhutdinov, J. Zico Kolter.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19103)]
@@ -772,6 +776,14 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**Getting it Right: Improving Spatial Consistency in Text-to-Image Models.**<br>
+*Agneet Chatterjee, Gabriela Ben Melech Stan, Estelle Aflalo, Sayak Paul, Dhruba Ghosh, Tejas Gokhale, Ludwig Schmidt, Hannaneh Hajishirzi, Vasudev Lal, Chitta Baral, Yezhou Yang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.01197)]
+
+**Relation Rectification in Diffusion Model.**<br>
+*Yinwei Wu, Xingyi Yang, Xinchao Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.20249)]
+
 **VersaT2I: Improving Text-to-Image Models with Versatile Reward.**<br>
 *Jianshu Guo, Wenhao Chai, Jie Deng, Hsiang-Wei Huang, Tian Ye, Yichen Xu, Jiawei Zhang, Jenq-Neng Hwang, Gaoang Wang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18493)]
@@ -985,6 +997,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.06027)]
 
 
 ### 🌔Weight Fusion
+**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models.**<br>
+*Tuna Han Salih Meral, Enis Simsar, Federico Tombari, Pinar Yanardag.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19776)]
+
 **Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization.**<br>
 *Yu Xu, Fan Tang, Juan Cao, Yuxin Zhang, Oliver Deussen, Weiming Dong, Jintao Li, Tong-Yee Lee.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19456)]

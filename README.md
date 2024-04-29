@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation.**<br>
+*Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.05674)]
+
 **U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation.**<br>
 *You Wu, Kean Liu, Xiaoyue Mi, Fan Tang, Juan Cao, Jintao Li.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.20231)]
@@ -354,6 +358,14 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
 #### 🍊Person-Driven Generation
+**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation.**<br>
+*Zehuan Huang, Hongxing Fan, Lipeng Wang, Lu Sheng.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15267)]
+
+**LCM-Lookahead for Encoder-based Text-to-Image Personalization.**<br>
+*Rinon Gal, Or Lichter, Elad Richardson, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03620)]
+
 **FlashFace: Human Image Personalization with High-fidelity Identity Preservation.**<br>
 *Shilong Zhang, Lianghua Huang, Xi Chen, Yifei Zhang, Zhi-Fan Wu, Yutong Feng, Wei Wang, Yujun Shen, Yu Liu, Ping Luo.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.17008)]
@@ -452,6 +464,14 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding.**<br>
+*Junseo Park, Beomseok Ko, Hyeryung Jang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.05256)]
+
+**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation.**<br>
+*Haofan Wang, Matteo Spinelli, Qixun Wang, Xu Bai, Zekui Qin, Anthony Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02733)]
+
 **Implicit Style-Content Separation using B-LoRA.**<br>
 *Yarden Frenkel, Yael Vinker, Ariel Shamir, Daniel Cohen-Or.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14572)]
@@ -776,6 +796,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching.**<br>
+*Dongzhi Jiang, Guanglu Song, Xiaoshi Wu, Renrui Zhang, Dazhong Shen, Zhuofan Zong, Yu Liu, Hongsheng Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03653)]
+
 **Getting it Right: Improving Spatial Consistency in Text-to-Image Models.**<br>
 *Agneet Chatterjee, Gabriela Ben Melech Stan, Estelle Aflalo, Sayak Paul, Dhruba Ghosh, Tejas Gokhale, Ludwig Schmidt, Hannaneh Hajishirzi, Vasudev Lal, Chitta Baral, Yezhou Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.01197)]
@@ -964,6 +988,14 @@ ACL 2022. [[PDF](https://arxiv.org/abs/2212.10562)]
 
 ## 🌕Generation with Multiple Conditions
 ### 🌒Joint Training
+**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models.**<br>
+*Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.04243)]
+
+**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models.**<br>
+*Gihyun Kwon, Simon Jenni, Dingzeyu Li, Joon-Young Lee, Jong Chul Ye, Fabian Caba Heilbron.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03913)]
+
 **Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation.**<br>
 *Minghui Hu, Jianbin Zheng, Daqing Liu, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham.*<br>
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.00964)]
@@ -1041,6 +1073,10 @@ NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.18292)]
 
 
 ### 🌗Guidance Composition
+**DreamWalk: Style Space Exploration using Diffusion Guidance.**<br>
+*Michelle Shu, Charles Herrmann, Richard Strong Bowen, Forrester Cole, Ramin Zabih.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03145)]
+
 **Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance.**<br>
 *Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16954)]

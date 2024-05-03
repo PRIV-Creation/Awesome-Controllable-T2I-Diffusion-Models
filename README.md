@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**CAT: Contrastive Adapter Training for Personalized Image Generation.**<br>
+*Jae Wan Park, Sang Hyun Park, Jun Young Koh, Junha Lee, Min Song.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07554)]
+
 **MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation.**<br>
 *Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.05674)]
@@ -588,6 +592,18 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback.**<br>
+*Ming Li, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07987)]
+
+**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation.**<br>
+*Stanislav Frolov, Brian B. Moser, Sebastian Palacio, Andreas Dengel.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07564)]
+
+**SmartControl: Enhancing ControlNet for Handling Rough Visual Conditions.**<br>
+*Xiaoyu Liu, Yuxiang Wei, Ming Liu, Xianhui Lin, Peiran Ren, Xuansong Xie, Wangmeng Zuo.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.06451)]
+
 **U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models.**<br>
 *Ilias Mitsouras, Eleftherios Tsonis, Paraskevi Tzouveli, Athanasios Voulodimos.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.18425)]
@@ -796,6 +812,14 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models.**<br>
+*Yasi Zhang, Peiyu Yu, Ying Nian Wu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07389)]
+
+**InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization.**<br>
+*Xiefan Guo, Jinlin Liu, Miaomiao Cui, Jiankai Li, Hongyu Yang, Di Huang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.04650)]
+
 **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching.**<br>
 *Dongzhi Jiang, Guanglu Song, Xiaoshi Wu, Renrui Zhang, Dazhong Shen, Zhuofan Zong, Yu Liu, Hongsheng Li.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03653)]
@@ -1092,6 +1116,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.10329)]
 **Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models.**<br>
 *Luozhou Wang, Guibao Shen, Wenhang Ge, Guangyong Chen, Yijun Li, Ying-cong Chen.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14408)]
+
+**Collaborative Diffusion for Multi-Modal Face Generation and Editing.**<br>
+*Ziqi Huang, Kelvin C. K. Chan, Yuming Jiang, Ziwei Liu.*<br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2304.10530)]
 
 
 ## 🔥Universal Controllable Generation

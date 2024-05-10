@@ -366,6 +366,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 *Zehuan Huang, Hongxing Fan, Lipeng Wang, Lu Sheng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15267)]
 
+**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation.**<br>
+*Kuan-Chieh Wang, Daniil Ostashev, Yuwei Fang, Sergey Tulyakov, Kfir Aberman.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11565)]
+
 **LCM-Lookahead for Encoder-based Text-to-Image Personalization.**<br>
 *Rinon Gal, Or Lichter, Elad Richardson, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.03620)]
@@ -468,6 +472,14 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**StyleBooth: Image Style Editing with Multimodal Instruction.**<br>
+*Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12154)]
+
+**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt.**<br>
+*Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
+
 **Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding.**<br>
 *Junseo Park, Beomseok Ko, Hyeryung Jang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.05256)]
@@ -592,6 +604,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model.**<br>
+*Han Lin, Jaemin Cho, Abhay Zala, Mohit Bansal.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09967)]
+
 **ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback.**<br>
 *Ming Li, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07987)]
@@ -812,6 +828,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding.**<br>
+*Zezhong Fan, Xiaohan Li, Chenhao Fang, Topojoy Biswas, Kaushiki Nag, Jianpeng Xu, Kannan Achan.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11589)]
+
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models.**<br>
 *Yasi Zhang, Peiyu Yu, Ying Nian Wu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07389)]
@@ -1012,6 +1032,10 @@ ACL 2022. [[PDF](https://arxiv.org/abs/2212.10562)]
 
 ## 🌕Generation with Multiple Conditions
 ### 🌒Joint Training
+**MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models.**<br>
+*Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M Patel.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09977)]
+
 **Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models.**<br>
 *Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.04243)]
@@ -1038,6 +1062,10 @@ ICML 2023. [[PDF](https://arxiv.org/abs/2302.09778)]
 
 
 ### 🌓Continual Learning
+**Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers.**<br>
+*Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M. Patel.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09976)]
+
 **Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters.**<br>
 *James Seale Smith, Yen-Chang Hsu, Zsolt Kira, Yilin Shen, Hongxia Jin.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.18763)]
@@ -1119,7 +1147,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14408)]
 
 **Collaborative Diffusion for Multi-Modal Face Generation and Editing.**<br>
 *Ziqi Huang, Kelvin C. K. Chan, Yuming Jiang, Ziwei Liu.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2304.10530)]
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.10530)]
 
 
 ## 🔥Universal Controllable Generation

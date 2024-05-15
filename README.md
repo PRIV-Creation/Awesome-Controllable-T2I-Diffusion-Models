@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting.**<br>
+*Weili Zeng, Yichao Yan, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14007)]
+
 **CAT: Contrastive Adapter Training for Personalized Image Generation.**<br>
 *Jae Wan Park, Sang Hyun Park, Jun Young Koh, Junha Lee, Min Song.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.07554)]
@@ -604,6 +608,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions.**<br>
+*Xiaoran Zhao, Tianhao Wu, Yu Lai, Zhiliang Tian, Zhen Huang, Yahui Liu, Zejiang He, Dongsheng Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.13579)]
+
 **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model.**<br>
 *Han Lin, Jaemin Cho, Abhay Zala, Mohit Bansal.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09967)]
@@ -828,6 +836,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control.**<br>
+*Maria Mihaela Trusca, Wolf Nuyts, Jonathan Thomm, Robert Honig, Thomas Hofmann, Tinne Tuytelaars, Marie-Francine Moens.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.13766)]
+
 **Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding.**<br>
 *Zezhong Fan, Xiaohan Li, Chenhao Fang, Topojoy Biswas, Kaushiki Nag, Jianpeng Xu, Kannan Achan.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11589)]
@@ -1115,6 +1127,10 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.04488)]
 
 
 ### 🌖Attention-based Integration
+**MultiBooth: Towards Generating All Your Concepts in an Image from Text.**<br>
+*Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14239)]
+
 **Cones 2- Customizable Image Synthesis  with Multiple Subjects .**<br>
 *Zhiheng Liu, Yifei Zhang, Yujun Shen, Kecheng Zheng, Kai Zhu, Ruili Feng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19327)]

@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance.**<br>
+*Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Yunchao Wei.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17532)]
+
 **Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting.**<br>
 *Weili Zeng, Yichao Yan, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14007)]
@@ -366,6 +370,26 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 
 
 #### 🍊Person-Driven Generation
+**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control.**<br>
+*Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, Jiangning Zhang, Chengjie Wang, Yong Liu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12970)]
+
+**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving.**<br>
+*Jiehui Huang, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16771)]
+
+**PuLID: Pure and Lightning ID Customization via Contrastive Alignment.**<br>
+*Zinan Guo, Yanze Wu, Zhuowei Chen, Lang Chen, Qian He.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16022)]
+
+**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning.**<br>
+*Weifeng Chen, Jiacheng Zhang, Jie Wu, Hefeng Wu, Xuefeng Xiao, Liang Lin.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15449)]
+
+**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation.**<br>
+*Xuanhua He, Quande Liu, Shengju Qian, Xin Wang, Tao Hu, Ke Cao, Keyu Yan, Jie Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15275)]
+
 **From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation.**<br>
 *Zehuan Huang, Hongxing Fan, Lipeng Wang, Lu Sheng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15267)]
@@ -476,6 +500,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**MuseumMaker: Continual Style Customization without Catastrophic Forgetting.**<br>
+*Chenxi Liu, Gan Sun, Wenqi Liang, Jiahua Dong, Can Qin, Yang Cong.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16612)]
+
 **StyleBooth: Image Style Editing with Multimodal Instruction.**<br>
 *Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12154)]
@@ -608,6 +636,14 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Control.**<br>
+*Linzi Qu, Jiaxiang Shang, Hui Ye, Xiaoguang Han, Hongbo Fu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15889)]
+
+**GLoD: Composing Global Contexts and Local Details in Image Generation.**<br>
+*Moyuru Yamada.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15447)]
+
 **LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions.**<br>
 *Xiaoran Zhao, Tianhao Wu, Yu Lai, Zhiliang Tian, Zhen Huang, Yahui Liu, Zejiang He, Dongsheng Li.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.13579)]
@@ -1074,6 +1110,10 @@ ICML 2023. [[PDF](https://arxiv.org/abs/2302.09778)]
 
 
 ### 🌓Continual Learning
+**MuseumMaker: Continual Style Customization without Catastrophic Forgetting.**<br>
+*Chenxi Liu, Gan Sun, Wenqi Liang, Jiahua Dong, Can Qin, Yang Cong.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16612)]
+
 **Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers.**<br>
 *Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M. Patel.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09976)]

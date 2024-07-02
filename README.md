@@ -374,6 +374,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 *Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, Jiangning Zhang, Chengjie Wang, Yong Liu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12970)]
 
+**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation.**<br>
+*Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.19427)]
+
 **ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving.**<br>
 *Jiehui Huang, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16771)]

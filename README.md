@@ -78,6 +78,14 @@ Since the following content is generated based on our database, please provide t
 *Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Yunchao Wei.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17532)]
 
+**Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance.**<br>
+*Kelvin C. K. Chan, Yang Zhao, Xuhui Jia, Ming-Hsuan Yang, Huisheng Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01356)]
+
+**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion  Generation.**<br>
+*Xujie Zhang, Ente Lin, Xiu Li, Yuxuan Luo, Michael Kampffmeyer, Xin Dong, Xiaodan Liang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.00448)]
+
 **Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting.**<br>
 *Weili Zeng, Yichao Yan, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14007)]
@@ -504,6 +512,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**Customizing Text-to-Image Models with a Single Image Pair.**<br>
+*Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01536)]
+
 **MuseumMaker: Continual Style Customization without Catastrophic Forgetting.**<br>
 *Chenxi Liu, Gan Sun, Wenqi Liang, Jiahua Dong, Can Qin, Yang Cong.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.16612)]

@@ -888,6 +888,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**On Mechanistic Knowledge Localization in Text-to-Image Generative Models.**<br>
+*Samyadeep Basu, Keivan Rezaei, Priyatham Kattakinda, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01008)]
+
 **Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control.**<br>
 *Maria Mihaela Trusca, Wolf Nuyts, Jonathan Thomm, Robert Honig, Thomas Hofmann, Tinne Tuytelaars, Marie-Francine Moens.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.13766)]
@@ -1042,6 +1046,10 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2211.06956)]
 
 
 ### 🍭Sound-Guided Generation
+**SonicDiffusion: Audio-Driven Image Generation and Editing with  Pretrained Diffusion Models.**<br>
+*Burak Can Biner, Farrin Marouf Sofian, Umur Berkay Karakaş, Duygu Ceylan, Erkut Erdem, Aykut Erdem.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.00878)]
+
 **Align, Adapt and Inject: Sound-guided
 Unified Image Generation.**<br>
 *Yue Yang, Kaipeng Zhang, Yuying Ge, Wenqi Shao, Zeyue Xue, Yu Qiao, Ping Luo.*<br>

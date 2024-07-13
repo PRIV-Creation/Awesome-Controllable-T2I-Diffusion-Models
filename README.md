@@ -512,6 +512,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis  with Vectorized Strokes.**<br>
+*Juncheng Hu, Ximing Xing, Zhengqi Zhang, Jing Zhang, Qian Yu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.02962)]
+
 **Customizing Text-to-Image Models with a Single Image Pair.**<br>
 *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01536)]

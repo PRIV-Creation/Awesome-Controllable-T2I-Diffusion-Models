@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**PartCraft: Crafting Creative Objects by Parts.**<br>
+*Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04604)]
+
 **ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance.**<br>
 *Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Yunchao Wei.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17532)]
@@ -382,6 +386,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01618)]
 *Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, Jiangning Zhang, Chengjie Wang, Yong Liu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12970)]
 
+**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation.**<br>
+*Yuxiang Wei, Zhilong Ji, Jinfeng Bai, Hongzhi Zhang, Lei Zhang, Wangmeng Zuo.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.05806)]
+
 **InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation.**<br>
 *Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.19427)]
@@ -656,6 +664,14 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**Compositional Text-to-Image Generation with Dense Blob Representations.**<br>
+*Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.08246)]
+
+**FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation.**<br>
+*Xuehai He, Jian Zheng, Jacob Zhiyuan Fang, Robinson Piramuthu, Mohit Bansal, Vicente Ordonez, Gunnar A Sigurdsson, Nanyun Peng, Xin Eric Wang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.04834)]
+
 **Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Control.**<br>
 *Linzi Qu, Jiaxiang Shang, Hui Ye, Xiaoguang Han, Hongbo Fu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15889)]
@@ -938,7 +954,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16954)]
 
 **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering.**<br>
 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2403.09622)]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2403.09622)]
 
 **DivCon: Divide and Conquer for Progressive Text-to-Image Generation.**<br>
 *Yuhao Jia, Wenhan Tan.*<br>
@@ -1065,6 +1081,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.10056)]
 
 
 ### 🧉Text Rendering
+**
+GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models.**<br>
+*Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02252)]
+
 **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation.**<br>
 *Sanyam Lakhanpal, Shivang Chopra, Vinija Jain, Aman Chadha, Man Luo.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16422)]
@@ -1108,6 +1129,10 @@ ACL 2022. [[PDF](https://arxiv.org/abs/2212.10562)]
 
 ## 🌕Generation with Multiple Conditions
 ### 🌒Joint Training
+**Non-confusing Generation of Customized Concepts in Diffusion Models.**<br>
+*Wang Lin, Jingyuan Chen, Jiaxin Shi, Yichen Zhu, Chen Liang, Junzhong Miao, Tao Jin, Zhou Zhao, Fei Wu, Shuicheng Yan, Hanwang Zhang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.06914)]
+
 **MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models.**<br>
 *Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M Patel.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.09977)]
@@ -1195,6 +1220,10 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.04488)]
 
 
 ### 🌖Attention-based Integration
+**Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation.**<br>
+*Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, Xipeng Cao, Quan Chen, Han Li, Di Dong, Peng Jiang.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.06948)]
+
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text.**<br>
 *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14239)]

@@ -582,6 +582,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.00983)]
 
 
 #### 🍍Interaction-Driven Generation 
+**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing.**<br>
+*Binghui Chen, Chongyang Zhong, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.09985)]
+
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models.**<br>
 *Jiun Tian Hoe, Xudong Jiang, Chee Seng Chan, Yap-Peng Tan, Weipeng Hu.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.05849)]
@@ -1026,6 +1030,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.05032)]
 
 
 ### 🧁In-Context Generation
+**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model.**<br>
+*Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.10316)]
+
 **Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts.**<br>
 *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01408)]

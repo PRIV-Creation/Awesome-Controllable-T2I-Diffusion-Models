@@ -1102,6 +1102,10 @@ GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models 
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02252)]
 
+**CustomText: Customized Textual Image Generation using Diffusion Models.**<br>
+*Shubham Paliwal, Arushi Jain, Monika Sharma, Vikram Jamwal, Lovekesh Vig.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12531)]
+
 **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation.**<br>
 *Sanyam Lakhanpal, Shivang Chopra, Vinija Jain, Aman Chadha, Man Luo.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2403.16422)]

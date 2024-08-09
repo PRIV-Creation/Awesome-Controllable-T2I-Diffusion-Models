@@ -82,6 +82,10 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04604)]
 *Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Yunchao Wei.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17532)]
 
+**Personalized Residuals for Concept-Driven Text-to-Image Generation.**<br>
+*Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12978)]
+
 **Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance.**<br>
 *Kelvin C. K. Chan, Yang Zhao, Xuhui Jia, Ming-Hsuan Yang, Huisheng Wang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01356)]
@@ -912,6 +916,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation.**<br>
+*Zhiyu Tan, Mengping Yang, Luozheng Qin, Hao Yang, Ye Qian, Qiang Zhou, Cheng Zhang, Hao Li.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12914)]
+
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models.**<br>
 *Samyadeep Basu, Keivan Rezaei, Priyatham Kattakinda, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01008)]

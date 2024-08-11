@@ -1149,6 +1149,10 @@ ACL 2022. [[PDF](https://arxiv.org/abs/2212.10562)]
 
 ## 🌕Generation with Multiple Conditions
 ### 🌒Joint Training
+**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition.**<br>
+*Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.13870)]
+
 **Non-confusing Generation of Customized Concepts in Diffusion Models.**<br>
 *Wang Lin, Jingyuan Chen, Jiaxin Shi, Yichen Zhu, Chen Liang, Junzhong Miao, Tao Jin, Zhou Zhao, Fei Wu, Shuicheng Yan, Hanwang Zhang.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.06914)]

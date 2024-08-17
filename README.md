@@ -672,6 +672,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08195)]
 
 
 ### 🍔Spatial Control
+**Enhancing Image Layout Control with Loss-Guided Diffusion Models.**<br>
+*Zakaria Patel, Kirill Serkh.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.14101)]
+
 **Compositional Text-to-Image Generation with Dense Blob Representations.**<br>
 *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.08246)]

@@ -78,9 +78,17 @@ Since the following content is generated based on our database, please provide t
 *Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04604)]
 
+**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance.**<br>
+*Jiaojiao Fan, Haotian Xue, Qinsheng Zhang, Yongxin Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17661)]
+
 **ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance.**<br>
 *Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Yunchao Wei.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17532)]
+
+**User-Friendly Customized Generation with Multi-Modal Prompts.**<br>
+*A, b, s, t, r, a, c, t,  , n, o, t,  , f, o, u, n, d.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16501)]
 
 **Personalized Residuals for Concept-Driven Text-to-Image Generation.**<br>
 *Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz.*<br>
@@ -524,6 +532,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models.**<br>
+*A, b, s, t, r, a, c, t,  , n, o, t,  , f, o, u, n, d.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15287)]
+
 **VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis  with Vectorized Strokes.**<br>
 *Juncheng Hu, Ximing Xing, Zhengqi Zhang, Jing Zhang, Qian Yu.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.02962)]
@@ -586,6 +598,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.00983)]
 
 
 #### 🍍Interaction-Driven Generation 
+**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance.**<br>
+*Guibao Shen, Luozhou Wang, Jiantao Lin, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15321)]
+
 **VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing.**<br>
 *Binghui Chen, Chongyang Zhong, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.09985)]

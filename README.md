@@ -532,6 +532,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.10431)]
 
 
 #### 🍋Style-Driven Generation
+**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control.**<br>
+*Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17401)]
+
 **StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models.**<br>
 *A, b, s, t, r, a, c, t,  , n, o, t,  , f, o, u, n, d.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15287)]

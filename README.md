@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models.**<br>
+*Donghao Zhou, Jiancheng Huang, Jinbin Bai, Jiaze Wang, Hao Chen, Guangyong Chen, Xiaowei Hu, Pheng-Ann Heng.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.13370)]
+
 **PartCraft: Crafting Creative Objects by Parts.**<br>
 *Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04604)]
@@ -896,6 +900,10 @@ ICLR 2024. [[PDF](https://arxiv.org/abs/2306.04607)]
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation.**<br>
 *Nico Giambi, Giuseppe Lisanti.*<br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.00914)]
+
+**MaGIC: Multi-modality Guided Image Completion.**<br>
+*Yongsheng Yu, Hao Wang, Tiejian Luo, Heng Fan, Libo Zhang.*<br>
+ICLR 2024. [[PDF](https://arxiv.org/abs/2305.11818)]
 
 **Late-Constraint Diffusion Guidance for Controllable Image Synthesis.**<br>
 *Chang Liu, Dong Liu.*<br>

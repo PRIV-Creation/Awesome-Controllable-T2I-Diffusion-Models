@@ -78,6 +78,14 @@ Since the following content is generated based on our database, please provide t
 *Kam Woh Ng, Xiatian Zhu, Yi-Zhe Song, Tao Xiang.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04604)]
 
+**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models.**<br>
+*Xinxi Zhang, Song Wen, Ligong Han, Felix Juefei-Xu, Akash Srivastava, Junzhou Huang, Hao Wang, Molei Tao, Dimitris N. Metaxas.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.21050)]
+
+**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization.**<br>
+*Junjie Shentu, Matthew Watson, Noura Al Moubayed.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17965)]
+
 **RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance.**<br>
 *Jiaojiao Fan, Haotian Xue, Qinsheng Zhang, Yongxin Chen.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.17661)]

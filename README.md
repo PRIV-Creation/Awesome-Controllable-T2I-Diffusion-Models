@@ -956,6 +956,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**Information Theoretic Text-to-Image Alignment.**<br>
+*Chao Wang, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.20759)]
+
 **An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation.**<br>
 *Zhiyu Tan, Mengping Yang, Luozheng Qin, Hao Yang, Ye Qian, Qiang Zhou, Cheng Zhang, Hao Li.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.12914)]

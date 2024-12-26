@@ -74,6 +74,10 @@ Since the following content is generated based on our database, please provide t
 ## 🚀Generation with Specific Condition
 ### 🍇Personalization
 #### 🍉Subject-Driven Generation
+**DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models.**<br>
+*Shwetha Ram, Tal Neiman, Qianli Feng, Andrew Stuart, Son Tran, Trishul Chilimbi.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.19390)]
+
 **MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models.**<br>
 *Donghao Zhou, Jiancheng Huang, Jinbin Bai, Jiaze Wang, Hao Chen, Guangyong Chen, Xiaowei Hu, Pheng-Ann Heng.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2410.13370)]
@@ -956,6 +960,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01324)]
 
 
 ### 🍿Advanced Text-Conditioned Generation
+**QUOTA: Quantifying Objects with Text-to-Image Models for Any Domain.**<br>
+*Wenfang Sun, Yingjun Du, Gaowen Liu, Cees G. M. Snoek.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.19534)]
+
 **Information Theoretic Text-to-Image Alignment.**<br>
 *Chao Wang, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi.*<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.20759)]

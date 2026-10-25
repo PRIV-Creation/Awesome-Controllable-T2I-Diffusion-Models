@@ -17,6 +17,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
+from PIL import Image
 
 from catalog import read_catalog
 
@@ -56,10 +57,15 @@ def build(as_of: str, check: bool = False):
     writer.writerows(rows)
     outputs = {ROOT / "data/paper-statistics.json": json.dumps(summary, indent=2) + "\n",
                ROOT / "data/paper-statistics.csv": csv_buffer.getvalue()}
+    data_hash = hashlib.sha256(csv_buffer.getvalue().encode("utf-8")).hexdigest()
     if check:
         for path, expected in outputs.items():
             if not path.exists() or path.read_text() != expected:
                 raise ValueError(f"Stale generated statistics: {path.relative_to(ROOT)}")
+        with Image.open(ROOT / "assets/count.png") as chart:
+            if (chart.info.get("CatalogSHA256") != summary["readme_sha256"]
+                    or chart.info.get("DataSHA256") != data_hash):
+                raise ValueError("Stale generated chart: assets/count.png")
         print(f"Statistics current: {len(papers)} papers / {entry_count} category entries")
         return
     for path, content in outputs.items():
@@ -87,9 +93,11 @@ def build(as_of: str, check: bool = False):
     fig.text(0.08, 0.92, "Papers in the collection", fontsize=25, fontweight="bold")
     fig.text(0.08, 0.84, f"{len(papers):,} unique papers", fontsize=18, color="#4974ad")
     fig.text(0.97, 0.85, f"Updated {as_of}", fontsize=12, color="#657184", ha="right")
-    fig.text(0.08, 0.12, "Year of first arXiv submission; publication year for papers without arXiv.", fontsize=11, color="#657184")
+    fig.text(0.08, 0.12, "Year of first arXiv submission; otherwise, publication or announced conference year.", fontsize=11, color="#657184")
     fig.text(0.08, 0.07, f"Cross-listed papers count once. {cutoff.year} includes records through {as_of}.", fontsize=11, color="#657184")
-    fig.savefig(ROOT / "assets/count.png", facecolor="white", metadata={"Software": "scripts/update_statistics.py"})
+    fig.savefig(ROOT / "assets/count.png", facecolor="white",
+                metadata={"Software": "scripts/update_statistics.py",
+                          "CatalogSHA256": summary["readme_sha256"], "DataSHA256": data_hash})
     plt.close(fig)
     print(json.dumps(summary, indent=2))
 

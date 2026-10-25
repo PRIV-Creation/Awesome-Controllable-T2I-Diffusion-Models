@@ -53,8 +53,8 @@ def read_catalog(path: Path):
             raise ValueError(f"Paper without a bibliography link: {title}")
         arxiv = ARXIV.search(publication)
         doi = next((url.split("doi.org/", 1)[1].lower() for _, url in links if "doi.org/" in url), "")
-        identifier = "arxiv:" + arxiv[1] if arxiv else "doi:" + doi if doi else links[0][1]
         normalized = normalize_title(title)
+        identifier = "arxiv:" + arxiv[1] if arxiv else "doi:" + doi if doi else "title:" + normalized
         if normalized in title_ids and title_ids[normalized] != identifier:
             raise ValueError(f"Potential duplicate with different identifiers: {title}")
         title_ids[normalized] = identifier

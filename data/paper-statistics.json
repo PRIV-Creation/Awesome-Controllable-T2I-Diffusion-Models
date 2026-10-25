@@ -1,39 +1,41 @@
 {
   "as_of": "2026-10-25",
-  "unique_papers": 361,
-  "category_entries": 380,
+  "unique_papers": 1299,
+  "category_entries": 1318,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
-    "2023": 142,
-    "2024": 165,
-    "2025": 29,
-    "2026": 12
+    "2023": 146,
+    "2024": 306,
+    "2025": 468,
+    "2026": 366
   },
   "by_category": {
-    "Advanced Text-Conditioned Generation": 37,
-    "Attention-based Integration": 5,
-    "Brain-Guided Generation": 8,
-    "Continual Learning": 8,
-    "Distribution-Driven Generation": 2,
-    "Guidance Composition": 8,
-    "Image-Driven Generation": 10,
-    "In-Context Generation": 6,
-    "Interaction-Driven Generation": 14,
-    "Joint Training": 12,
-    "Person-Driven Generation": 38,
-    "Sound-Guided Generation": 5,
-    "Spatial Control": 71,
-    "Style-Driven Generation": 23,
-    "Subject-Driven Generation": 92,
-    "Text Rendering": 18,
-    "Universal Condition-Guided Score Estimation": 4,
-    "Universal Conditional Score Prediction": 10,
-    "Weight Fusion": 9
+    "Advanced Text-Conditioned Generation": 136,
+    "Analysis and Evaluation": 70,
+    "Attention-based Integration": 11,
+    "Brain-Guided Generation": 29,
+    "Continual Learning": 15,
+    "Distribution-Driven Generation": 10,
+    "Guidance Composition": 15,
+    "Image-Driven Generation": 74,
+    "In-Context Generation": 28,
+    "Interaction-Driven Generation": 20,
+    "Joint Training": 53,
+    "Person-Driven Generation": 105,
+    "Preference-Driven Generation": 18,
+    "Sound-Guided Generation": 7,
+    "Spatial Control": 238,
+    "Style-Driven Generation": 112,
+    "Subject-Driven Generation": 201,
+    "Text Rendering": 67,
+    "Universal Condition-Guided Score Estimation": 24,
+    "Universal Conditional Score Prediction": 61,
+    "Weight Fusion": 24
   },
   "date_basis": {
-    "first-arxiv-submission": 359,
-    "publication-year-without-arxiv": 2
+    "first-arxiv-submission": 1177,
+    "venue-year-without-arxiv": 122
   },
-  "readme_sha256": "a4aed97264ae1f83543e43c100ac6e83cc840e140d440d9d7d8b157728c81b40"
+  "readme_sha256": "752358ff09b64018fc0e662796e3598eb8cd3b1521b96b6b1b9551c654ec1809"
 }

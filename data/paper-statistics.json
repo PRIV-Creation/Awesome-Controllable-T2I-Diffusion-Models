@@ -1,0 +1,39 @@
+{
+  "as_of": "2026-10-25",
+  "unique_papers": 361,
+  "category_entries": 380,
+  "cross_listed_entries": 19,
+  "by_year": {
+    "2022": 13,
+    "2023": 142,
+    "2024": 165,
+    "2025": 29,
+    "2026": 12
+  },
+  "by_category": {
+    "Advanced Text-Conditioned Generation": 37,
+    "Attention-based Integration": 5,
+    "Brain-Guided Generation": 8,
+    "Continual Learning": 8,
+    "Distribution-Driven Generation": 2,
+    "Guidance Composition": 8,
+    "Image-Driven Generation": 10,
+    "In-Context Generation": 6,
+    "Interaction-Driven Generation": 14,
+    "Joint Training": 12,
+    "Person-Driven Generation": 38,
+    "Sound-Guided Generation": 5,
+    "Spatial Control": 71,
+    "Style-Driven Generation": 23,
+    "Subject-Driven Generation": 92,
+    "Text Rendering": 18,
+    "Universal Condition-Guided Score Estimation": 4,
+    "Universal Conditional Score Prediction": 10,
+    "Weight Fusion": 9
+  },
+  "date_basis": {
+    "first-arxiv-submission": 359,
+    "publication-year-without-arxiv": 2
+  },
+  "readme_sha256": "a4aed97264ae1f83543e43c100ac6e83cc840e140d440d9d7d8b157728c81b40"
+}

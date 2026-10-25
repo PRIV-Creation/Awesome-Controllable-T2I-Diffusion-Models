@@ -16,10 +16,15 @@ A curated collection of research on controlling text-to-image diffusion models w
 Our survey, [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279), is published in [IEEE TPAMI, volume 48, issue 4, pages 4771–4791, April 2026](https://doi.org/10.1109/TPAMI.2025.3646548).
 
 <p align="center">
-  <img src="assets/count.png" alt="Historical paper statistics from the 2024 collection" width="49%" />
-  <img src="assets/controllable_generation.png" alt="Taxonomy of controllable text-to-image generation" width="49%" />
+  <img src="assets/count.png" alt="Deduplicated papers by first arXiv submission year or publication year" width="100%" />
 </p>
-<p align="center"><em>Historical figures retained from the 2024 collection.</em></p>
+
+Statistics count each paper once, including papers listed in multiple categories. Years use the first arXiv submission date, with publication year used for papers without arXiv. [Paper-level data](data/paper-statistics.csv) · [Counts and methodology](data/paper-statistics.json)
+
+<p align="center">
+  <img src="assets/controllable_generation.png" alt="Taxonomy of controllable text-to-image generation" width="70%" />
+</p>
+<p align="center"><em>Taxonomy illustration from the 2024 collection.</em></p>
 
 ## 💖 Citation
 **If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**

@@ -1,41 +1,41 @@
 {
   "as_of": "2026-10-25",
-  "unique_papers": 1299,
-  "category_entries": 1318,
+  "unique_papers": 1280,
+  "category_entries": 1299,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
-    "2023": 146,
-    "2024": 306,
-    "2025": 468,
-    "2026": 366
+    "2023": 145,
+    "2024": 302,
+    "2025": 462,
+    "2026": 358
   },
   "by_category": {
-    "Advanced Text-Conditioned Generation": 136,
-    "Analysis and Evaluation": 70,
-    "Attention-based Integration": 11,
-    "Brain-Guided Generation": 29,
-    "Continual Learning": 15,
-    "Distribution-Driven Generation": 10,
-    "Guidance Composition": 15,
-    "Image-Driven Generation": 74,
-    "In-Context Generation": 28,
-    "Interaction-Driven Generation": 20,
-    "Joint Training": 53,
-    "Person-Driven Generation": 105,
-    "Preference-Driven Generation": 18,
+    "Advanced Text-Conditioned Generation": 138,
+    "Analysis and Evaluation": 71,
+    "Attention-based Integration": 16,
+    "Brain-Guided Generation": 26,
+    "Continual Learning": 16,
+    "Distribution-Driven Generation": 11,
+    "Guidance Composition": 20,
+    "Image-Driven Generation": 71,
+    "In-Context Generation": 29,
+    "Interaction-Driven Generation": 21,
+    "Joint Training": 43,
+    "Person-Driven Generation": 107,
+    "Preference-Driven Generation": 13,
     "Sound-Guided Generation": 7,
     "Spatial Control": 238,
     "Style-Driven Generation": 112,
-    "Subject-Driven Generation": 201,
-    "Text Rendering": 67,
-    "Universal Condition-Guided Score Estimation": 24,
-    "Universal Conditional Score Prediction": 61,
-    "Weight Fusion": 24
+    "Subject-Driven Generation": 210,
+    "Text Rendering": 63,
+    "Universal Condition-Guided Score Estimation": 13,
+    "Universal Conditional Score Prediction": 54,
+    "Weight Fusion": 20
   },
   "date_basis": {
-    "first-arxiv-submission": 1177,
-    "venue-year-without-arxiv": 122
+    "first-arxiv-submission": 1163,
+    "venue-year-without-arxiv": 117
   },
-  "readme_sha256": "752358ff09b64018fc0e662796e3598eb8cd3b1521b96b6b1b9551c654ec1809"
+  "readme_sha256": "8840fe5db4b3a7085d62fbd04194853090b865639a779da290aa12d8ba369278"
 }

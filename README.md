@@ -11,8 +11,6 @@
 
 A curated collection of research on controlling text-to-image diffusion models with novel conditions, including personalization, spatial control, and multimodal generation. Recent entries also cover control of flow-matching image models, preference-based personalization, and studies of controllability.
 
-**Last research refresh: 2026-10-25.** Papers are grouped by control mechanism and condition, with recent additions first in each category. [Research coverage and screening record](data/research-review-2026-10-25.md).
-
 Our survey, [Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2403.04279), is published in [IEEE TPAMI, volume 48, issue 4, pages 4771–4791, April 2026](https://doi.org/10.1109/TPAMI.2025.3646548).
 
 <p align="center">
@@ -124,6 +122,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2607.24215)]
 *Baixuan Zhao, Xinyu Zhang, Huayu Zheng, Shuaicheng Liu, Xiongkuo Min, Guangtao Zhai, Xiaohong Liu.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2607.04691)]
 
+**LILAC: Layer-Wise Independent LoRAs and Cascaded Conditioning for Multi-Concept Customization of Diffusion Models.**<br>
+*Marian Lupascu, Sebastian Ripa, Mihai Trascau, Mariana-Iuliana Georgescu, Ionut Mironica.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2607.04801)]
+
 **Decoupled Guidance: Disentangling Subject and Context Pathways in Text-to-Image Personalization.**<br>
 *Seongmin Kim, Kyucheol Shin, Heesun Jung, Jinseo Kim, Sungyong Baik.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2607.00766)]
@@ -188,6 +190,10 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Conc
 *Guandong Li, Mengxia Ye.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.13994)]
 
+**Unified Personalized Understanding, Generating and Editing.**<br>
+*Yu Zhong, Tianwei Lin, Ruike Zhu, Yuqian Yuan, Haoyu Zheng, Liang Liang, Wenqiao Zhang, Feifei Shao, Haoyuan Li, Wanggui He, Hao Jiang, Yueting Zhuang.*<br>
+CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_Unified_Personalized_Understanding_Generating_and_Editing_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2601.06965)]
+
 **Unified Customized Generation by Disentangled Reward Modeling.**<br>
 *Shaojin Wu, Mengqi Huang, Yufeng Cheng, Wenxu Wu, Jiahe Tian, Yiming Luo, Fei Ding, Qian He.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Unified_Customized_Generation_by_Disentangled_Reward_Modeling_CVPR_2026_paper.html)]
@@ -240,6 +246,10 @@ NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/152257)
 *Xue Song, Zhongqi Yue, Jiequan Cui, Hanwang Zhang, Jingjing Chen.*<br>
 AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i11.37869)]
 
+**Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models.**<br>
+*Hao Fu, Tianyu Su, Meng Liu, Chenfang Yang, Tian Gan.*<br>
+ICML 2026. [[Paper](https://proceedings.mlr.press/v306/fu26o.html)]
+
 **ASemConsist: Adaptive Semantic Feature Control for Training-Free Identity-Consistent Generation.**<br>
 *Shin Seong Kim, Minjung Shin, Hyunin Cho, Youngjung Uh.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2512.23245)]
@@ -275,6 +285,14 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2512.02794)]
 **MINDiff: Mask-Integrated Negative Attention for Controlling Overfitting in Text-to-Image Personalization.**<br>
 *Seulgi Jeong, Jaeil Kim.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2511.17888)]
+
+**Coffee: Controllable Diffusion Fine-tuning.**<br>
+*Ziyao Zeng, Jingcheng Ni, Ruyi Liu, Alex Wong.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2511.14113)]
+
+**FreeFuse: Multi-Subject LoRA Fusion via Adaptive Token-Level Routing at Test Time.**<br>
+*Yaoli Liu, Yao-Xiang Ding, Kun Zhou.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2510.23515)]
 
 **From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation.**<br>
 *Ziwei Huang, Ying Shu, Hao Fang, Quanyu Long, Wenya Wang, Qiushi Guo, Tiezheng Ge, Leilei Gan.*<br>
@@ -328,6 +346,10 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Fr
 *Hyun-Jun Jin, Young-Eun Kim, Seong-Whan Lee.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2507.11990)]
 
+**CoDi: Subject-Consistent and Pose-Diverse Text-to-Image Generation.**<br>
+*Zhanxin Gao, Beier Zhu, Liang Yao, Jian Yang, Ying Tai.*<br>
+ICLR 2026. [[Paper](https://arxiv.org/abs/2507.08396)] [[Proceedings](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b8ce770a6b25e603fbff4a37f9e31edc-Abstract-Conference.html)]
+
 **T-LoRA: Single Image Diffusion Model Customization Without Overfitting.**<br>
 *Vera Soboleva, Aibek Alanov, Andrey Kuznetsov, Konstantin Sobolev.*<br>
 AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i11.37861)] [[arXiv](https://arxiv.org/abs/2507.05964)]
@@ -371,6 +393,10 @@ ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1a28
 **Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter.**<br>
 *Weizhi Zhong, Huan Yang, Zheng Liu, Huiguo He, Zijian He, Xuesong Niu, Di ZHANG, Guanbin Li.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/0a9bc5536c595ee44a72b575b258d141-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.18612)]
+
+**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens.**<br>
+*Ruichuan An, Sihan Yang, Renrui Zhang, Zijun Shen, Ming Lu, Gaole Dai, Hao Liang, Ziyu Guo, Shilin Yan, Yulin Luo, Bocheng Zou, Chaoqun Yang, Wentao Zhang.*<br>
+NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/d531364f1771e0972c1d11c334a0efb4-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.14671)] [[DOI](https://doi.org/10.52202/085713-4840)]
 
 **DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition.**<br>
 *Yiyan Xu, Wuqiang Zheng, Wenjie Wang, Fengbin Zhu, Xinting Hu, Yang Zhang, Fuli Feng, Tat-Seng Chua.*<br>
@@ -435,6 +461,14 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Kumari_G
 **One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt.**<br>
 *Tao Liu, Kai Wang, Senmao Li, Joost van de Weijer, Fahad Khan, Shiqi Yang, Yaxing Wang, Jian Yang, Ming-Ming Cheng.*<br>
 ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3d681cc4487b97c08e5aa67224dd74f2-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2501.13554)]
+
+**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space.**<br>
+*Daniel Garibi, Shahar Yadin, Roni Paiss, Omer Tov, Shiran Zada, Ariel Ephrat, Tomer Michaeli, Inbar Mosseri, Tali Dekel.*<br>
+ACM TOG 2025. [[Paper](https://doi.org/10.1145/3730843)] [[arXiv](https://arxiv.org/abs/2501.12224)]
+
+**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models.**<br>
+*Zerui Tao, Yuhta Takida, Naoki Murata, Qibin Zhao, Yuki Mitsufuji.*<br>
+ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Tao_Transformed_Low-rank_Adaptation_via_Tensor_Decomposition_and_Its_Applications_to_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2501.08727)]
 
 **SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation.**<br>
 *Shang Chai, Zihang Lin, Min Zhou, Xubin Li, Liansheng Zhuang, Houqiang Li.*<br>
@@ -521,8 +555,8 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13370)]
 NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/da9e48b452127d5a84cd70a3c9c83a78-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.11208)] [[DOI](https://doi.org/10.52202/079017-3836)]
 
 **DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation.**<br>
-*Jing He, Haodong Li, , Guibao Shen, Yingjie CAI, Weichao Qiu, YINGCONG CHEN.*<br>
-ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/c87df228922b47a8cd0f3303410e88ca-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.02067)]
+*Jing He, Haodong Li, Yongzhe Hu, Guibao Shen, Yingjie Cai, Weichao Qiu, Ying-Cong Chen.*<br>
+ICLR 2025. [[Paper](https://arxiv.org/abs/2410.02067)] [[Proceedings](https://proceedings.iclr.cc/paper_files/paper/2025/hash/c87df228922b47a8cd0f3303410e88ca-Abstract-Conference.html)]
 
 **Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation.**<br>
 *Qihan Huang, Siming Fu, Jinlong Liu, Hao Jiang, Yipeng Yu, Jie Song.*<br>
@@ -911,8 +945,12 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2608.20336)] [[Project](https://doby-
 arXiv 2026. [[Paper](https://arxiv.org/abs/2607.25078)]
 
 **MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer.**<br>
-*siming Zheng, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang.*<br>
-ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/5049)] [[arXiv](https://arxiv.org/abs/2607.20924)]
+*Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang.*<br>
+ECCV 2026. [[Paper](https://arxiv.org/abs/2607.20924)] [[Proceedings](https://eccv.ecva.net/virtual/2026/poster/5049)]
+
+**The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer.**<br>
+*Jijie Li, Jiankuo Zhao, Xiangyu Zhu, Zhen Lei.*<br>
+ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2607.11281)]
 
 **H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks.**<br>
 *Seulgi Jeong, Yunseong Cho, Sanghun Park.*<br>
@@ -977,6 +1015,10 @@ CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_HiFi-
 **Jointly Conditioned Diffusion Model for Multi-View Pose-Guided Person Image Synthesis.**<br>
 *Chengyu Xie, Zhi Gong, Junchi Ren, Linkun Yu, Si Shen, Fei Shen, Xiaoyu Du.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2511.15092)]
+
+**FashionMAC: Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization.**<br>
+*Rong Zhang, Jinxiao Li, Jingnan Wang, Zhiwen Zuo, Jianfeng Dong, Wei Li, Chi Wang, Weiwei Xu, Xun Wang.*<br>
+AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i15.38266)] [[arXiv](https://arxiv.org/abs/2511.14031)]
 
 **BeyondFacial: Identity-Preserving Personalized Generation Beyond Facial Close-ups.**<br>
 *Songsong Zhang, Chuanqi Tang, Minglong Li, Xueqiong Li, Shaowu Yang, Yuanxi Peng, Wenjing Yang, Jing Zhao.*<br>
@@ -1154,13 +1196,13 @@ CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Seri
 *Liangwei Jiang, Ruida Li, Zhifeng Zhang, Shuo Fang, Chenguang Ma.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2412.01254)]
 
+**Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation.**<br>
+*Xuehao Cui, Guangyang Wu, Zhenghao Gan, Guangtao Zhai, Xiaohong Liu.*<br>
+NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/3379db43afd10e49be5cee62ad71cb31-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2411.19246)] [[DOI](https://doi.org/10.52202/079017-0918)]
+
 **TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On.**<br>
 *Zhenchen Wan, Yanwu Xu, Zhaoqing Wang, Feng Liu, Tongliang Liu, Mingming Gong.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2411.17017)]
-
-**MyTimeMachine: Personalized Facial Age Transformation.**<br>
-*Luchao Qi, Jiaye Wu, Bang Gong, Annie N. Wang, David W. Jacobs, Roni Sengupta.*<br>
-ACM TOG 2025. [[Paper](https://doi.org/10.1145/3731172)] [[arXiv](https://arxiv.org/abs/2411.14521)]
 
 **MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation.**<br>
 *Han Yang, Sotiris Anagnostidis, Enis Simsar, Thomas Hofmann.*<br>
@@ -1362,10 +1404,6 @@ ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/5399)] [[arXiv](ht
 *Kuan Xing, Ye Wang, Changyi Gan, Yuheng Li, Thao Nguyen, Yi Chang, Yilin Wang.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2608.06751)]
 
-**The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer.**<br>
-*Jijie Li, Jiankuo Zhao, Xiangyu Zhu, Zhen Lei.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2607.11281)]
-
 **AnyStyle: A Single LoRA is Sufficient for Image-Guided Style Transfer.**<br>
 *Yongwen Lai, Chaoqun Wang.*<br>
 ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4851)] [[arXiv](https://arxiv.org/abs/2607.04677)]
@@ -1502,6 +1540,10 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_A_St
 *Haojun Tang, Qiwei Lin, Tongda Xu, Lida Huang, Yan Wang.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2511.06365)]
 
+**Personalized Image Filter: Mastering Your Photographic Style.**<br>
+*Chengxuan Zhu, Shuchen Weng, Jiacong Fang, Peixuan Zhang, Si Li, Chao Xu, Boxin Shi.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2510.16791)]
+
 **Few-shot multi-token DreamBooth with LoRa for style-consistent character generation.**<br>
 *Ruben Pascual, Mikel Sesma-Sara, Aranzazu Jurio, Daniel Paternain, Mikel Galar.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2510.09475)]
@@ -1534,13 +1576,13 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_SCFlo
 *Ankit Sanjyal.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2507.20094)]
 
-**A Training-Free Style-Personalization via SVD-Based Feature Decomposition.**<br>
-*Kyoungmin Lee, Jihun Park, Jongmin Gim, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Sunghoon Im.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2507.04482)]
-
 **Domain Generalizable Portrait Style Transfer.**<br>
 *Xinbo Wang, Wenju Xu, Qing Zhang, Wei-Shi Zheng.*<br>
 ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Domain_Generalizable_Portrait_Style_Transfer_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2507.04243)]
+
+**Personalized Image Generation from an Author Writing Style.**<br>
+*Sagar Gandhi, Vishal Gandhi.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2507.03313)]
 
 **CDST: Color Disentangled Style Transfer for Universal Style Reference Customization.**<br>
 *Shiwen Zhang, Zhuowei Chen, Lang Chen, Yanze Wu.*<br>
@@ -1798,6 +1840,10 @@ ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3754911)] [[arXiv](https:/
 *Mingyue Yang, Dianxi Shi, Jialu Zhou, Xinyu Wei, Leqian Li, Shaowu Yang, Chunping Qiu.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2508.17760)]
 
+**Improving Personalized Image Generation through Social Context Feedback.**<br>
+*Parul Gupta, Abhinav Dhall, Thanh-Toan Do.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2507.16095)]
+
 **VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness.**<br>
 *SeungJu Cha, Kwanyoung Lee, Ye-Chan Kim, Hyunwoo Oh, Dong-Jin Kim.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cha_VerbDiff_Text-Only_Diffusion_Models_with_Enhanced_Interaction_Awareness_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2503.16406)]
@@ -1866,17 +1912,9 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13495)]
 *Wanning He, Yuyao Zhang, Yu-Wing Tai.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.07720)]
 
-**JoLT: Joint Latent Trajectories for Context-Guided High-Resolution Tiled Generation.**<br>
-*Mathis Koroglu, Guillaume Jeanneret, Hugo Caselles-Dupré, Matthieu Cord, Arnaud Dapogny.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2608.15395)]
-
 **Diffusion Image Editing via Asynchronous Token Decoding.**<br>
 *Yang Shi, Liangsi Lu, Minzhe Guo, Yifeng Xie, Yanhui Chen, Jingchao Wang, Xuhang Chen.*<br>
 ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2608.09322)]
-
-**ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion.**<br>
-*Yurong Guo, He Yufei, Yonghao Li, Dongliang Chang, Ke Zhang, Zhanyu Ma.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2607.23600)]
 
 **Consistent Feature Transport for Image Relighting.**<br>
 *Bohan Zhang, Huanwei Liang, Yuhan He, Hongteng Xu, Quxiao Chao, Luoqi Liu, Dixin Luo, Ting Liu.*<br>
@@ -1938,10 +1976,6 @@ ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/dffd
 *Yichen Liu, Donghao Zhou, Jie Wang, Xin Gao, Guisheng Liu, Jiatong Li, Quanwei Zhang, Qiang Lyu, Lanqing Guo, Shilei Wen, Weiqiang Wang, Pheng-Ann Heng.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_HiFi-Inpaint_Towards_High-Fidelity_Reference-Based_Inpainting_for_Generating_Detail-Preserving_Human-Product_Images_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.02210)]
 
-**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose.**<br>
-*Sirine Bhouri, Lan Wei, Jian-Qing Zheng, Dandan Zhang.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2602.19348)]
-
 **Continuous Control of Editing Models via Adaptive-Origin Guidance.**<br>
 *Alon Wolf, Chen Katzir, Kfir Aberman, Or Patashnik.*<br>
 SIGGRAPH 2026. [[Paper](https://doi.org/10.1145/3799902.3811077)] [[arXiv](https://arxiv.org/abs/2602.03826)]
@@ -1968,10 +2002,6 @@ ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme
 
 **Rethinking Image Illumination Harmonization via Physics-Guided Diffusion Model.**<br>
 *Zhongyun Bao, Shuaishuai Liu, Changqing Geng, Feifei Wei, Gang Fu, Chunxia Xiao.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)]
-
-**CRIF: Precision-Oriented Parallel Guidance for Controllable Referring Infrared and Visible Image Fusion.**<br>
-*Kang Wang, Zhancheng Zhang, Lin Guo, Zhongzhen Sun, Hui Li, Xiaoning Song, Xiaoqing Luo.*<br>
 ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)]
 
 **Portrait Illumination Harmonization in Image Compositing via Frequency-Aware Diffusion Model.**<br>
@@ -2014,9 +2044,9 @@ SIGGRAPH 2025. [[Paper](https://doi.org/10.1145/3721238.3730666)] [[arXiv](https
 *Kyungmin Jo, Jooyeol Yun, Jaegul Choo.*<br>
 CVPR 2025. [[Paper](https://arxiv.org/abs/2508.02004)]
 
-**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal.**<br>
-*Wanchang Yu, Qing Zhang, Rongjia Zheng, Wei-Shi Zheng.*<br>
-ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_Structure-Guided_Diffusion_Models_for_High-Fidelity_Portrait_Shadow_Removal_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2507.04692)]
+**Visually grounded emotion regulation via diffusion models and user-driven reappraisal.**<br>
+*Edoardo Pinzuti, Oliver Tüscher, André Ferreira Castro.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2507.10861)]
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization.**<br>
 *Lanjiong Li, Guanhua Zhao, Lingting Zhu, Zeyu Cai, Lequan Yu, Jian Zhang, Zeyu Wang.*<br>
@@ -2062,9 +2092,9 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2503.15147)]
 *Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Image_Referenced_Sketch_Colorization_Based_on_Animation_Creation_Workflow_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2502.19937)]
 
-**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation.**<br>
-*Ellie Arar, Yarden Frenkel, Daniel Cohen-Or, Ariel Shamir, Yael Vinker.*<br>
-SIGGRAPH 2025. [[Paper](https://doi.org/10.1145/3721238.3730612)] [[arXiv](https://arxiv.org/abs/2502.08642)]
+**IP-Composer: Semantic Composition of Visual Concepts.**<br>
+*Sara Dorfman, Dana Cohen-Bar, Rinon Gal, Daniel Cohen-Or.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2502.13951)]
 
 **PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models.**<br>
 *Aleksandar Cvejic, Abdelrahman Eldesokey, Peter Wonka.*<br>
@@ -2126,6 +2156,10 @@ AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i16.33819)] [[arXiv](https:/
 *Xi Chen, Yutong Feng, Mengting Chen, Yiyang Wang, Shilong Zhang, Yu Liu, Yujun Shen, Hengshuang Zhao.*<br>
 NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/98b2b307aa4aa323df2ba3a83460f25e-Abstract-Conference.html)] [[DOI](https://doi.org/10.52202/079017-2669)]
 
+**CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.**<br>
+*Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao.*<br>
+ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3681283)]
+
 **FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition.**<br>
 *Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou.*<br>
 arXiv 2023. [[Paper](https://arxiv.org/abs/2312.07536)]
@@ -2185,6 +2219,10 @@ SIGGRAPH 2026. [[Paper](https://doi.org/10.1145/3799902.3811074)] [[arXiv](https
 **GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation.**<br>
 *Ye Zhu, Kaleb Newman, Johannes F. Lutzeyer, Adriana Romero-Soriano, Michal Drozdzal, Olga Russakovsky.*<br>
 ICML 2026. [[Paper](https://proceedings.mlr.press/v306/zhu26ai.html)]
+
+**Breaking the Static: Dynamic Text Conditioning for Diverse Image Generation.**<br>
+*Meng Yu, Ruidong Chen, Qingfeng Shi, Yingmao Miao, Yancheng Bai, Lei Sun, Xiangxiang Chu, Hesheng Wang, Xiaodan Liang.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/152353)]
 
 **CLUE: Controllable Latent space of Unprompted Embeddings for Diversity Management in Text-to-Image Synthesis.**<br>
 *Keunwoo Park, Jihye Chae, Joong Ho Ahn, Jihoon Kweon.*<br>
@@ -2246,25 +2284,9 @@ ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4339)] [[arXiv](ht
 *Connor Dunlop, Matthew Zheng, Kavana Venkatesh, Pinar Yanardag.*<br>
 NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/f503d55f1b711673591c88e943c59695-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2511.05616)] [[DOI](https://doi.org/10.52202/085713-5592)]
 
-**Personalized Image Filter: Mastering Your Photographic Style.**<br>
-*Chengxuan Zhu, Shuchen Weng, Jiacong Fang, Peixuan Zhang, Si Li, Chao Xu, Boxin Shi.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2510.16791)]
-
 **Draw Your Mind: Personalized Generation via Condition-Level Modeling in Text-to-Image Diffusion Models.**<br>
 *Hyungjin Kim, Seokho Ahn, Young-Duk Seo.*<br>
 ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Draw_Your_Mind_Personalized_Generation_via_Condition-Level_Modeling_in_Text-to-Image_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2508.03481)]
-
-**Improving Personalized Image Generation through Social Context Feedback.**<br>
-*Parul Gupta, Abhinav Dhall, Thanh-Toan Do.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2507.16095)]
-
-**Visually grounded emotion regulation via diffusion models and user-driven reappraisal.**<br>
-*Edoardo Pinzuti, Oliver Tüscher, André Ferreira Castro.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2507.10861)]
-
-**Personalized Image Generation from an Author Writing Style.**<br>
-*Sagar Gandhi, Vishal Gandhi.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2507.03313)]
 
 **Personalized Preference Fine-tuning of Diffusion Models.**<br>
 *Meihua Dang, Anikait Singh, Linqi Zhou, Stefano Ermon, Jiaming Song.*<br>
@@ -2278,10 +2300,6 @@ NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/314116
 *Ofir Nabati, Guy Tennenholtz, Chihwei Hsu, Moonkyung Ryu, Deepak Ramachandran, Yinlam Chow, Xiang Li, Craig Boutilier.*<br>
 ICML 2025. [[Paper](https://proceedings.mlr.press/v267/nabati25a.html)]
 
-**Context Steering: Controllable Personalization at Inference Time.**<br>
-*Zhiyang He, Sashrika Pandey, Mariah Schrum, Anca Dragan.*<br>
-ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/db178cd03313e23cffb8937e93f0d464-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2405.01768)]
-
 
 <a id="spatial-control"></a>
 
@@ -2289,6 +2307,10 @@ ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/db17
 **Spatially Gated Demographic Steering for Debiasing Multi-Person Text-to-Image Generation.**<br>
 *Venkatesh Thirugnana Sambandham, Torsten Schon.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.29651)]
+
+**FlashControl: One-Step Controllable Generator via Distillation-Friendly Single-Stream Teachers.**<br>
+*Ngan Nguyen, Dung Nguyen, Quan Dao, Dimitris N. Metaxas, Minh Hoai, Cuong Pham, Anh Tran.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.22537)]
 
 **From Prompting to Composing: A Spatial Canvas Interface for Poster Generation.**<br>
 *Yitong Wang, Fangyun Wei, Jinjing Zhao, Sirui Zhang, Hongyang Zhang, Dong Chen, Bo Dai, Yan Lu.*<br>
@@ -2406,10 +2428,6 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2604.08301)]
 *Amadou S. Sangare, Adrien Maglo, Mohamed Chaouch, Bertrand Luvison.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Sangare_Improving_Controllable_Generation_Faster_Training_and_Better_Performance_via_x0-Supervision_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2604.05761)]
 
-**Controllable Image Generation with Composed Parallel Token Prediction.**<br>
-*Jamie Stirling, Noura Al-Moubayed, Chris G. Willcocks, Hubert P. H. Shum.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2604.05730)]
-
 **PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models.**<br>
 *Lorenza Prospero, Orest Kupyn, Ostap Viniavskyi, João F. Henriques, Christian Rupprecht.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2603.28763)]
@@ -2417,6 +2435,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2603.28763)]
 **Agentic Flow Steering and Parallel Rollout Search for Spatially Grounded Text-to-Image Generation.**<br>
 *Ping Chen, Daoxuan Zhang, Xiangming Wang, Yungeng Liu, Haijin Zeng, Yongyong Chen.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2603.18627)]
+
+**EchoGen: Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding.**<br>
+*Kai Zou, Hongbo Liu, Dian Zheng, Jianxiong Gao, Zhiwei Zhao, Bin Liu.*<br>
+AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i16.38418)] [[arXiv](https://arxiv.org/abs/2603.18001)]
 
 **RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance.**<br>
 *Xianbao Hou, Yonghao He, Zeyd Boukhers, John See, Hu Su, Wei Sui, Cong Yang.*<br>
@@ -2429,10 +2451,6 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_ChA
 **NumColor: Precise Numeric Color Control in Text-to-Image Generation.**<br>
 *Muhammad Atif Butt, Diego Hernandez, Alexandra Gomez-Villa, Kai Wang, Javier Vazquez-Corral, Joost Van De Weijer.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2603.13547)]
-
-**Component-Aware Sketch-to-Image Generation Using Self-Attention Encoding and Coordinate-Preserving Fusion.**<br>
-*Ali Zia, Muhammad Umer Ramzan, Usman Ali, Muhammad Faheem, Abdelwahed Khamis, Shahnawaz Qureshi.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2603.09484)]
 
 **InnoAds-Composer: Efficient Condition Composition for E-Commerce Poster Generation.**<br>
 *Yuxin Qin, Ke Cao, Haowei Liu, Ao Ma, Fengheng Li, Honghe Zhu, Zheng Zhang, Run Ling, Wei Feng, Xuanhua He, Zhanjie Zhang, Zhen Guo, Haoyi Bian, Jingjing Lv, Junjie Shen, Ching Law.*<br>
@@ -2453,6 +2471,10 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Song_CoL
 **BBQ-to-Image: Numeric Bounding Box and Qolor Control in Large-Scale Text-to-Image Models.**<br>
 *Eliran Kachlon, Alexander Visheratin, Nimrod Sarid, Tal Hacham, Eyal Gutflaish, Saar Huberman, Hezi Zisman, David Ruppin, Ron Mokady.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.20672)]
+
+**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose.**<br>
+*Sirine Bhouri, Lan Wei, Jian-Qing Zheng, Dandan Zhang.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2602.19348)]
 
 **Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation.**<br>
 *Ziyue Liu, Davide Talon, Federico Girella, Zanxi Ruan, Mattia Mondo, Loris Bazzani, Yiming Wang, Marco Cristani.*<br>
@@ -2657,10 +2679,6 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_Posit
 **DeepShade: Enable Shade Simulation by Text-conditioned Image Generation.**<br>
 *Longchao Da, Xiangrui Liu, Mithun Shivakoti, Thirulogasankar Pranav Kutralingam, Yezhou Yang, Hua Wei.*<br>
 IJCAI 2025. [[Paper](https://www.ijcai.org/proceedings/2025/1068)] [[arXiv](https://arxiv.org/abs/2507.12103)] [[DOI](https://doi.org/10.24963/ijcai.2025/1068)]
-
-**CoDi: Subject-Consistent and Pose-Diverse Text-to-Image Generation.**<br>
-*Zhanxin Gao, Beier Zhu, , Jian Yang, Ying Tai.*<br>
-ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b8ce770a6b25e603fbff4a37f9e31edc-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2507.08396)]
 
 **Prompt-Free Conditional Diffusion for Multi-object Image Augmentation.**<br>
 *Haoyu Wang, Lei Zhang, Wei Wei, Chen Ding, Yanning Zhang.*<br>
@@ -3256,10 +3274,6 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2610.28003)]
 *Sooyeon Park, Hemraj Singh, Kyunghyun Min, Youngjae Yu, Sung-Bae Cho.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.25645)]
 
-**FlashControl: One-Step Controllable Generator via Distillation-Friendly Single-Stream Teachers.**<br>
-*Ngan Nguyen, Dung Nguyen, Quan Dao, Dimitris N. Metaxas, Minh Hoai, Cuong Pham, Anh Tran.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2610.22537)]
-
 **SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation.**<br>
 *Yufei Jiao, Jinfa Huang, Zeyue Xue, Tianyu Xie, Yuexiao Ma, Rongrong Ji, Xiawu Zheng, Jiebo Luo.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.22264)]
@@ -3364,9 +3378,17 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2603.12829)]
 *Joong Ho Kim, Nicholas Thai, Souhardya Saha Dip, Dong Lao, Keith G. Mills.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2603.12506)]
 
+**Guiding Diffusion Models with Semantically Degraded Conditions.**<br>
+*Shilong Han, Yuming Zhang, Hongxia Wang.*<br>
+CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion_Models_with_Semantically_Degraded_Conditions_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.10780)]
+
 **CogBlender: Towards Continuous Cognitive Intervention in Text-to-Image Generation.**<br>
 *Shengqi Dang, Yi He, Jiaying Lei, Ziqing Qian, Nan Cao.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2603.09286)]
+
+**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance.**<br>
+*Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, Yueqi Duan.*<br>
+CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CFG-Ctrl_Control-Based_Classifier-Free_Diffusion_Guidance_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.03281)]
 
 **RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment.**<br>
 *Liyao Jiang, Ruichen Chen, Chao Gao, Di Niu.*<br>
@@ -3392,6 +3414,10 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/yao26b.html)] [[arXiv](ht
 *Ayushman Sarkar, Zhenyu Yu, Mohd Yamani Idna Idris.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.01306)]
 
+**GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning.**<br>
+*Kaixun Jiang, Yuzheng Wang, Junjie Zhou, Pandeng Li, Zhihang Liu, Chen-Wei Xie, Zhaoyu Chen, Yun Zheng, Wenqiang Zhang.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2601.18543)]
+
 **Training-Free Text-to-Image Compositional Food Generation via Prompt Grafting.**<br>
 *Xinyue Pan, Yuhao Chen, Fengqing Zhu.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2601.17666)]
@@ -3408,14 +3434,6 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/shokrolahi26a.html)]
 *Mingzhu Shen, Peng Ye, Xinyin Ma, Gongfan Fang, Christos-Savvas Bouganis, Yiren Zhao, Xinchao Wang.*<br>
 ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4058)]
 
-**Breaking the Static: Dynamic Text Conditioning for Diverse Image Generation.**<br>
-*Meng Yu, Ruidong Chen, Qingfeng Shi, Yingmao Miao, Yancheng Bai, Lei Sun, Xiangxiang Chu, Hesheng Wang, Xiaodan Liang.*<br>
-NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/152353)]
-
-**Tell as You Want: Customizing Image Narrative with Knowledge and Thoughts.**<br>
-*Ziwei Yao, Qian Wang, Ruiping Wang, Xilin Chen.*<br>
-AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i14.38180)]
-
 **Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models.**<br>
 *Xiaoling Gu, Xuelong Li, Shengqi Wu, Yongkang Wong, Zizhao Wu, Huan Li, Zhou Yu, Mohan Kankanhalli.*<br>
 ICML 2026. [[Paper](https://proceedings.mlr.press/v306/gu26f.html)]
@@ -3423,6 +3441,14 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/gu26f.html)]
 **LinearV: Training-Free Value Space Arithmetic for Rectifying Prior Attribute Bias in Text-to-Image Diffusion Models.**<br>
 *Trong-Tai Dam Vu, Anh-Khoa Nguyen Vu, Vinh-Tiep Nguyen.*<br>
 ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)]
+
+**SAND: Stage-Aware Noise Decomposition for Training-Free Diffusion Guidance.**<br>
+*DaeHyun Kim, Hyo-Jun Lee, Hanul Kim, Yeong Jun Koh.*<br>
+ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4835)]
+
+**Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance.**<br>
+*Zexi Jia, Pengcheng Luo, Zhengyao Fang, Jinchao Zhang, Jie Zhou.*<br>
+ICML 2026. [[Paper](https://proceedings.mlr.press/v306/jia26g.html)]
 
 **EmoCtrl: Controllable Emotional Image Content Generation.**<br>
 *Jingyuan Yang, Weibin Luo, Hui Huang.*<br>
@@ -3443,10 +3469,6 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2512.07702)]
 **HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning.**<br>
 *Hongji Yang, Yucheng Zhou, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen.*<br>
 CVPR 2026. [[Paper](https://arxiv.org/abs/2511.19965)]
-
-**BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment.**<br>
-*Dewei Zhou, Mingwei Li, Zongxin Yang, Yu Lu, Yunqiu Xu, Zhizhong Wang, Zeyi Huang, Yi Yang.*<br>
-ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/58cb483be90d31f9afea3a9e992a2abe-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2511.19268)]
 
 **Synthetic Curriculum Reinforces Compositional Text-to-Image Generation.**<br>
 *Shijian Wang, Runhao Fu, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, Cunjian Chen.*<br>
@@ -3528,6 +3550,10 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2506.16853)]
 *Saar Huberman, Or Patashnik, Omer Dahary, Ron Mokady, Daniel Cohen-Or.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Huberman_Image_Generation_from_Contextually-Contradictory_Prompts_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2506.01929)]
 
+**Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models.**<br>
+*Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song.*<br>
+NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/c8aefe45deba3639af7120b141b87b50-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.21179)] [[DOI](https://doi.org/10.52202/085713-4585)]
+
 **Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion.**<br>
 *Zheqi Lv, Junhao Chen, Qi Tian, Keting Yin, Shengyu Zhang, Fei Wu.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2505.20053)]
@@ -3551,6 +3577,10 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11178)]
 **PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models.**<br>
 *Chang Xie, Chenyi Zhuang, Pan Gao.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2505.03203)]
+
+**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation.**<br>
+*Mingcheng Li, Xiaolu Hou, Ziyang Liu, Dingkang Yang, Ziyun Qian, Jiawei Chen, Jinjie Wei, Yue Jiang, Qingyao Xu, Lihua Zhang.*<br>
+CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MCCD_Multi-Agent_Collaboration-based_Compositional_Diffusion_for_Complex_Text-to-Image_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2505.02648)]
 
 **VSC: Visual Search Compositional Text-to-Image Diffusion Model.**<br>
 *Do Huu Dat, Nam Hyeon-Woo, Po-Yuan Mao, Tae-Hyun Oh.*<br>
@@ -3588,9 +3618,9 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2502.18116)]
 *Dahye Kim, Deepti Ghadiyaram.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2501.19066)]
 
-**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models.**<br>
-*Zerui Tao, Yuhta Takida, Naoki Murata, Qibin Zhao, Yuki Mitsufuji.*<br>
-ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Tao_Transformed_Low-rank_Adaptation_via_Tensor_Decomposition_and_Its_Applications_to_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2501.08727)]
+**REG: Rectified Gradient Guidance for Conditional Diffusion Models.**<br>
+*Zhengqi Gao, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S Boning.*<br>
+ICML 2025. [[Paper](https://proceedings.mlr.press/v267/gao25t.html)] [[arXiv](https://arxiv.org/abs/2501.18865)]
 
 **LLM Thought Divergence and Convergence for Dialogue-Based Image Generation Control.**<br>
 *Hui Li.*<br>
@@ -3636,6 +3666,10 @@ ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/262b
 *Deepak Sridhar, Abhishek Peri, Rohith Rachala, Nuno Vasconcelos.*<br>
 NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/0d3090c00d6e877c6e7267efe2734e1b-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.21638)] [[DOI](https://doi.org/10.52202/079017-0224)]
 
+**Rectified Diffusion Guidance for Conditional Generation.**<br>
+*Mengfei Xia, Nan Xue, Yujun Shen, Ran Yi, Tieliang Gong, Yong-Jin Liu.*<br>
+CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Rectified_Diffusion_Guidance_for_Conditional_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2410.18737)]
+
 **Progressive Compositionality in Text-to-Image Generative Models.**<br>
 *Xu Han, Linghao Jin, Xiaofeng Liu, Paul Pu Liang.*<br>
 ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/ced0d3b92bb83b15c43ee32c7f57d867-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.16719)]
@@ -3663,10 +3697,6 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2405.20759)]
 **An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation.**<br>
 *Zhiyu Tan, Mengping Yang, Luozheng Qin, Hao Yang, Ye Qian, Qiang Zhou, Cheng Zhang, Hao Li.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2405.12914)]
-
-**Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models.**<br>
-*Xiyu Wang, Yufei Wang, Satoshi Tsutsui, Weisi Lin, Bihan Wen, Alex Kot.*<br>
-ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3681373)] [[arXiv](https://arxiv.org/abs/2405.11852)]
 
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models.**<br>
 *Samyadeep Basu, Keivan Rezaei, Priyatham Kattakinda, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi.*<br>
@@ -3743,10 +3773,6 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2401.06345)]
 **EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models.**<br>
 *Jingyuan Yang, Jiawei Feng, Hui Huang.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2401.04608)]
-
-**CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.**<br>
-*Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao.*<br>
-ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3681283)]
 
 **TokenCompose: Grounding Diffusion with Token-level Supervision.**<br>
 *Zirui Wang, Zhizhou Sha, Zheng Ding, Yilin Wang, Zhuowen Tu.*<br>
@@ -3848,9 +3874,13 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_Lay2S
 *Black Forest Labs, Stephen Batifol, Andreas Blattmann, Frederic Boesel, Saksham Consul, Cyril Diagne, Tim Dockhorn, Jack English, Zion English, Patrick Esser, Sumith Kulal, Kyle Lacey, Yam Levi, Cheng Li, Dominik Lorenz, Jonas Müller, Dustin Podell, Robin Rombach, Harry Saini, Axel Sauer, Luke Smith.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2506.15742)]
 
-**CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design.**<br>
-*Hui Zhang, Dexiang Hong, Maoke Yang, Yutao Cheng, Zhao Zhang, Weidong Chen, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang.*<br>
-ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b46b78c353f672d83997d4cce5f1b0fb-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.19114)]
+**ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models.**<br>
+*Sibo Dong, Ismail Shaheen, Maggie Shen, Rupayan Mallick, Sarah Adel Bargal.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2506.12198)]
+
+**In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation.**<br>
+*Yu Xu, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee.*<br>
+SIGGRAPH Asia 2025. [[Paper](https://doi.org/10.1145/3757377.3763820)] [[arXiv](https://arxiv.org/abs/2505.20271)]
 
 **Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer.**<br>
 *Zechuan Zhang, Ji Xie, Yu Lu, Zongxin Yang, Yi Yang.*<br>
@@ -3884,9 +3914,9 @@ ICML 2025. [[Paper](https://arxiv.org/abs/2502.10458)] [[Project](https://mizhen
 *Chaojie Mao, Jingfeng Zhang, Yulin Pan, Zeyinzi Jiang, Zhen Han, Yu Liu, Jingren Zhou.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2501.02487)]
 
-**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation.**<br>
-*Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong.*<br>
-CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DiffSensei_Bridging_Multi-Modal_LLMs_and_Diffusion_Models_for_Customized_Manga_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2412.07589)]
+**StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization.**<br>
+*Jinlu Zhang, Jiji Tang, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun.*<br>
+AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i9.33079)] [[arXiv](https://arxiv.org/abs/2412.07375)]
 
 **In-Context LoRA for Diffusion Transformers.**<br>
 *Lianghua Huang, Wei Wang, Zhi-Fan Wu, Yupeng Shi, Huanzhang Dou, Chen Liang, Yutong Feng, Yu Liu, Jingren Zhou.*<br>
@@ -3909,8 +3939,8 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.01115)]
 
 ### 🍹Brain-Guided Generation
 **Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation.**<br>
-*Yohann Benchetrit, Marlene Careil, Simon Dahan, Hubert Banville, Stéphane d&amp;#x27;Ascoli, Jean-Remi King.*<br>
-NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/154738)] [[arXiv](https://arxiv.org/abs/2606.06345)]
+*Yohann Benchetrit, Marlène Careil, Simon Dahan, Hubert Banville, Stéphane d'Ascoli, Jean-Rémi King.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2606.06345)] [[Proceedings](https://neurips.cc/virtual/2026/poster/154738)]
 
 **Versatile Framework with Semantic and Structural guidance for Image Reconstruction from Brain Activity.**<br>
 *Yizhuo Lu, Changde Du, Qiongyi Zhou, Liuyun Jiang, Huiguang He.*<br>
@@ -3927,10 +3957,6 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2604.22649)]
 **The Pictorial Cortex: Zero-Shot Cross-Subject fMRI-to-Image Reconstruction via Compositional Latent Modeling.**<br>
 *Jingyang Huo, Yikai Wang, Yanwei Fu, Jianfeng Feng.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2601.15071)]
-
-**Not All Tokens Matter: Semantic-Guided Token-Selective Optimal Transport for Brain-Image Alignment.**<br>
-*Chenzhi Liu, Yupeng Liu, Zhe Li, Qisheng Fang.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)]
 
 **Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers.**<br>
 *Xiyue Bai, Ronghao Yu, Jia Xiu, Pengfei Zhou, Jie Xia, Peng Ji.*<br>
@@ -3956,10 +3982,6 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2510.20855)]
 *Shiyi Zhang, Dong Liang, Yihang Zhou.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2510.02266)]
 
-**$i$MIND: Insightful Multi-subject Invariant Neural Decoding.**<br>
-*Zixiang Yin, Jiarui Li, Zhengming Ding.*<br>
-NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/daa098aa8e1fc718943ff1ab7b5b30c9-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2509.17313)] [[DOI](https://doi.org/10.52202/085713-4975)]
-
 **Interpretable EEG-to-Image Generation with Semantic Prompts.**<br>
 *Arshak Rezvani, Ali Akbari, Kosar Sanjar Arani, Maryam Mirian, Emad Arasteh, Martin J. McKeown.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2507.07157)]
@@ -3971,10 +3993,6 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2505.24301)]
 **FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction.**<br>
 *Junliang Ye, Lei Wang, Md Zakir Hossain.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2505.12552)]
-
-**Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing.**<br>
-*Yang Xiao, Wang Lu, Jie Ji, Ruimeng Ye, Gen Li, Xiaolong Ma, Bo Hui.*<br>
-ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xiao_Optimal_Transport_for_Brain-Image_Alignment_Unveiling_Redundancy_and_Synergy_in_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2503.10663)]
 
 **BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities.**<br>
 *Zhibo Tian, Ruijie Quan, Fan Ma, Kun Zhan, Yi Yang.*<br>
@@ -4104,10 +4122,6 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/li26gj.html)] [[arXiv](ht
 **StyleTextGen: Style-Conditioned Multilingual Scene Text Generation.**<br>
 *Zeyu Chen, Fangmin Zhao, Yan Shu, Yichao Liu, Liu Yu, Yu Zhou.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_StyleTextGen_Style-Conditioned_Multilingual_Scene_Text_Generation_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2605.14708)]
-
-**TextGround4M: A Prompt-Aligned Dataset for Layout-Aware Text Rendering.**<br>
-*Dongxing Mao, Yilin Wang, Linjie Li, Zhengyuan Yang, Alex Jinpeng Wang.*<br>
-AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i10.37736)] [[arXiv](https://arxiv.org/abs/2604.24459)]
 
 **FontCrafter: High-Fidelity Element-Driven Artistic Font Creation with Visual In-Context Generation.**<br>
 *Wuyang Luo, Chengkai Tan, Chang Ge, Binye Hong, Su Yang, Yongjiu Ma.*<br>
@@ -4241,10 +4255,6 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_FonT
 *Xixi Hu, Keyang Xu, Bo Liu, Qiang Liu, Hongliang Fei.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_AMO_Sampler_Enhancing_Text_Rendering_with_Overshooting_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2411.19415)]
 
-**Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation.**<br>
-*Xuehao Cui, Guangyang Wu, Zhenghao Gan, Guangtao Zhai, Xiaohong Liu.*<br>
-NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/3379db43afd10e49be5cee62ad71cb31-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2411.19246)] [[DOI](https://doi.org/10.52202/079017-0918)]
-
 **Type-R: Automatically Retouching Typos for Text-to-Image Generation.**<br>
 *Wataru Shimoda, Naoto Inoue, Daichi Haraguchi, Hayato Mitani, Seiichi Uchida, Kota Yamaguchi.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Shimoda_Type-R_Automatically_Retouching_Typos_for_Text-to-Image_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2411.18159)]
@@ -4257,10 +4267,6 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2411.15245)] [[Code](https://github.c
 *Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Chenyang Li, Hanyuan Chen, Jin-Peng Lan, Jun-Yan He, Bin Luo, Yifeng Geng.*<br>
 ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3755289)] [[arXiv](https://arxiv.org/abs/2411.11435)]
 
-**DiffSTR: Controlled Diffusion Models for Scene Text Removal.**<br>
-*Sanhita Pathak, Vinay Kaushik, Brejesh Lall.*<br>
-arXiv 2024. [[Paper](https://arxiv.org/abs/2410.21721)]
-
 **TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control.**<br>
 *Weichao Zeng, Yan Shu, Zhenhang Li, Dongbao Yang, Yu Zhou.*<br>
 NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/fa31574791443e8e7f38045b98584aa9-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.10133)] [[DOI](https://doi.org/10.52202/079017-4396)]
@@ -4268,10 +4274,6 @@ NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/fa3157
 **TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control.**<br>
 *Zhenyu Yan, Jian Wang, Aoqiang Wang, Yuhan Li, Wenxiang Shang, Zhu Hangcheng.*<br>
 ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yan_TextMaster_A_Unified_Framework_for_Realistic_Text_Editing_via_Glyph-Style_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2410.09879)]
-
-**Decoupling Layout from Glyph in Online Chinese Handwriting Generation.**<br>
-*Minsi Ren, Yan-Ming Zhang, Yi Chen.*<br>
-ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/0e0df370cd1ce52c09bb5c1aa584625d-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2410.02309)]
 
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models.**<br>
 *Jian Ma, Yonglin Deng, Chen Chen, Nanyang Du, Haonan Lu, Zhenyu Yang.*<br>
@@ -4336,10 +4338,6 @@ ACL 2022. [[Paper](https://arxiv.org/abs/2212.10562)]
 <a id="joint-training"></a>
 
 ### 🌒Joint Training
-**MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding.**<br>
-*Ruirui Zhang, Zhengkai Zhao, Pan Gao.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2608.03708)]
-
 **StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling.**<br>
 *Jianing Peng, Mengyu Wang, Henghui Ding, Zixiang Li, Ting Liu, Xiaochao Qu, Luoqi Liu, Yao Zhao, Yunchao Wei.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2607.15619)]
@@ -4360,17 +4358,13 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2603.00607)]
 *Yijia Xu, Zihao Wang, Haokun Gui, Jinshi Cui.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.03448)]
 
-**StoryTailor:A Zero-Shot Pipeline for Action-Rich Multi-Subject Visual Narratives.**<br>
-*Jinghao Hu, Yuhe Zhang, Guohua Geng, Kang Li, Han Zhang.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_StoryTailorA_Zero-Shot_Pipeline_for_Action-Rich_Multi-Subject_Visual_Narratives_CVPR_2026_paper.html)]
-
-**Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models.**<br>
-*Hao Fu, Tianyu Su, Meng Liu, Chenfang Yang, Tian Gan.*<br>
-ICML 2026. [[Paper](https://proceedings.mlr.press/v306/fu26o.html)]
-
 **Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences.**<br>
 *Ziyi Gao, Zhipeng Wei, Jingjing Chen, Zhiyu Tan, Hao Li, Yi-Ping Phoebe Chen.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Aligning_Multi-Character_Narrative_Image_Generation_with_Multi-Aspect_Human_Preferences_CVPR_2026_paper.html)]
+
+**Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling.**<br>
+*Yuran Wang, Bohan Zeng, Chengzhuo Tong, Wenxuan Liu, Yang Shi, Xiaochen Ma, Hao Liang, Yuanxing Zhang, Wentao Zhang.*<br>
+CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Scone_Bridging_Composition_and_Distinction_in_Subject-Driven_Image_Generation_via_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2512.12675)]
 
 **PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards.**<br>
 *Shulei Wang, Longhui Wei, Xin He, Jianbo Ouyang, Hui Lu, Zhou Zhao, Qi Tian.*<br>
@@ -4379,14 +4373,6 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_PSR
 **Canvas-to-Image: Compositional Image Generation with Multimodal Controls.**<br>
 *Yusuf Dalva, Gordon Guocheng Qian, Maya Goldenberg, Tsai-Shien Chen, Kfir Aberman, Sergey Tulyakov, Pinar Yanardag, Kuan-Chieh Jackson Wang.*<br>
 SIGGRAPH 2026. [[Paper](https://doi.org/10.1145/3799902.3811219)] [[arXiv](https://arxiv.org/abs/2511.21691)]
-
-**Plug-and-Play Multi-Concept Adaptive Blending for High-Fidelity Text-to-Image Synthesis.**<br>
-*Young-Beom Woo.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2511.17615)]
-
-**CharCom: Composable Identity Control for Multi-Character Story Illustration.**<br>
-*Zhongsheng Wang, Ming Lin, Zhedong Lin, Yaser Shakib, Qian Liu, Jiamou Liu.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2510.10135)]
 
 **SIGMA-Gen: Structure and Identity Guided Multi-Subject Assembly for Image Generation.**<br>
 *Oindrila Saha, Vojtech Krs, Radomir Mech, Subhransu Maji, Kevin Blackburn-Matzen, Matheus Gadelha.*<br>
@@ -4412,6 +4398,10 @@ ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/6718
 *Qiaoqiao Jin, Siming Fu, Dong She, Weinan Jia, Hualiang Wang, Mu Liu, Jidong Jiang.*<br>
 AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i7.37469)] [[arXiv](https://arxiv.org/abs/2509.01181)]
 
+**Composition and Alignment of Diffusion Models using Constrained Learning.**<br>
+*Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro.*<br>
+NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/1af991de2d4c4e679bcc5d9e23ac6bae-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2508.19104)] [[DOI](https://doi.org/10.52202/085713-0628)]
+
 **TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models.**<br>
 *Yuqi Peng, Lingtao Zheng, Yufeng Yang, Yi Huang, Mingfu Yan, Jianzhuang Liu, Shifeng Chen.*<br>
 AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i10.37788)] [[arXiv](https://arxiv.org/abs/2508.08812)]
@@ -4419,10 +4409,6 @@ AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i10.37788)] [[arXiv](https:/
 **MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization.**<br>
 *Ankan Deria, Dwarikanath Mahapatra, Behzad Bozorgtabar, Mohna Chakraborty, Snehashis Chakraborty, Sudipta Roy.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2508.08488)]
-
-**MultiRef: Controllable Image Generation with Multiple Visual References.**<br>
-*Ruoxi Chen, Dongping Chen, Siyuan Wu, Sinan Wang, Shiyun Lang, Peter Sushko, Gaoyang Jiang, Yao Wan, Ranjay Krishna.*<br>
-ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3758292)] [[arXiv](https://arxiv.org/abs/2508.06905)]
 
 **DivControl: Knowledge Diversion for Controllable Image Generation.**<br>
 *Yucheng Xie, Fu Feng, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng.*<br>
@@ -4436,10 +4422,6 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Girella_
 *Bowen Chen, Mengyi Zhao, Haomiao Sun, Li Chen, Xu Wang, Kang Du, Xinglong Wu.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2506.21416)] [[Code](https://github.com/bytedance/XVerse)] [[Project](https://bytedance.github.io/XVerse)]
 
-**ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation.**<br>
-*Trong-Vu Hoang, Quang-Binh Nguyen, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2506.18493)]
-
 **Minimal Impact ControlNet: Advancing Multi-ControlNet Integration.**<br>
 *Shikun Sun, Min Zhou, Zixuan Wang, Xubin Li, Tiezheng Ge, Zijie Ye, Xiaoyu Qin, Junliang Xing, Bo Zheng, Jia Jia.*<br>
 ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f12d4e75bb8c62aba3e88d0586af96d3-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2506.01672)]
@@ -4448,9 +4430,9 @@ ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f12d
 *Wei Li, Hebei Li, Yansong Peng, Siying Wu, Yueyi Zhang, Xiaoyan Sun.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2505.20909)]
 
-**In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation.**<br>
-*Yu Xu, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee.*<br>
-SIGGRAPH Asia 2025. [[Paper](https://doi.org/10.1145/3757377.3763820)] [[arXiv](https://arxiv.org/abs/2505.20271)]
+**CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design.**<br>
+*Hui Zhang, Dexiang Hong, Maoke Yang, Yutao Cheng, Zhao Zhang, Weidong Chen, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang.*<br>
+ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b46b78c353f672d83997d4cce5f1b0fb-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.19114)]
 
 **FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement.**<br>
 *Gia-Nghia Tran, Quang-Huy Che, Trong-Tai Dam Vu, Bich-Nga Pham, Vinh-Tiep Nguyen, Trung-Nghia Le, Minh-Triet Tran.*<br>
@@ -4472,33 +4454,17 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Uni
 *Shubhankar Borse, Kartikeya Bhardwaj, Mohammad Reza Karimi Dastjerdi, Hyojin Park, Shreya Kadambi, Shobitha Shivakumar, Prathamesh Mandke, Ankita Nayak, Harris Teague, Munawar Hayat, Fatih Porikli.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2502.19673)]
 
-**FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation.**<br>
-*Young Beom Woo, Sun Eung Kim, Seong-Whan Lee.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2502.15203)]
-
-**IP-Composer: Semantic Composition of Visual Concepts.**<br>
-*Sara Dorfman, Dana Cohen-Bar, Rinon Gal, Daniel Cohen-Or.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2502.13951)]
-
-**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space.**<br>
-*Daniel Garibi, Shahar Yadin, Roni Paiss, Omer Tov, Shiran Zada, Ariel Ephrat, Tomer Michaeli, Inbar Mosseri, Tali Dekel.*<br>
-ACM TOG 2025. [[Paper](https://doi.org/10.1145/3730843)] [[arXiv](https://arxiv.org/abs/2501.12224)]
-
 **Object-level Visual Prompts for Compositional Image Generation.**<br>
 *Gaurav Parmar, Or Patashnik, Kuan-Chieh Wang, Daniil Ostashev, Srinivasa Narasimhan, Jun-Yan Zhu, Daniel Cohen-Or, Kfir Aberman.*<br>
 SIGGRAPH Asia 2025. [[Paper](https://doi.org/10.1145/3757377.3763867)] [[arXiv](https://arxiv.org/abs/2501.01424)]
-
-**ModuleTeam: Open-Set Multi-Conditional Image Generation with Training-Free Latent Mixture of Any Control Module.**<br>
-*Yuwei Zhou, Xin Wang, Hong Chen, Yipeng Zhang, Zeyang Zhang, Wenwu Zhu.*<br>
-ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3755686)]
 
 **FashionComposer: Compositional Fashion Image Generation.**<br>
 *Sihui Ji, Yiyang Wang, Xi Chen, Xiaogang Xu, Hao Luo, Hengshuang Zhao.*<br>
 SIGGRAPH 2025. [[Paper](https://doi.org/10.1145/3721238.3730663)] [[arXiv](https://arxiv.org/abs/2412.14168)]
 
-**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis.**<br>
-*Zebin Yao, Fangxiang Feng, Ruifan Li, Xiaojie Wang.*<br>
-AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i9.33021)] [[arXiv](https://arxiv.org/abs/2408.03632)]
+**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation.**<br>
+*Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong.*<br>
+CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DiffSensei_Bridging_Multi-Modal_LLMs_and_Diffusion_Models_for_Customized_Manga_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2412.07589)]
 
 **Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models.**<br>
 *Fei Shen, Hu Ye, Sibo Liu, Jun Zhang, Cong Wang, Xiao Han, Yang Wei.*<br>
@@ -4523,10 +4489,6 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2404.04243)]
 **Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models.**<br>
 *Gihyun Kwon, Simon Jenni, Dingzeyu Li, Joon-Young Lee, Jong Chul Ye, Fabian Caba Heilbron.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.03913)]
-
-**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering.**<br>
-*Yibin Wang, Weizhong Zhang, Jianwei Zheng, Cheng Jin.*<br>
-ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3680848)] [[arXiv](https://arxiv.org/abs/2403.05053)]
 
 **OOTDiffusion: Outfitting Fusion Based Latent Diffusion for Controllable Virtual Try-On.**<br>
 *Yuhao Xu, Tao Gu, Weifeng Chen, Arlene Chen.*<br>
@@ -4592,6 +4554,10 @@ SCOPE @ ICLR 2025. [[Paper](https://arxiv.org/abs/2410.04891)] [[Code](https://g
 *Saurav Jha, Shiqi Yang, Masato Ishii, Mengjie Zhao, Christian Simon, Muhammad Jehanzeb Mirza, Dong Gong, Lina Yao, Shusuke Takahashi, Yuki Mitsufuji.*<br>
 ICLR 2025. [[Paper](https://arxiv.org/abs/2410.00700)] [[Project](https://srvcodes.github.io/continual_personalization/)]
 
+**Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models.**<br>
+*Xiyu Wang, Yufei Wang, Satoshi Tsutsui, Weisi Lin, Bihan Wen, Alex Kot.*<br>
+ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3681373)] [[arXiv](https://arxiv.org/abs/2405.11852)]
+
 **MuseumMaker: Continual Style Customization without Catastrophic Forgetting.**<br>
 *Chenxi Liu, Gan Sun, Wenqi Liang, Jiahua Dong, Can Qin, Yang Cong.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.16612)]
@@ -4617,14 +4583,6 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2304.06027)]
 <a id="weight-fusion"></a>
 
 ### 🌔Weight Fusion
-**LILAC: Layer-Wise Independent LoRAs and Cascaded Conditioning for Multi-Concept Customization of Diffusion Models.**<br>
-*Marian Lupascu, Sebastian Ripa, Mihai Trascau, Mariana-Iuliana Georgescu, Ionut Mironica.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2607.04801)]
-
-**Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting.**<br>
-*Georgios Tsoumplekas, Stella Bounareli, Vasileios Argyriou.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2606.03792)]
-
 **FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer.**<br>
 *Shenghe Zheng, Minyu Zhang, Tianhao Liu, Hongzhi Wang.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2604.10023)]
@@ -4641,17 +4599,9 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CRAFT
 *Linhao Huang.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2511.01355)]
 
-**FreeFuse: Multi-Subject LoRA Fusion via Adaptive Token-Level Routing at Test Time.**<br>
-*Yaoli Liu, Yao-Xiang Ding, Kun Zhou.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2510.23515)]
-
-**LoRAtorio: An intrinsic approach to LoRA Skill Composition.**<br>
-*Niki Foteinopoulou, Ignas Budvytis, Stephan Liwicki.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2508.11624)]
-
-**Style Composition within Distinct LoRA modules for Traditional Art.**<br>
-*Jaehyun Lee, Wonhark Park, Wonsik Shin, Hyunho Lee, Hyoung Min Na, Nojun Kwak.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2507.11986)]
+**CharCom: Composable Identity Control for Multi-Character Story Illustration.**<br>
+*Zhongsheng Wang, Ming Lin, Zhedong Lin, Yaser Shakib, Qian Liu, Jiamou Liu.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2510.10135)]
 
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers.**<br>
 *Yusuf Dalva, Hidir Yesiltepe, Pinar Yanardag.*<br>
@@ -4721,9 +4671,21 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04488)]
 *Niki Maria Foteinopoulou, Ignas Budvytis, Stephan Liwicki.*<br>
 ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/3799)] [[arXiv](https://arxiv.org/abs/2602.20839)]
 
+**StoryTailor:A Zero-Shot Pipeline for Action-Rich Multi-Subject Visual Narratives.**<br>
+*Jinghao Hu, Yuhe Zhang, Guohua Geng, Kang Li, Han Zhang.*<br>
+CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_StoryTailorA_Zero-Shot_Pipeline_for_Action-Rich_Multi-Subject_Visual_Narratives_CVPR_2026_paper.html)]
+
 **AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization.**<br>
 *Binhe Yu, Zhen Wang, Kexin Li, Yuqian Yuan, Wenqiao Zhang, Long Chen, Juncheng Li, Jun Xiao, Yueting Zhuang.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2512.23537)]
+
+**ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation.**<br>
+*Trong-Vu Hoang, Quang-Binh Nguyen, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2506.18493)]
+
+**Controllable Coupled Image Generation via Diffusion Models.**<br>
+*Chenfei Yuan, Nanshan Jia, Hangqi Li, Peter W. Glynn, Zeyu Zheng.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2506.06826)]
 
 **Be Decisive: Noise-Induced Layouts for Multi-Subject Generation.**<br>
 *Omer Dahary, Yehonathan Cohen, Or Patashnik, Kfir Aberman, Daniel Cohen-Or.*<br>
@@ -4741,6 +4703,10 @@ CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Mul
 *Huiguo He, Qiuyue Wang, Yuan Zhou, Yuxuan Cai, Hongyang Chao, Jian Yin, Huan Yang.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2411.19261)]
 
+**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis.**<br>
+*Zebin Yao, Fangxiang Feng, Ruifan Li, Xiaojie Wang.*<br>
+AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i9.33021)] [[arXiv](https://arxiv.org/abs/2408.03632)]
+
 **Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation.**<br>
 *Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, Xipeng Cao, Quan Chen, Han Li, Di Dong, Peng Jiang.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2405.06948)]
@@ -4752,6 +4718,10 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2404.14239)]
 **MC^2: Multi-concept Guidance for Customized Multi-concept Generation.**<br>
 *Jiaxiu Jiang, Yabo Zhang, Kailai Feng, Xiaohe Wu, Wenbo Li, Renjing Pei, Fan Li, Wangmeng Zuo.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_MC2_Multi-concept_Guidance_for_Customized__Multi-concept_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2404.05268)]
+
+**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering.**<br>
+*Yibin Wang, Weizhong Zhang, Jianwei Zheng, Cheng Jin.*<br>
+ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3680848)] [[arXiv](https://arxiv.org/abs/2403.05053)]
 
 **Cones 2- Customizable Image Synthesis  with Multiple Subjects .**<br>
 *Zhiheng Liu, Yifei Zhang, Yujun Shen, Kecheng Zheng, Kai Zhu, Ruili Feng, Yu Liu, Deli Zhao, Jingren Zhou, Yang Cao.*<br>
@@ -4765,9 +4735,21 @@ NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.18292)]
 <a id="guidance-composition"></a>
 
 ### 🌗Guidance Composition
+**MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding.**<br>
+*Ruirui Zhang, Zhengkai Zhao, Pan Gao.*<br>
+ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2608.03708)]
+
+**Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting.**<br>
+*Georgios Tsoumplekas, Stella Bounareli, Vasileios Argyriou.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2606.03792)]
+
 **EPIC: Efficient Predicate-Guided Inference-Time Control for Compositional Text-to-Image Generation.**<br>
 *Sunung Mun, Sunghyun Cho, Jungseul Ok.*<br>
 NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/152068)] [[arXiv](https://arxiv.org/abs/2605.11722)]
+
+**Controllable Image Generation with Composed Parallel Token Prediction.**<br>
+*Jamie Stirling, Noura Al-Moubayed, Chris G. Willcocks, Hubert P. H. Shum.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2604.05730)]
 
 **Logical Guidance for the Exact Composition of Diffusion Models.**<br>
 *Francesco Alesiani, Jonathan H Warrell, Tanja Bien, Henrik Christiansen, Matheus Ferraz, Mathias Niepert.*<br>
@@ -4777,21 +4759,29 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/alesiani26a.html)] [[arXi
 *Peter Blohm, Vikas Garg.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/dccbeb7a8df3065c4646928985edf435-Abstract-Conference.html)]
 
+**Plug-and-Play Multi-Concept Adaptive Blending for High-Fidelity Text-to-Image Synthesis.**<br>
+*Young-Beom Woo.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2511.17615)]
+
 **Steer Away From Mode Collisions: Improving Composition In Diffusion Models.**<br>
 *Debottam Dutta, Jianchong Chen, Rajalaxmi Rajagopalan, Yu-Lin Wei, Romit Roy Choudhury.*<br>
 ICLR 2026. [[Paper](https://arxiv.org/abs/2509.25940)] [[Code](https://github.com/debottam-dutta7/co3)]
 
-**Composition and Alignment of Diffusion Models using Constrained Learning.**<br>
-*Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro.*<br>
-NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/1af991de2d4c4e679bcc5d9e23ac6bae-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2508.19104)] [[DOI](https://doi.org/10.52202/085713-0628)]
+**LoRAtorio: An intrinsic approach to LoRA Skill Composition.**<br>
+*Niki Foteinopoulou, Ignas Budvytis, Stephan Liwicki.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2508.11624)]
 
-**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation.**<br>
-*Mingcheng Li, Xiaolu Hou, Ziyang Liu, Dingkang Yang, Ziyun Qian, Jiawei Chen, Jinjie Wei, Yue Jiang, Qingyao Xu, Lihua Zhang.*<br>
-CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MCCD_Multi-Agent_Collaboration-based_Compositional_Diffusion_for_Complex_Text-to-Image_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2505.02648)]
+**Style Composition within Distinct LoRA modules for Traditional Art.**<br>
+*Jaehyun Lee, Wonhark Park, Wonsik Shin, Hyunho Lee, Hyoung Min Na, Nojun Kwak.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2507.11986)]
 
 **CoInD: Enabling Logical Compositions in Diffusion Models.**<br>
 *Sachit Gaudi, Gautam Sreekumar, Vishnu Boddeti.*<br>
 ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4fd96b997454b5b02698595df70fccaf-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2503.01145)]
+
+**FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation.**<br>
+*Young Beom Woo, Sun Eung Kim, Seong-Whan Lee.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2502.15203)]
 
 **TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation.**<br>
 *Gihyun Kwon, Jong Chul Ye.*<br>
@@ -4876,17 +4866,9 @@ NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/154814)
 *Yuhe Liu, Zhenxiong Tan, Yujia Hu, Songhua Liu, Xinchao Wang.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Gated_Condition_Injection_without_Multimodal_Attention_Towards_Controllable_Linear-Attention_Transformers_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.27666)]
 
-**EchoGen: Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding.**<br>
-*Kai Zou, Hongbo Liu, Dian Zheng, Jianxiong Gao, Zhiwei Zhao, Bin Liu.*<br>
-AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i16.38418)] [[arXiv](https://arxiv.org/abs/2603.18001)]
-
 **Diffusion Controller: Framework, Algorithms and Parameterization.**<br>
 *Tong Yang, Moonkyung Ryu, Chih-Wei Hsu, Guy Tennenholtz, Yuejie Chi, Craig Boutilier, Bo Dai.*<br>
 ICML 2026. [[Paper](https://proceedings.mlr.press/v306/yang26bk.html)] [[arXiv](https://arxiv.org/abs/2603.06981)]
-
-**GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning.**<br>
-*Kaixun Jiang, Yuzheng Wang, Junjie Zhou, Pandeng Li, Zhihang Liu, Chen-Wei Xie, Zhaoyu Chen, Yun Zheng, Wenqiang Zhang.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2601.18543)]
 
 **A Unified and Controllable Framework for Layered Image Generation with Visual Effects.**<br>
 *Jinrui Yang, Qing Liu, Yijun Li, Mengwei Ren, Letian Zhang, Zhe Lin, Cihang Xie, Yuyin Zhou.*<br>
@@ -4896,25 +4878,17 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2601.15507)]
 *Yu Xu, Hongbin Yan, Juan Cao, Yiji Cheng, Tiankai Hang, Runze He, Zijin Yin, Shiyi Zhang, Yuxin Zhang, Jintao Li, Chunyu Wang, Qinglin Lu, Tong-Yee Lee, Fan Tang.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_TAG-MoE_Task-Aware_Gating_for_Unified_Generative_Mixture-of-Experts_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2601.08881)]
 
-**Unified Personalized Understanding, Generating and Editing.**<br>
-*Yu Zhong, Tianwei Lin, Ruike Zhu, Yuqian Yuan, Haoyu Zheng, Liang Liang, Wenqiao Zhang, Feifei Shao, Haoyuan Li, Wanggui He, Hao Jiang, Yueting Zhuang.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_Unified_Personalized_Understanding_Generating_and_Editing_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2601.06965)]
-
 **DreamOmni2: Multimodal Instruction-based Generation and Editing.**<br>
 *Bin Xia, Bohao Peng, Yuechen Zhang, Junjia Huang, Jiyang Liu, Jingyao Li, Haoru Tan, Sitong Wu, Chengyao Wang, Yitong Wang, Bei Yu, Jiaya Jia.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xia_DreamOmni2_Multimodal_Instruction-based_Generation_and_Editing_CVPR_2026_paper.html)]
-
-**Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling.**<br>
-*Yuran Wang, Bohan Zeng, Chengzhuo Tong, Wenxuan Liu, Yang Shi, Xiaochen Ma, Hao Liang, Yuanxing Zhang, Wentao Zhang.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Scone_Bridging_Composition_and_Distinction_in_Subject-Driven_Image_Generation_via_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2512.12675)]
 
 **LongCat-Image Technical Report.**<br>
 *Meituan LongCat Team, Hanghang Ma, Haoxian Tan, Jiale Huang, Junqiang Wu, Jun-Yan He, Lishuai Gao, Songlin Xiao, Xiaoming Wei, Xiaoqi Ma, Xunliang Cai, Yayong Guan, Jie Hu.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2512.07584)]
 
-**FashionMAC: Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization.**<br>
-*Rong Zhang, Jinxiao Li, Jingnan Wang, Zhiwen Zuo, Jianfeng Dong, Wei Li, Chi Wang, Weiwei Xu, Xun Wang.*<br>
-AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i15.38266)] [[arXiv](https://arxiv.org/abs/2511.14031)]
+**BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment.**<br>
+*Dewei Zhou, Mingwei Li, Zongxin Yang, Yu Lu, Yunqiu Xu, Zhizhong Wang, Zeyi Huang, Yi Yang.*<br>
+ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/58cb483be90d31f9afea3a9e992a2abe-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2511.19268)]
 
 **CPO: Condition Preference Optimization for Controllable Image Generation.**<br>
 *Zonglin Lyu, Ming Li, Xinxin Liu, Chen Chen.*<br>
@@ -4964,21 +4938,9 @@ ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Qu_IGD_I
 *Chenyuan Wu, Pengfei Zheng, Ruiran Yan, Shitao Xiao, Xin Luo, Yueze Wang, Wanli Li, Xiyan Jiang, Yexin Liu, Junjie Zhou, Ze Liu, Ziyi Xia, Chaofan Li, Haoge Deng, Jiahao Wang, Kun Luo, Bo Zhang, Defu Lian, Xinlong Wang, Zhongyuan Wang, Tiejun Huang, Zheng Liu.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2506.18871)] [[Code](https://github.com/VectorSpaceLab/OmniGen2)] [[Project](https://vectorspacelab.github.io/OmniGen2)]
 
-**ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models.**<br>
-*Sibo Dong, Ismail Shaheen, Maggie Shen, Rupayan Mallick, Sarah Adel Bargal.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2506.12198)]
-
-**Controllable Coupled Image Generation via Diffusion Models.**<br>
-*Chenfei Yuan, Nanshan Jia, Hangqi Li, Peter W. Glynn, Zeyu Zheng.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2506.06826)]
-
 **Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model.**<br>
 *Qingyu Shi, Jinbin Bai, Zhuoran Zhao, Wenhao Chai, Kaidong Yu, Jianzong Wu, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2505.23606)]
-
-**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens.**<br>
-*Ruichuan An, Sihan Yang, Renrui Zhang, Zijun Shen, Ming Lu, Gaole Dai, Hao Liang, Ziyu Guo, Shilin Yan, Yulin Luo, Bocheng Zou, Chaoqun Yang, Wentao Zhang.*<br>
-NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/d531364f1771e0972c1d11c334a0efb4-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.14671)] [[DOI](https://doi.org/10.52202/085713-4840)]
 
 **VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning.**<br>
 *Zhong-Yu Li, Ruoyi Du, Juncheng Yan, Le Zhuo, Zhen Li, Peng Gao, Zhanyu Ma, Ming-Ming Cheng.*<br>
@@ -5020,6 +4982,10 @@ ICLR 2025. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/e8ff
 *Longquan Dai, Wu Ming, Dejiao Xue, wang he, Jinhui Tang.*<br>
 NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/e249fa24c06507a7dd558d1d6a757dbb-Abstract-Conference.html)] [[DOI](https://doi.org/10.52202/085713-5149)]
 
+**ModuleTeam: Open-Set Multi-Conditional Image Generation with Training-Free Latent Mixture of Any Control Module.**<br>
+*Yuwei Zhou, Xin Wang, Hong Chen, Yipeng Zhang, Zeyang Zhang, Wenwu Zhu.*<br>
+ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3755686)]
+
 **UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation.**<br>
 *Lunhao Duan, Shanshan Zhao, Wenjun Yan, Yinglun Li, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Mingming Gong, Gui-Song Xia.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Duan_UNIC-Adapter_Unified_Image-instruction_Adapter_with_Multi-modal_Transformer_for_Image_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2412.18928)]
@@ -5035,10 +5001,6 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2412.11594)]
 **UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics.**<br>
 *Xi Chen, Zhifei Zhang, He Zhang, Yuqian Zhou, Soo Ye Kim, Qing Liu, Yijun Li, Jianming Zhang, Nanxuan Zhao, Yilin Wang, Hui Ding, Zhe Lin, Hengshuang Zhao.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_UniReal_Universal_Image_Generation_and_Editing_via_Learning_Real-world_Dynamics_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2412.07774)]
-
-**StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization.**<br>
-*Jinlu Zhang, Jiji Tang, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun.*<br>
-AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i9.33079)] [[arXiv](https://arxiv.org/abs/2412.07375)]
 
 **OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows.**<br>
 *Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Zichun Liao, Yusuke Kato, Kazuki Kozuka, Aditya Grover.*<br>
@@ -5084,37 +5046,13 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.15194)]
 *Nikolai Röhrich, Isabell Hans, Felix Krause, Björn Ommer.*<br>
 GCPR 2026. [[Paper](https://arxiv.org/abs/2608.14172)] [[Code](https://github.com/CompVis/concept_guidance)]
 
-**Guiding Diffusion Models with Semantically Degraded Conditions.**<br>
-*Shilong Han, Yuming Zhang, Hongxia Wang.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion_Models_with_Semantically_Degraded_Conditions_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.10780)]
-
-**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance.**<br>
-*Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, Yueqi Duan.*<br>
-CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CFG-Ctrl_Control-Based_Classifier-Free_Diffusion_Guidance_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2603.03281)]
-
-**SAND: Stage-Aware Noise Decomposition for Training-Free Diffusion Guidance.**<br>
-*DaeHyun Kim, Hyo-Jun Lee, Hanul Kim, Yeong Jun Koh.*<br>
-ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4835)]
-
 **CREPE: Controlling diffusion with REPlica Exchange.**<br>
 *Jiajun He, Paul Jeha, Peter Potaptchik, Leo Zhang, José Miguel Hernández Lobato, Yuanqi Du, Saifuddin Syed, Francisco Vargas.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/a17a13f0dce74fcd1a8bd78e537e582b-Abstract-Conference.html)]
 
-**Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance.**<br>
-*Zexi Jia, Pengcheng Luo, Zhengyao Fang, Jinchao Zhang, Jie Zhou.*<br>
-ICML 2026. [[Paper](https://proceedings.mlr.press/v306/jia26g.html)]
-
 **Spectral Guidance for Flexible and Efficient Control of Diffusion Models.**<br>
 *Gabriel Moreira, Manuel Marques, Joao Costeira, Chenyan Xiong.*<br>
 ICML 2026. [[Paper](https://proceedings.mlr.press/v306/moreira26a.html)]
-
-**Training-Free Adaptation of Diffusion Models via Doob’s $h$-Transform.**<br>
-*Qijie Zhu, Zeqi Ye, Han Liu, Zhaoran Wang, Minshuo Chen.*<br>
-ICML 2026. [[Paper](https://proceedings.mlr.press/v306/zhu26ay.html)]
-
-**Coffee: Controllable Diffusion Fine-tuning.**<br>
-*Ziyao Zeng, Jingcheng Ni, Ruyi Liu, Alex Wong.*<br>
-arXiv 2025. [[Paper](https://arxiv.org/abs/2511.14113)]
 
 **Ctrl-Z Sampling: Scaling Diffusion Sampling with Controlled Random Zigzag Explorations.**<br>
 *Shunqi Mao, Wei Guo, Chaoyi Zhang, Jieting Long, Ke Xie, Weidong Cai.*<br>
@@ -5124,10 +5062,6 @@ ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/3774)] [[arXiv](ht
 *Jiajun He, José Miguel Hernández Lobato, Yuanqi Du, Francisco Vargas.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/7a99ad21706dec5b28f9ad715e12197f-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2506.05668)]
 
-**Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models.**<br>
-*Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song.*<br>
-NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/c8aefe45deba3639af7120b141b87b50-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2505.21179)] [[DOI](https://doi.org/10.52202/085713-4585)]
-
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis.**<br>
 *Zixuan Wang, Duo Peng, Feng Chen, Yuwei Yang, Yinjie Lei.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.01515)]
@@ -5136,29 +5070,13 @@ CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Tra
 *Bowen Song, Zecheng Zhang, Zhaoxu Luo, Jason Hu, Wei Yuan, Jing Jia, Zhengxu Tang, Guanyang Wang, Liyue Shen.*<br>
 NeurIPS 2025. [[Paper](https://papers.nips.cc/paper_files/paper/2025/hash/663ebbb266aec936d726fba950ca693a-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2502.04670)] [[DOI](https://doi.org/10.52202/085713-2371)]
 
-**REG: Rectified Gradient Guidance for Conditional Diffusion Models.**<br>
-*Zhengqi Gao, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S Boning.*<br>
-ICML 2025. [[Paper](https://proceedings.mlr.press/v267/gao25t.html)] [[arXiv](https://arxiv.org/abs/2501.18865)]
-
 **NoiseCtrl: A Sampling-Algorithm-Agnostic Conditional Generation Method for Diffusion Models.**<br>
 *Longquan Dai, He Wang, Jinhui Tang.*<br>
 CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Dai_NoiseCtrl_A_Sampling-Algorithm-Agnostic_Conditional_Generation_Method_for_Diffusion_Models_CVPR_2025_paper.html)]
 
-**Variational Control for Guidance in Diffusion Models.**<br>
-*Kushagra Pandey, Farrin Marouf Sofian, Felix Draxler, Theofanis Karaletsos, Stephan Mandt.*<br>
-ICML 2025. [[Paper](https://proceedings.mlr.press/v267/pandey25a.html)]
-
 **Steering Rectified Flow Models in the Vector Field for Controlled Image Generation.**<br>
 *Maitreya Patel, Song Wen, Dimitris N. Metaxas, Yezhou Yang.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2412.00100)]
-
-**Rectified Diffusion Guidance for Conditional Generation.**<br>
-*Mengfei Xia, Nan Xue, Yujun Shen, Ran Yi, Tieliang Gong, Yong-Jin Liu.*<br>
-CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Rectified_Diffusion_Guidance_for_Conditional_Generation_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2410.18737)]
-
-**Adaptive Guidance: Training-free Acceleration of Conditional Diffusion Models.**<br>
-*Angela Castillo, Jonas Kohler, Juan C. Pérez, Juan Pablo Pérez, Albert Pumarola, Bernard Ghanem, Pablo Arbeláez, Ali Thabet.*<br>
-AAAI 2025. [[Paper](https://doi.org/10.1609/aaai.v39i2.32192)] [[arXiv](https://arxiv.org/abs/2312.12487)]
 
 **Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method.**<br>
 *Jiachun Pan, Hanshu Yan, Jun Hao Liew, Jiashi Feng, Vincent Y. F. Tan.*<br>
@@ -5237,10 +5155,6 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2608.21713)]
 *Sajjad Abdoli, Ghassan Al-Sumaidaee, Ahmed Rashad.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2608.14976)]
 
-**Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging.**<br>
-*Zhichao Yang, Tianjiao Gu, Zhixianhe Zhang, Xiangfei Sheng, Pengfei Chen, Leida Li.*<br>
-ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2607.15752)]
-
 **PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation.**<br>
 *Yuhang Wu, Shuxiang Zhang, WEE CHING, Chi Zhang, Miao Liu.*<br>
 ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/3174)] [[arXiv](https://arxiv.org/abs/2607.06440)]
@@ -5280,6 +5194,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2605.22469)]
 **Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers.**<br>
 *Evelyn Turri, Davide Bucciarelli, Sara Sarto, Lorenzo Baraldi, Marcella Cornia.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2605.13974)]
+
+**TextGround4M: A Prompt-Aligned Dataset for Layout-Aware Text Rendering.**<br>
+*Dongxing Mao, Yilin Wang, Linjie Li, Zhengyuan Yang, Alex Jinpeng Wang.*<br>
+AAAI 2026. [[Paper](https://doi.org/10.1609/aaai.v40i10.37736)] [[arXiv](https://arxiv.org/abs/2604.24459)]
 
 **EmoScene: A Dual-space Dataset for Controllable Affective Image Generation.**<br>
 *Li He, Longtai Zhang, Wenqiang Zhang, Yan Wang, Lizhe Qi.*<br>
@@ -5404,6 +5322,10 @@ ICML 2026. [[Paper](https://proceedings.mlr.press/v306/bradley26a.html)] [[arXiv
 **FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark.**<br>
 *Rongyao Fang, Aldrich Yu, Chengqi Duan, Linjiang Huang, Shuai Bai, Yuxuan Cai, Kun Wang, Si Liu, Xihui Liu, Hongsheng Li.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/6724eae98f3917968d54c193ac0b45f1-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2509.09680)]
+
+**MultiRef: Controllable Image Generation with Multiple Visual References.**<br>
+*Ruoxi Chen, Dongping Chen, Siyuan Wu, Sinan Wang, Shiyun Lang, Peter Sushko, Gaoyang Jiang, Yao Wan, Ranjay Krishna.*<br>
+ACM MM 2025. [[Paper](https://doi.org/10.1145/3746027.3758292)] [[arXiv](https://arxiv.org/abs/2508.06905)]
 
 **ROVI: A VLM-LLM Re-Captioned Dataset for Open-Vocabulary Instance-Grounded Text-to-Image Generation.**<br>
 *Cihang Peng, Qiming Hou, Zhong Ren, Kun Zhou.*<br>

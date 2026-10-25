@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you find our paper and and collection useful, please cite it as below."
+message: "If you find our paper and collection useful, please cite the published survey below."
 authors:
   - family-names: "Cao"
     given-names: "Pu"
@@ -9,10 +9,9 @@ authors:
     given-names: "Qing"
   - family-names: "Yang"
     given-names: "Lu"
-title: "Controllable Generation with Text-to-Image Diffusion Models: A Survey"
-version: "arXiv:2403.04279"
-date-released: 2024-03-24
-url: "https://arxiv.org/abs/2403.04279"
+title: "Awesome Controllable T2I Diffusion Models"
+type: dataset
+url: "https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models"
 preferred-citation:
   type: article
   authors:
@@ -24,6 +23,13 @@ preferred-citation:
       given-names: "Qing"
     - family-names: "Yang"
       given-names: "Lu"
-  title: "Controllable Generation with Text-to-Image Diffusion Models: A Survey"
-  journal: "arXiv preprint arXiv:2403.04279"
-  year: 2024
+  title: "Controllable Generation With Text-to-Image Diffusion Models: A Survey"
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  volume: "48"
+  issue: "4"
+  start: 4771
+  end: 4791
+  month: 4
+  year: 2026
+  doi: "10.1109/TPAMI.2025.3646548"
+  url: "https://arxiv.org/abs/2403.04279"

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "unique_papers": 1280,
   "category_entries": 1299,
   "cross_listed_entries": 19,
@@ -37,5 +37,5 @@
     "first-arxiv-submission": 1163,
     "venue-year-without-arxiv": 117
   },
-  "readme_sha256": "8840fe5db4b3a7085d62fbd04194853090b865639a779da290aa12d8ba369278"
+  "readme_sha256": "5b5b2e1ba0fe929e3cc37ebf524d99b142d3312e41f7ade4612bf93248746332"
 }

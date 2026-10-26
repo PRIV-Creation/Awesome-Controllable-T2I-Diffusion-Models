@@ -3210,8 +3210,8 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2306.00914)]
 ICLR 2024. [[Paper](https://arxiv.org/abs/2305.11818)]
 
 **LaCon: Late-Constraint Controllable Visual Generation.**<br>
-*Chang Liu, Rui Li, Kaidong Zhang, Xin Luo, Dong Liu.*<br>
-TIP 2026. [[Paper](https://ieeexplore.ieee.org/document/11360571)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
+*Chang Liu, Rui Li, Kaidong Zhang, Yunwei Lan, Xin Luo, Dong Liu.*<br>
+TIP 2026. [[Paper](https://ieeexplore.ieee.org/document/11360571)] [[arXiv](https://arxiv.org/abs/2305.11520)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
 
 **HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation.**<br>
 *Xuan Ju, Ailing Zeng, Chenchen Zhao, Jianan Wang, Lei Zhang, Qiang Xu.*<br>

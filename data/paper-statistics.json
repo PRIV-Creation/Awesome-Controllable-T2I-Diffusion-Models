@@ -1,12 +1,12 @@
 {
   "as_of": "2026-10-26",
-  "unique_papers": 1280,
-  "category_entries": 1299,
+  "unique_papers": 1282,
+  "category_entries": 1301,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
-    "2023": 145,
-    "2024": 302,
+    "2023": 146,
+    "2024": 303,
     "2025": 462,
     "2026": 358
   },
@@ -16,7 +16,7 @@
     "Attention-based Integration": 16,
     "Brain-Guided Generation": 26,
     "Continual Learning": 16,
-    "Distribution-Driven Generation": 11,
+    "Distribution-Driven Generation": 12,
     "Guidance Composition": 20,
     "Image-Driven Generation": 71,
     "In-Context Generation": 29,
@@ -25,7 +25,7 @@
     "Person-Driven Generation": 107,
     "Preference-Driven Generation": 13,
     "Sound-Guided Generation": 7,
-    "Spatial Control": 238,
+    "Spatial Control": 239,
     "Style-Driven Generation": 112,
     "Subject-Driven Generation": 210,
     "Text Rendering": 63,
@@ -34,8 +34,8 @@
     "Weight Fusion": 20
   },
   "date_basis": {
-    "first-arxiv-submission": 1163,
+    "first-arxiv-submission": 1165,
     "venue-year-without-arxiv": 117
   },
-  "readme_sha256": "5b5b2e1ba0fe929e3cc37ebf524d99b142d3312e41f7ade4612bf93248746332"
+  "readme_sha256": "65398a290b1bc7aad59c8d997fbfee59cf1788b0aadc43770446ee620adf391c"
 }

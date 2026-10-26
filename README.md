@@ -2240,6 +2240,10 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2312.14216)]
 *Pu Cao, Lu Yang, Feng Zhou, Tianrui Huang, Qing Song.*<br>
 arXiv 2023. [[Paper](https://arxiv.org/abs/2312.08195)]
 
+**DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation Using Limited Data.**<br>
+*Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
+IJCV 2025. [[Paper](https://doi.org/10.1007/s11263-025-02498-0)] [[arXiv](https://arxiv.org/abs/2306.14153)] [[Code](https://github.com/bbzhu-jy16/DomainStudio)]
+
 
 <a id="preference-driven-generation"></a>
 
@@ -2979,6 +2983,10 @@ ACM MM 2024. [[Paper](https://doi.org/10.1145/3664647.3680764)] [[arXiv](https:/
 **PerLDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Model.**<br>
 *Jinhua Zhang, Hualian Sheng, Sijia Cai, Bing Deng, Qiao Liang, Wen Li, Ying Fu, Jieping Ye, Shuhang Gu.*<br>
 ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_PerLDiff_Controllable_Street_View_Synthesis_Using_Perspective-Layout_Diffusion_Model_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2407.06109)]
+
+**ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models.**<br>
+*Jingyuan Zhu, Shiyu Li, Yuxuan Liu, Jian Yuan, Ping Huang, Jiulong Shan, Huimin Ma.*<br>
+NeurIPS 2024. [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/743771397cef2aa0ef497c428c3a46b7-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2405.15199)]
 
 **Enhancing Image Layout Control with Loss-Guided Diffusion Models.**<br>
 *Zakaria Patel, Kirill Serkh.*<br>
@@ -3738,9 +3746,9 @@ arXiv 2024. [[Paper](https://arxiv.org/abs/2403.18493)]
 *Oscar Mañas, Pietro Astolfi, Melissa Hall, Candace Ross, Jack Urbanek, Adina Williams, Aishwarya Agrawal, Adriana Romero-Soriano, Michal Drozdzal.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2403.17804)]
 
-**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance.**<br>
+**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely With Isolated Diffusion Guidance.**<br>
 *Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
-arXiv 2024. [[Paper](https://arxiv.org/abs/2403.16954)]
+TVCG 2025. [[Paper](https://doi.org/10.1109/TVCG.2024.3506992)] [[arXiv](https://arxiv.org/abs/2403.16954)]
 
 **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering.**<br>
 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.*<br>
@@ -4791,9 +4799,9 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2410.05591)] [[Code](https://github.co
 *Michelle Shu, Charles Herrmann, Richard Strong Bowen, Forrester Cole, Ramin Zabih.*<br>
 arXiv 2024. [[Paper](https://arxiv.org/abs/2404.03145)]
 
-**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance.**<br>
+**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely With Isolated Diffusion Guidance.**<br>
 *Jingyuan Zhu, Huimin Ma, Jiansheng Chen, Jian Yuan.*<br>
-arXiv 2024. [[Paper](https://arxiv.org/abs/2403.16954)]
+TVCG 2025. [[Paper](https://doi.org/10.1109/TVCG.2024.3506992)] [[arXiv](https://arxiv.org/abs/2403.16954)]
 
 **Images that Sound: Composing Images and Sounds on a Single Canvas.**<br>
 *Ziyang Chen, Daniel Geng, Andrew Owens.*<br>

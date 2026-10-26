@@ -6493,5 +6493,15 @@
     "date": "2024",
     "basis": "venue-year-without-arxiv",
     "source": "https://papers.nips.cc/paper_files/paper/2024/hash/0d11b4035d54e449320fc36b0f64ebb7-Abstract-Conference.html"
+  },
+  "arxiv:2306.14153": {
+    "date": "2023-06-25",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2306.14153"
+  },
+  "arxiv:2405.15199": {
+    "date": "2024-05-24",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2405.15199"
   }
 }

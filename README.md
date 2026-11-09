@@ -938,6 +938,10 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2208.01618)]
 <a id="person-driven-generation"></a>
 
 #### 🍊Person-Driven Generation
+**IDPrior: Decoupling Identity Generation from Facial Image Synthesis.**<br>
+*Fadi Boutros, Meriç Demirörs, Darian Tomašević, Vitomir Štruc, Naser Damer.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2611.07941)]
+
 **PicturePerfect: Diffusion-based Same-identity Facial Replacement.**<br>
 *Manik Dhingra, Yashesh Savani, Mahesh Reddy, Antoine Mercier, Jiahe Liu, Guillaume Berger.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.39344)]
@@ -1382,6 +1386,18 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.10431)]
 <a id="style-driven-generation"></a>
 
 #### 🍋Style-Driven Generation
+**From Handcrafted to Generative: RLVR-Optimized Icon Generation for Alexa+.**<br>
+*Rohan Sequeira, Matthew Rosenberg, Amin Mahmoudabadbozchelou, Oleg Poliannikov, Jonathan Rubin.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06123)]
+
+**RATR: Training-Free Material Rebinding via Role Assignment and Temporal Routing.**<br>
+*Jiehui Tang, Yunlong Yu, Zhao Wang, Jungong Han.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.00551)]
+
+**SketchBloom: Training-Free Vector Sketch Outpainting with Stroke-Level Style Control.**<br>
+*Quang-Thinh Nguyen, Duy-Khang Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.00245)] [[Project](https://khangcntn123.github.io/SketchBloom/)]
+
 **Local Content-Style Control for Diffusion-based Image Stylization.**<br>
 *Amir Semmo.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.08704)]
@@ -1417,6 +1433,10 @@ ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/5399)] [[arXiv](ht
 **Beyond Starry Night: Shortcut-Aware Control-State Planning for Artist-Grounded Text to Image Generation.**<br>
 *Kuan Xing, Ye Wang, Changyi Gan, Yuheng Li, Thao Nguyen, Yi Chang, Yilin Wang.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2608.06751)]
+
+**StatLUT: Statistical Feature-Driven Multimodal 3DLUT Generation for Photorealistic Style Transfer.**<br>
+*Yifan Wang, Zhixiang Hao, Yu Wang, Congchao Zhu.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2607.08227)]
 
 **AnyStyle: A Single LoRA is Sufficient for Image-Guided Style Transfer.**<br>
 *Yongwen Lai, Chaoqun Wang.*<br>
@@ -1550,8 +1570,8 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Spl
 *Huijie Liu, Shuhao Cui, Haoxiang Cao, Shuai Ma, Kai Wu, Guoliang Kang.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2511.10555)]
 
-**V-Shuffle: Zero-Shot Style Transfer via Value Shuffle.**<br>
-*Haojun Tang, Qiwei Lin, Tongda Xu, Lida Huang, Yan Wang.*<br>
+**Transfer the Style, Not the Semantics: Mitigating Semantic Leakage in Image-Guided Stylization.**<br>
+*Haojun Tang, Qiwei Lin, Tongda Xu, Wenda Zhao, Yian Zhao, Yu Zhang, Lida Huang, Yan Wang.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2511.06365)]
 
 **Personalized Image Filter: Mastering Your Photographic Style.**<br>
@@ -1565,6 +1585,10 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2510.09475)]
 **StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance.**<br>
 *Jaeseok Jeong, Junho Kim, Gayoung Lee, Yunjey Choi, Youngjung Uh.*<br>
 ICCV 2025. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jeong_StyleKeeper_Prevent_Content_Leakage_using_Negative_Visual_Query_Guidance_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2510.06827)]
+
+**Image Generation Based on Image Style Extraction.**<br>
+*Shuochen Chang.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2510.01347)]
 
 **CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models.**<br>
 *Ayan Banerjee, Fernando Vilariño, Josep Lladós.*<br>
@@ -1922,6 +1946,22 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13495)]
 <a id="image-driven-generation"></a>
 
 #### 🍎Image-Driven Generation
+**TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing.**<br>
+*Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06741)] [[Project](https://lyricccco.github.io/tailsteer/)]
+
+**Efficient and Faithful High-Resolution Image Editing with Sparse Cross-Resolution Denoising.**<br>
+*Maosen Zhao, Xianfang Zeng, Pengtao Chen, Peng Ye, Gang Yu, Jiayuan Fan, Tao Chen.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.04416)]
+
+**Improving Diffusion-Based Augmentation for Data-Scarce Image Classification via Mask-Guided Reference Attention and Repulsive Noise Optimization.**<br>
+*Hyun-Jic Oh, GaYeon Koh, Won-Ki Jeong.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2611.04242)]
+
+**SAVIER: Source-Anchored Visual Inspection and Evidence-Guided Repair for Vietnamese Cultural Text-to-Image Generation.**<br>
+*Gia-Huy Thai, Duc-Tien Khong, Trung-Nghia Le.*<br>
+SOICT 2026 (accepted). [[Paper](https://arxiv.org/abs/2611.00722)] [[Project](https://oxyzgiahuy.github.io/savier/)]
+
 **EditAgent: Rethinking Agentic Image Editing.**<br>
 *Haiyang Xu, Tianyu Wang, Jialu Li, Jiteng Mu, Yuanjun Xiong, Jianming Zhang, Zhuowen Tu, Mingze Xu.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.39664)]
@@ -2234,13 +2274,21 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2204.06125)]
 <a id="distribution-driven-generation"></a>
 
 #### 🍐Distribution-Driven Generation
+**Expanding the Quality-Coverage Frontier with Competitive Flow Matching.**<br>
+*Wenxuan Peng, Richard Zhang, Haitian Zheng, Jaskirat Singh, Tsai-Shien Chen, Eli Shechtman, Bharath Hariharan, Hadar Averbuch-Elor, Zongze Wu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.07055)] [[Project](https://lilydaytoy.github.io/CFM/)]
+
+**Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling.**<br>
+*Ria Shekhawat, Abhijeet Sinha, Yingtao Zhu, Dianbo Liu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.04792)]
+
 **SynthFaces: Balanced Large Scale Human Dataset.**<br>
 *Sergey Karpukhin, Denis Bobkov, Kirill Morozov, Aibek Alanov.*<br>
 BMVC 2026 (accepted). [[Paper](https://arxiv.org/abs/2610.40119)]
 
-**TokenRepel: Generating Diverse Image Sets Without Compromising Quality.**<br>
+**TokenRepel: Generating Diverse Image Sets Without Sacrificing Quality.**<br>
 *Qingtao Yu, Zhen Wang, Ning Lai, Boyang Hu, Hongdong Li, Dylan Campbell.*<br>
-arXiv 2026. [[Paper](https://arxiv.org/abs/2610.39913)]
+NeurIPS 2026 (accepted). [[Paper](https://neurips.cc/virtual/2026/poster/148516)] [[arXiv](https://arxiv.org/abs/2610.39913)]
 
 **A First-Step Bias Restores Lost Diversity in Diffusion Model Distillation.**<br>
 *Wenwu Tang, Dong Wang, Yun Cheng, Olga Saukh.*<br>
@@ -2249,6 +2297,14 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2610.37110)]
 **S$^2$-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation.**<br>
 *Haoyu Wang, Fei Zhou, Qingqing Qiu, Lei Zhang, Wei Wei, Chen Ding.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.35491)] [[Project](https://00why00.github.io/S2RL/)]
+
+**Bridging the Data Gap: Source-Informed Task-Space Transport for Few-Shot Diffusion.**<br>
+*Jinjian Jiang, Jing Peng, Rehan Deen, Yu Cao, Ziquan Liu, Muhammad Salman Haleem, David Mguni.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.31323)]
+
+**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation.**<br>
+*Ku Onoda, Paavo Parmas, Hiroki Furuta, Soichiro Nishimori, Yuta Oshima, Shohei Taniguchi, Yutaka Matsuo.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2607.14962)] [[Code](https://github.com/KuOnoda/multi-axis-maxk)]
 
 **Histogram-constrained Image Generation.**<br>
 *Haoming Liu, Yuanhe Guo, Yijia Cao, Shenji Wan, Hongyi Wen.*<br>
@@ -2261,6 +2317,10 @@ ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/4450)] [[arXiv](ht
 **Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales.**<br>
 *Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2605.28036)] [[Project](https://kim-myeong-soo.github.io/stayfair)]
+
+**When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy.**<br>
+*Xiaofeng Tan, Jun Liu, Bin-Bin Gao, Yuanting Fan, Xi Jiang, Chengjie Wang, Hongsong Wang, Feng Zheng.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2605.12112)] [[Project](https://xiaofeng-tan.github.io/projects/PEC)]
 
 **Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation.**<br>
 *Nadav Z. Cohen, Ofir Abramovich, Ariel Shamir.*<br>
@@ -2378,6 +2438,34 @@ ICML 2025. [[Paper](https://proceedings.mlr.press/v267/nabati25a.html)]
 <a id="spatial-control"></a>
 
 ### 🍔Spatial Control
+**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing.**<br>
+*Qin Guo, Dan Xu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.07922)]
+
+**Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis.**<br>
+*Xinyu Zhang, Xiaodi Wang, Yanpeng Sun, Lingfeng Yang, Jingdong Wang, Lingqiao Liu.*<br>
+ICME 2026 (accepted). [[Paper](https://arxiv.org/abs/2611.07553)]
+
+**Spatially and Compositionally Controlled Multimodal Glioblastoma MRI Synthesis with Latent Diffusion.**<br>
+*Steven Glass, Max Van Puyvelde, Marija Pizurica, Mia Meyer, Olivier Gevaert, Willie Brink.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06540)]
+
+**CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests.**<br>
+*Dimitrios Bekris, Marios Glytsos, Panagiotis P. Filntisis, Niki Efthymiou, George Retsinas, Petros Maragos.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.04708)]
+
+**GESTALT: Fast, Generalizable Histopathology Image Synthesis from Gene Expression with Pretrained Pathology Foundation Models.**<br>
+*Felix Ho, Alexandros Graikos, Dimitris Samaras.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2611.01141)] [[Code](https://github.com/trongnhandev1011/Gestalt)]
+
+**Training-free Conditional Object Composition for Multi-object Image Generation with Diffusion Models.**<br>
+*Hsuan-Fu Wang, Hsuan-Tien Lin.*<br>
+TAAI 2026 (accepted). [[Paper](https://arxiv.org/abs/2611.00804)] [[Code](https://github.com/ShampooWang/condComp_imageGen/tree/main)]
+
+**SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement.**<br>
+*Yiqi Liang, Xiaodong Cun.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.41260)] [[Project](https://yiki77.github.io/SketchDirector/)]
+
 **Spatially Gated Demographic Steering for Debiasing Multi-Person Text-to-Image Generation.**<br>
 *Venkatesh Thirugnana Sambandham, Torsten Schon.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.29651)]
@@ -2429,6 +2517,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2608.20691)]
 **PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes.**<br>
 *Yufeng Chi, Huimin Ma, Fan Gao, Zhice Niu, Keqin Li, Jianmin Li.*<br>
 ACM MM 2026 (accepted). [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[arXiv](https://arxiv.org/abs/2608.15583)]
+
+**GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation.**<br>
+*Jeonghyeok Do, Munchurl Kim.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2608.01896)] [[Project](https://kaist-viclab.github.io/GeoCore-9B_site/)]
 
 **InstancePin: Instance-Addressable Layout-to-Image Diffusion via Coordinate Pinning.**<br>
 *Chaoyue Wu, Yunfei Zhang, Si Wu.*<br>
@@ -2486,6 +2578,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2605.14326)]
 *Vlad Vasilescu, Daniela Faur, Teodor Costachioiu.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2605.04557)]
 
+**Identity-Consistent Multi-Pose Generation of Contactless Fingerprints.**<br>
+*Zhiyu Pan, Zhaoliang Xu, Xiongjun Guan, Jianjiang Feng, Jie Zhou.*<br>
+IEEE TIFS 2026 (accepted). [[Paper](https://arxiv.org/abs/2605.03830)] [[Code](https://github.com/Yu-Yy/IMPOSE)]
+
 **Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens.**<br>
 *Xinxuan Lu, Charless Fowlkes, Alexander C. Berg.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Camera_Control_for_Text-to-Image_Generation_via_Learning_Viewpoint_Tokens_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2604.19954)]
@@ -2493,6 +2589,10 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Camer
 **TokenLight: Precise Lighting Control in Images using Attribute Tokens.**<br>
 *Sumit Chaturvedi, Yannick Hold-Geoffroy, Mengwei Ren, Jingyuan Liu, He Zhang, Yiqun Mei, Julie Dorsey, Zhixin Shu.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chaturvedi_TokenLight_Precise_Lighting_Control_in_Images_using_Attribute_Tokens_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2604.15310)]
+
+**HiddenObjects: Scalable Spatial Prior Extraction for Object Placement from Diffusion Models.**<br>
+*Marco Schouten, Ioannis Siglidis, Serge Belongie, Dim P. Papadopoulos.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2604.10675)]
 
 **Training-Free Object-Background Compositional T2I via Dynamic Spatial Guidance and Multi-Path Pruning.**<br>
 *Yang Deng, David Mould, Paul L. Rosin, Yu-Kun Lai.*<br>
@@ -2771,7 +2871,7 @@ arXiv 2025. [[Paper](https://arxiv.org/abs/2507.02792)]
 ICML 2025. [[Paper](https://proceedings.mlr.press/v267/guo25s.html)] [[arXiv](https://arxiv.org/abs/2507.02713)]
 
 **Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback.**<br>
-*Nina Konovalova, Maxim Nikolaev, Andrey Kuznetsov, Aibek Alanov.*<br>
+*Nina Konovalova, Ibragim Idrisov, Kamil Garifullin, Timofei Sobornov, Aibek Alanov.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2507.02321)]
 
 **Control and Realism: Best of Both Worlds in Layout-to-Image without Training.**<br>
@@ -3344,6 +3444,26 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.01324)]
 <a id="advanced-text-conditioned-generation"></a>
 
 ### 🍿Advanced Text-Conditioned Generation
+**Prism: Bidirectional Self-Teaching for Unified Multimodal Models.**<br>
+*Peng Zhang, Qian Chen, Xianyin Zhang, Yimin Tian, Ruite Fei, Dongyi Lv, Lifan Guo, Chi Zhang, Shuai Liu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06343)]
+
+**Decompose the Distillation: Interpretable Single-Pass Guidance for Diffusion Models.**<br>
+*Wuyang Zhang, Xiaolin Xu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.05755)]
+
+**PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs.**<br>
+*Yasong Dai, Zeeshan Hayder, David Ahmedt-Aristizabal, Hongdong Li.*<br>
+WACV 2027 (accepted). [[Paper](https://arxiv.org/abs/2611.04948)]
+
+**ODC: Orthogonal Drift Correction for Improved Text-to-Image Semantic Alignment at Inference.**<br>
+*Kasra Kamali, Basim Azam, Tuan Duong Trinh, Jean Honorio, Naveed Akhtar.*<br>
+TMLR 2026 (accepted). [[Paper](https://arxiv.org/abs/2611.00819)] [[Code](https://github.com/kasrakamali/ODC)]
+
+**Latent Reasoning in Continuous Space for Unified Multimodal Models.**<br>
+*Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2610.42149)]
+
 **VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation.**<br>
 *Yuan Wang, Yuhang Yu, Mengting Chen, Tianrun Xu, Zihao Pan, Xuetao Feng, Wei Li.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.39158)]
@@ -3372,9 +3492,17 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2610.25645)]
 *Yufei Jiao, Jinfa Huang, Zeyue Xue, Tianyu Xie, Yuexiao Ma, Rongrong Ji, Xiawu Zheng, Jiebo Luo.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.22264)]
 
+**MaskSense: Confronting the Visual Exploration Trap in Masked Image Generation.**<br>
+*Yawen Shao, Jie Xiao, Kai Zhu, Yu Liu, Hongchen Luo, Xueyang Fu, Yang Cao, Wei Zhai, Zheng-Jun Zha.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2610.17009)] [[Project](https://yawen-shao.github.io/MaskSense/)]
+
 **Look Back to Move Forward: Learning to Revisit for Agentic Compositional Image Generation.**<br>
 *Zixu Wang, Xiaoran Zhao, Yahui Liu, Feng-ao Wang, Junhao Xiao, You Shu, Bing Liu, Yiting Liu, Songlei Jian, Zhiliang Tian, Dongsheng Li.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.16224)]
+
+**Shared Geometry As A Rosetta Stone: Cross-Modal Alignment Without Paired Data.**<br>
+*Dominik Schnaus, Thomas Dagès, Daniel Cremers, Xi Wang, Phillip Isola.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.09411)] [[Code](https://github.com/dominik-schnaus/unpaired-rosetta)] [[Project](https://dominik-schnaus.github.io/unpaired-rosetta/)]
 
 **Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards.**<br>
 *Yuanhao Ban, I-Hung Hsu, Anastasios Angelopoulos, Wei-Lin Chiang, Ion Stoica, Cho-Jui Hsieh.*<br>
@@ -3448,6 +3576,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2605.07973)]
 *Hao Li.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2604.25314)]
 
+**ReMoA: Recursive Modular Adaptation via Sparse Latent Refinement in Multimodal Diffusion Models.**<br>
+*Yuwei Sun, Yuxuan Yao, Hui Li, Weihao Yuan, Siyu Zhu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2604.25299)]
+
 **Long-Text-to-Image Generation via Compositional Prompt Decomposition.**<br>
 *Jen-Yuan Huang, Tong Lin, Yilun Du.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/2d04d97593c8c33d415337f408ed0e1b-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2604.18258)]
@@ -3455,6 +3587,10 @@ ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/2d04
 **Evolutionary Token-Level Prompt Optimization for Diffusion Models.**<br>
 *Domício Pereira Neto, João Correia, Penousal Machado.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2604.09861)]
+
+**SHIFT: Steering Hidden Intermediates in Flow Transformers.**<br>
+*Nina Konovalova, Ibragim Idrisov, Aibek Alanov.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2604.09213)] [[Project](https://controlgenai.github.io/SHIFT)]
 
 **Gen-Searcher: Reinforcing Agentic Search for Image Generation.**<br>
 *Kaituo Feng, Manyuan Zhang, Shuang Chen, Yunlong Lin, Kaixuan Fan, Yilei Jiang, Hongyu Li, Dian Zheng, Chenyang Wang, Xiangyu Yue.*<br>
@@ -4052,6 +4188,14 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.01115)]
 <a id="brain-guided-generation"></a>
 
 ### 🍹Brain-Guided Generation
+**E2I-Flow: EEG-to-Image Reconstruction via Wavelet-Temporal Cross-Attention and Conditional Flow Matching.**<br>
+*Haowei Pan, Hwa Hui Tew, Junn Yong Loo, Fuad Noman, Hernando Ombao, Chee-Ming Ting.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.04524)]
+
+**Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks.**<br>
+*Yusong Zhao, Edgar Y. Walker, Hao Wang, Mi Lu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.03597)]
+
 **Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation.**<br>
 *Yohann Benchetrit, Marlène Careil, Simon Dahan, Hubert Banville, Stéphane d'Ascoli, Jean-Rémi King.*<br>
 NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2606.06345)] [[Proceedings](https://neurips.cc/virtual/2026/poster/154738)]
@@ -4075,6 +4219,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2601.15071)]
 **Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers.**<br>
 *Xiyue Bai, Ronghao Yu, Jia Xiu, Pengfei Zhou, Jie Xia, Peng Ji.*<br>
 arXiv 2025. [[Paper](https://arxiv.org/abs/2512.18635)]
+
+**NeuroVolve: Evolving personalized visual stimuli toward user-defined brain response targets.**<br>
+*Haomiao Chen, Keith W Jamison, Daniel Chong, Yunrui Zhang, Mert R. Sabuncu, Amy Kuceyeski.*<br>
+arXiv 2025. [[Paper](https://arxiv.org/abs/2512.00557)]
 
 **Hi-DREAM: Brain-Inspired Hierarchical Diffusion for fMRI-to-Image Reconstruction via ROI Encoder and VisuAl Mapping.**<br>
 *Guowei Zhang, Yun Zhao, Kai Sun, Moein Khajehnejad, Adeel Razi, Dinh Phung, Levin Kuhlmann.*<br>
@@ -4193,6 +4341,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10056)]
 <a id="text-rendering"></a>
 
 ### 🧉Text Rendering
+**FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing.**<br>
+*Zhixian Li, Xingsong Ye, Yongkun Du, Yunyan Xiao, Yanglin Huang, Pinxuan Chen, Jiyu Zhuang, Cong Xu, Zhineng Chen.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.04303)]
+
 **STEPS: Scene Text Editing with Preserved Style Using Diffusion and Contrastive Style Encoding.**<br>
 *Nicolas Thiebaut, Nameer Hirschkind, Xiao Yu, Kyle Spence.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2609.38636)]
@@ -4259,7 +4411,7 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2603.07543)]
 *Hanshen Zhu, Yuliang Liu, Xuecheng Wu, An-Lan Wang, Hao Feng, Dingkang Yang, Chao Feng, Can Huang, Jingqun Tang, Xiang Bai.*<br>
 CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_TextPecker_Rewarding_Structural_Anomaly_Quantification_for_Enhancing_Visual_Text_Rendering_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2602.20903)]
 
-**Structure-Level Disentangled Diffusion for Few-Shot Chinese Font Generation.**<br>
+**Disentangle to create: Architecture-level disentangled diffusion model for few-shot Chinese font generation.**<br>
 *Jie Li, Suorong Yang, Jian Zhao, Furao Shen.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2602.18874)]
 
@@ -4699,6 +4851,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2304.06027)]
 <a id="weight-fusion"></a>
 
 ### 🌔Weight Fusion
+**Anthropogenic Regional Adaptation in Multimodal Vision-Language Model.**<br>
+*Samuel Cahyawijaya, Peerat Limkonchotiwat, Tack Hwa Wong, Hitesh Laxmichand Patel, Amit Agarwal, Manuel Antonio Rufino, Carlos Rafael Catalan, Muhammad Reza Qorib, Vicky Feliren, Holy Lovenia, Aye Hninn Khine, Frederikus Hudi, David Anugraha, Alham Fikri Aji, Romrawin Chumpu, Viet-Thanh Pham, Minghan Wang, Mohamed Fazli Imam, Ruochen Zhang, Joseph Marvin Imperial, Khumaisa Nur'aini, Do Xuan Long, Musa Izzanardi Wijanarko, Joel Ruben Antony Moniz, Patrick Amadeus Irawan, Hanif Muhammad Zhafran, Isaiah Flores, Salsabila Zahirah Pranida, Jun Kevin, Jostin Jerico Rosal, Patricia Nicole Monderin, Kun Kerdthaisong, Ahmad Mustafid, My Chiffon Nguyen, Natchapon Jongwiriyanurak, Siva Worajitwannakul, Haochen Li, Adrian Xuan Wei Lim, Bin Wang, Muhammad Ravi Shulthan Habibi, Lynnette Hui Xian Ng, Mithil Bangera, Yeshil Bangera, Priyaranjan Pattnayak, Dun Li Chan, Sherissa Caren Djuniwar, Cho Chan Myei Oo, Hee Ming Shan.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2604.11490)]
+
 **FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer.**<br>
 *Shenghe Zheng, Minyu Zhang, Tianhao Liu, Hongzhi Wang.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2604.10023)]
@@ -4946,6 +5102,10 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2304.10530)]
 <a id="universal-conditional-score-prediction"></a>
 
 ### 🌤Universal Conditional Score Prediction
+**WeLM-Image: A Unified Image Generation Model towards Visual Intelligence.**<br>
+*Canmiao Fu, Chen Li, Guohui Zhang, Hao Lu, Hongyang Wei, Huadong Wu, Huaisong Zhang, Hubery Yin, Liyuan Cui, Qixin Yan, Tong Shao, Xiaoqiang Zhou, Xinhang Leng, Ying Zhang, Zhenhai Liu, Zhipeng Huang.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.07392)]
+
 **FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation.**<br>
 *Yijing Lin, Zhendong Mao, Mengqi Huang, Yuxin Wang, Yongdong Zhang.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.36545)]
@@ -5170,6 +5330,14 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.15194)]
 <a id="universal-condition-guided-score-estimation"></a>
 
 ### 🌧Universal Condition-Guided Score Estimation
+**Learning Noise Optimization for Reward Alignment in Few-Step Generative Models.**<br>
+*Hongeun Kim, Jeongsol Kim, Jong Chul Ye.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06255)]
+
+**ScoreDial: Precise Control of Visual Attributes in Image Generation via Regressor Guidance from Limited Human Ratings.**<br>
+*Jianbo Tang, Keita Ishii, Hiroki Sakamoto, Manabu Kikuchi, Katsuma Kitamura, Chiho Semba, Kenta Nishiyama, Teppei Mori, Yukihiro Kiwaki, Takeo Kato.*<br>
+WACV 2027 Applications Track (accepted). [[Paper](https://arxiv.org/abs/2611.05004)] [[Code](https://github.com/Kamijo-Gen/ScoreDial)]
+
 **AegisFlow: Training-Free Non-Myopic Path-Safe Guided Flow Matching.**<br>
 *Kunpeng Liu, Boshi Zhang, Keyou You.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2610.39825)] [[Code](https://github.com/LiuKunpeng03/AegisFlow)]
@@ -5193,6 +5361,10 @@ ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/a17a
 **Spectral Guidance for Flexible and Efficient Control of Diffusion Models.**<br>
 *Gabriel Moreira, Manuel Marques, Joao Costeira, Chenyan Xiong.*<br>
 ICML 2026. [[Paper](https://proceedings.mlr.press/v306/moreira26a.html)]
+
+**Itô maps for any-step SDEs.**<br>
+*Zhengkai Pan, Peter Potaptchik, Wenxi Yao, Michael S. Albergo, Jakiw Pidstrigach.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2606.11156)]
 
 **Ctrl-Z Sampling: Scaling Diffusion Sampling with Controlled Random Zigzag Explorations.**<br>
 *Shunqi Mao, Wei Guo, Chaoyi Zhang, Jieting Long, Ke Xie, Weidong Cai.*<br>
@@ -5242,6 +5414,38 @@ CVPRW 2023. [[Paper](https://arxiv.org/abs/2302.07121)]
 
 
 
+
+**A Proxy-Based Method for Measuring Racial Disparities in Text-to-Image Generators.**<br>
+*Nia Mucher, Ngan Pham, Jason Chin, Aaron Brown, David Evans.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.07132)]
+
+**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis.**<br>
+*Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Chaoqun Wang, Changqian Yu, Kelsey R. Allen.*<br>
+NeurIPS 2026 Evaluations and Datasets Track (accepted). [[Paper](https://arxiv.org/abs/2611.06856)] [[Project](https://long-banana.com/)]
+
+**Same Layout, Different Count: What Number Words Do Past Ten in Text-to-Image Models.**<br>
+*Liang Yue, Eric A. Vance.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.06840)]
+
+**Whose Values Are Generated? Measuring Visual Value Leakage in Multilingual Text-to-Image Generation.**<br>
+*Zucan Lyu, Binwei Yao, Rheeya Uppaal, Jing Yao, Xiaoyuan Yi, Junjie Hu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.05578)]
+
+**YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction.**<br>
+*Shengyu Wang, Tengyue Nong, Junming Liu, Haosong Peng, Siyu Li, Ruiqi Lei, Fushuo Huo, Yuhao Pan, Yunfeng Fan, Ding Wang, Nan Cheng, Haozhao Wang, Wenchao Xu.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.05280)] [[Project](https://rowletqwq.github.io/YANAMI)]
+
+**When Optimization Meets Human Intent: Human-Centered Diffusion Model Optimization.**<br>
+*Renye Yan, Jikang Cheng.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.03140)]
+
+**Do Visual RL Gains Scale at Test Time? A Quantile View of Post-Training.**<br>
+*Austin Wang, Lexing Ying.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2611.02366)]
+
+**From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models.**<br>
+*Jun He, Canmiao Fu, Ying Zhang, Zhipeng Huang, Chenyu Mu, Yazhen Xie, Chen Li, Jing Lyu, Weijia Li, Xiang Zhang.*<br>
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.41210)]
 
 **Can Image Agents Complete Visual Commissions? A Benchmark and Modular Framework.**<br>
 *Tong Li, Lishuai Gao, Qi Zeng, Yifan Li, Cong Wei, Zhuoliang Kang, Xiaoming Wei.*<br>
@@ -5319,6 +5523,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2608.21713)]
 *Sajjad Abdoli, Ghassan Al-Sumaidaee, Ahmed Rashad.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2608.14976)]
 
+**RA-ClipScore: Making Generative Model Evaluation More Interpretable.**<br>
+*Yifan Lu, Taras Kucherenko, Hedvig Kjellström, Judith Bütepage.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2608.12088)]
+
 **PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation.**<br>
 *Yuhang Wu, Shuxiang Zhang, WEE CHING, Chi Zhang, Miao Liu.*<br>
 ECCV 2026. [[Paper](https://eccv.ecva.net/virtual/2026/poster/3174)] [[arXiv](https://arxiv.org/abs/2607.06440)]
@@ -5350,6 +5558,10 @@ arXiv 2026. [[Paper](https://arxiv.org/abs/2606.15796)] [[Code](https://github.c
 **The 1st PortraitCraft Challenge: A CVPR 2026 Workshop Competition on Portrait Composition Understanding and Generation.**<br>
 *Zijie Lou, Youyun Tang, Xiaochao Qu, Haoxiang Li, Ting Liu, Luoqi Liu, Xun Zhu, Zheng Zhang, Xi Chen, Miao Li, Ji Wu, Dizhe Zhang, Xian Ge, Sujia Wang, Ruiyang Zhang, Jiaming Wang, Xianshun Wang, Lu Qi, Boao Kang, Wei Zhou, Jinghui Sun, Zhenyu Yan, Jiliang Zhao, Rui Yang, Yipo Huang, Boyuan Liu, Shanglin Li, Zifan Xie, Yichen Zhang, Anlan Wang, Wenfeng Lin, Mingyu Guo, Dong Li, Xinghao Wang, Yanting Li, Shanzhao Tong, Shuai He, Qiu Zhou, Yongqi Yang, Taoyang Mu, Dianqiao Lei, Anlong Ming, Huadong Ma.*<br>
 arXiv 2026. [[Paper](https://arxiv.org/abs/2606.10894)]
+
+**Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback.**<br>
+*Huaisong Zhang, Hao Yu, Yuxuan Zhang, Jiahe Wang, Xinrui Chen, Haoxiang Cao, Feng Lu, Wendong Zhang, Changqian Yu, Chun Yuan.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2606.06113)]
 
 **Vision-Language Binding in In-Context Image Generation.**<br>
 *Chris Ge, Rohit Gandikota, Antonio Torralba, Tamar Rott Shaham.*<br>
@@ -5414,6 +5626,10 @@ CVPR 2026. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Abdal_Vi
 **Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models.**<br>
 *Zengbin Wang, Xuecai Hu, Yong Wang, Feng Xiong, Man Zhang, Xiangxiang Chu.*<br>
 ICLR 2026. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/4a5c76c63f83ea45fb136d62db6c7104-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2601.20354)]
+
+**ColorConceptBench: A Benchmark for Probabilistic Color-Concept Understanding in Text-to-Image Models.**<br>
+*Chenxi Ruan, Yihan Hou, Yu Xiao, Guosheng Hu, Wei Zeng.*<br>
+NeurIPS 2026 (accepted). [[Paper](https://arxiv.org/abs/2601.16836)]
 
 **GenCtrl -- A Formal Controllability Toolkit for Generative Models.**<br>
 *Emily Cheng, Carmen Amo Alonso, Federico Danieli, Arno Blaas, Luca Zappella, Pau Rodriguez, Xavier Suau.*<br>

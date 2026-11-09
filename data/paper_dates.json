@@ -2949,7 +2949,7 @@
     "basis": "venue-year-without-arxiv",
     "source": "https://eccv.ecva.net/virtual/2026/poster/3377"
   },
-  "title:terradit\u03c9unifiedspatialcontrolforsatelliteimagesynthesiswithanygeospatialprimitive": {
+  "title:terraditωunifiedspatialcontrolforsatelliteimagesynthesiswithanygeospatialprimitive": {
     "date": "2026",
     "basis": "venue-year-without-arxiv",
     "source": "https://eccv.ecva.net/virtual/2026/poster/4512"
@@ -6713,5 +6713,275 @@
     "date": "2026-07-08",
     "basis": "first-arxiv-submission",
     "source": "https://arxiv.org/abs/2607.21628"
+  },
+  "arxiv:2611.07941": {
+    "date": "2026-11-05",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07941"
+  },
+  "arxiv:2611.07922": {
+    "date": "2026-11-05",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07922"
+  },
+  "arxiv:2606.06113": {
+    "date": "2026-06-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2606.06113"
+  },
+  "arxiv:2604.10675": {
+    "date": "2026-04-12",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2604.10675"
+  },
+  "arxiv:2611.07132": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07132"
+  },
+  "arxiv:2611.06255": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06255"
+  },
+  "arxiv:2611.01141": {
+    "date": "2026-10-31",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.01141"
+  },
+  "arxiv:2604.09213": {
+    "date": "2026-04-10",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2604.09213"
+  },
+  "arxiv:2611.00804": {
+    "date": "2026-10-31",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.00804"
+  },
+  "arxiv:2604.11490": {
+    "date": "2026-04-13",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2604.11490"
+  },
+  "arxiv:2611.05578": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.05578"
+  },
+  "arxiv:2611.07392": {
+    "date": "2026-11-05",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07392"
+  },
+  "arxiv:2510.01347": {
+    "date": "2025-10-01",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2510.01347"
+  },
+  "arxiv:2611.06840": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06840"
+  },
+  "arxiv:2611.06741": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06741"
+  },
+  "arxiv:2605.12112": {
+    "date": "2026-05-12",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2605.12112"
+  },
+  "arxiv:2604.25299": {
+    "date": "2026-04-28",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2604.25299"
+  },
+  "arxiv:2611.04792": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04792"
+  },
+  "arxiv:2607.14962": {
+    "date": "2026-07-16",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2607.14962"
+  },
+  "arxiv:2610.09411": {
+    "date": "2026-10-07",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.09411"
+  },
+  "arxiv:2611.04303": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04303"
+  },
+  "arxiv:2611.04242": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04242"
+  },
+  "arxiv:2601.16836": {
+    "date": "2026-01-23",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2601.16836"
+  },
+  "arxiv:2610.17009": {
+    "date": "2026-10-12",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.17009"
+  },
+  "arxiv:2611.00819": {
+    "date": "2026-10-31",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.00819"
+  },
+  "arxiv:2610.42149": {
+    "date": "2026-10-30",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.42149"
+  },
+  "arxiv:2611.05755": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.05755"
+  },
+  "arxiv:2611.04948": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04948"
+  },
+  "arxiv:2611.04708": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04708"
+  },
+  "arxiv:2607.08227": {
+    "date": "2026-07-09",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2607.08227"
+  },
+  "arxiv:2611.03597": {
+    "date": "2026-11-02",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.03597"
+  },
+  "arxiv:2611.03140": {
+    "date": "2026-11-02",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.03140"
+  },
+  "arxiv:2611.06343": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06343"
+  },
+  "arxiv:2611.00722": {
+    "date": "2026-10-31",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.00722"
+  },
+  "arxiv:2611.05004": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.05004"
+  },
+  "arxiv:2611.06856": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06856"
+  },
+  "arxiv:2608.12088": {
+    "date": "2026-08-12",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2608.12088"
+  },
+  "arxiv:2611.06123": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06123"
+  },
+  "arxiv:2606.11156": {
+    "date": "2026-06-09",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2606.11156"
+  },
+  "arxiv:2611.07553": {
+    "date": "2026-11-05",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07553"
+  },
+  "arxiv:2610.41260": {
+    "date": "2026-10-30",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.41260"
+  },
+  "arxiv:2611.04524": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04524"
+  },
+  "arxiv:2512.00557": {
+    "date": "2025-11-29",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2512.00557"
+  },
+  "arxiv:2611.02366": {
+    "date": "2026-11-02",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.02366"
+  },
+  "arxiv:2611.05280": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.05280"
+  },
+  "arxiv:2611.04416": {
+    "date": "2026-11-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.04416"
+  },
+  "arxiv:2610.41210": {
+    "date": "2026-10-30",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.41210"
+  },
+  "arxiv:2608.01896": {
+    "date": "2026-08-03",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2608.01896"
+  },
+  "arxiv:2610.31323": {
+    "date": "2026-10-22",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2610.31323"
+  },
+  "arxiv:2611.06540": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.06540"
+  },
+  "arxiv:2605.03830": {
+    "date": "2026-05-05",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2605.03830"
+  },
+  "arxiv:2611.00551": {
+    "date": "2026-10-31",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.00551"
+  },
+  "arxiv:2611.00245": {
+    "date": "2026-10-30",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.00245"
+  },
+  "arxiv:2611.07055": {
+    "date": "2026-11-04",
+    "basis": "first-arxiv-submission",
+    "source": "https://arxiv.org/abs/2611.07055"
   }
 }

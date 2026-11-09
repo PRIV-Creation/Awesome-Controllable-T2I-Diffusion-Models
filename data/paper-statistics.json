@@ -1,41 +1,41 @@
 {
-  "as_of": "2026-11-02",
-  "unique_papers": 1323,
-  "category_entries": 1342,
+  "as_of": "2026-11-09",
+  "unique_papers": 1377,
+  "category_entries": 1396,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
     "2023": 146,
     "2024": 303,
-    "2025": 466,
-    "2026": 395
+    "2025": 468,
+    "2026": 447
   },
   "by_category": {
-    "Advanced Text-Conditioned Generation": 146,
-    "Analysis and Evaluation": 80,
+    "Advanced Text-Conditioned Generation": 155,
+    "Analysis and Evaluation": 91,
     "Attention-based Integration": 17,
-    "Brain-Guided Generation": 26,
+    "Brain-Guided Generation": 29,
     "Continual Learning": 16,
-    "Distribution-Driven Generation": 20,
+    "Distribution-Driven Generation": 25,
     "Guidance Composition": 21,
-    "Image-Driven Generation": 77,
+    "Image-Driven Generation": 81,
     "In-Context Generation": 29,
     "Interaction-Driven Generation": 21,
     "Joint Training": 44,
-    "Person-Driven Generation": 110,
+    "Person-Driven Generation": 111,
     "Preference-Driven Generation": 13,
     "Sound-Guided Generation": 7,
-    "Spatial Control": 240,
-    "Style-Driven Generation": 112,
+    "Spatial Control": 250,
+    "Style-Driven Generation": 117,
     "Subject-Driven Generation": 210,
-    "Text Rendering": 62,
-    "Universal Condition-Guided Score Estimation": 16,
-    "Universal Conditional Score Prediction": 55,
-    "Weight Fusion": 20
+    "Text Rendering": 63,
+    "Universal Condition-Guided Score Estimation": 19,
+    "Universal Conditional Score Prediction": 56,
+    "Weight Fusion": 21
   },
   "date_basis": {
-    "first-arxiv-submission": 1207,
+    "first-arxiv-submission": 1261,
     "venue-year-without-arxiv": 116
   },
-  "readme_sha256": "2503291c1527040917fd8448e58ed8b62f50eaedfa520278edd8ca66140ff294"
+  "readme_sha256": "71a1cbec26c920582727723107ec4dc90327b3c80e9765cf735cfd8f1718d2b5"
 }

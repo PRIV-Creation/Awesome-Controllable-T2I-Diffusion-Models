@@ -1,41 +1,41 @@
 {
-  "as_of": "2026-11-09",
-  "unique_papers": 1377,
-  "category_entries": 1396,
+  "as_of": "2026-11-16",
+  "unique_papers": 1412,
+  "category_entries": 1431,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
     "2023": 146,
-    "2024": 303,
-    "2025": 468,
-    "2026": 447
+    "2024": 305,
+    "2025": 470,
+    "2026": 478
   },
   "by_category": {
-    "Advanced Text-Conditioned Generation": 155,
-    "Analysis and Evaluation": 91,
+    "Advanced Text-Conditioned Generation": 159,
+    "Analysis and Evaluation": 99,
     "Attention-based Integration": 17,
-    "Brain-Guided Generation": 29,
+    "Brain-Guided Generation": 30,
     "Continual Learning": 16,
-    "Distribution-Driven Generation": 25,
-    "Guidance Composition": 21,
-    "Image-Driven Generation": 81,
-    "In-Context Generation": 29,
+    "Distribution-Driven Generation": 27,
+    "Guidance Composition": 22,
+    "Image-Driven Generation": 85,
+    "In-Context Generation": 30,
     "Interaction-Driven Generation": 21,
     "Joint Training": 44,
-    "Person-Driven Generation": 111,
+    "Person-Driven Generation": 112,
     "Preference-Driven Generation": 13,
     "Sound-Guided Generation": 7,
-    "Spatial Control": 250,
-    "Style-Driven Generation": 117,
-    "Subject-Driven Generation": 210,
-    "Text Rendering": 63,
-    "Universal Condition-Guided Score Estimation": 19,
-    "Universal Conditional Score Prediction": 56,
+    "Spatial Control": 253,
+    "Style-Driven Generation": 122,
+    "Subject-Driven Generation": 209,
+    "Text Rendering": 64,
+    "Universal Condition-Guided Score Estimation": 23,
+    "Universal Conditional Score Prediction": 57,
     "Weight Fusion": 21
   },
   "date_basis": {
-    "first-arxiv-submission": 1261,
-    "venue-year-without-arxiv": 116
+    "first-arxiv-submission": 1297,
+    "venue-year-without-arxiv": 115
   },
-  "readme_sha256": "71a1cbec26c920582727723107ec4dc90327b3c80e9765cf735cfd8f1718d2b5"
+  "readme_sha256": "5d0241b2e710f9d5a333bf61ea720fe267610e6bffeb2e3fde5bc36d863bf458"
 }

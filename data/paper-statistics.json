@@ -1,41 +1,41 @@
 {
-  "as_of": "2026-11-16",
-  "unique_papers": 1412,
-  "category_entries": 1431,
+  "as_of": "2026-11-23",
+  "unique_papers": 1492,
+  "category_entries": 1511,
   "cross_listed_entries": 19,
   "by_year": {
     "2022": 13,
     "2023": 146,
-    "2024": 305,
-    "2025": 470,
-    "2026": 478
+    "2024": 306,
+    "2025": 474,
+    "2026": 553
   },
   "by_category": {
-    "Advanced Text-Conditioned Generation": 159,
-    "Analysis and Evaluation": 99,
+    "Advanced Text-Conditioned Generation": 172,
+    "Analysis and Evaluation": 116,
     "Attention-based Integration": 17,
-    "Brain-Guided Generation": 30,
+    "Brain-Guided Generation": 33,
     "Continual Learning": 16,
-    "Distribution-Driven Generation": 27,
-    "Guidance Composition": 22,
-    "Image-Driven Generation": 85,
-    "In-Context Generation": 30,
+    "Distribution-Driven Generation": 34,
+    "Guidance Composition": 23,
+    "Image-Driven Generation": 98,
+    "In-Context Generation": 31,
     "Interaction-Driven Generation": 21,
     "Joint Training": 44,
-    "Person-Driven Generation": 112,
+    "Person-Driven Generation": 113,
     "Preference-Driven Generation": 13,
     "Sound-Guided Generation": 7,
-    "Spatial Control": 253,
-    "Style-Driven Generation": 122,
+    "Spatial Control": 262,
+    "Style-Driven Generation": 124,
     "Subject-Driven Generation": 209,
-    "Text Rendering": 64,
-    "Universal Condition-Guided Score Estimation": 23,
-    "Universal Conditional Score Prediction": 57,
-    "Weight Fusion": 21
+    "Text Rendering": 67,
+    "Universal Condition-Guided Score Estimation": 29,
+    "Universal Conditional Score Prediction": 59,
+    "Weight Fusion": 23
   },
   "date_basis": {
-    "first-arxiv-submission": 1297,
-    "venue-year-without-arxiv": 115
+    "first-arxiv-submission": 1378,
+    "venue-year-without-arxiv": 114
   },
-  "readme_sha256": "5d0241b2e710f9d5a333bf61ea720fe267610e6bffeb2e3fde5bc36d863bf458"
+  "readme_sha256": "cbe2607e72714aa61f927df28b2f22a549a766e3430ef8013c8bb6f627326e66"
 }
